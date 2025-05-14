@@ -843,9 +843,9 @@
 7	fast	O	O	-
 8	bokmeldar	O	O	-
 9	for	O	O	-
-10	Dag	O	B-PROD	-
-11	og	O	I-PROD	-
-12	Tid	O	I-PROD	-
+10	Dag	B-OTH	B-PROD	-
+11	og	I-OTH	I-PROD	-
+12	Tid	I-OTH	I-PROD	-
 13	.	O	O	-
 
 # newpar
@@ -874,7 +874,7 @@
 6	i	O	O	-
 7	Telenor	B-ORG	B-ORG	-
 8	til	O	O	-
-9	Dagsrevyen	O	B-PROD	-
+9	Dagsrevyen	B-OTH	B-PROD	-
 10	.	O	O	-
 
 # newpar
@@ -1360,7 +1360,7 @@
 6	er	O	O	-
 7	fullt	O	O	-
 8	av	O	O	-
-9	EPA	O	B-MISC	-
+9	EPA	B-OTH	B-MISC	-
 10	(	O	O	-
 11	feittsyre	O	O	-
 12	som	O	O	-
@@ -1490,8 +1490,8 @@
 13	er	O	O	-
 14	dysleksi	O	O	-
 15	og	O	O	-
-16	Parkinsons	O	B-MISC	-
-17	sjukdom	O	I-MISC	-
+16	Parkinsons	B-OTH	B-MISC	-
+17	sjukdom	I-OTH	I-MISC	-
 18	.	O	O	-
 
 # sent_id = 016172
@@ -1849,7 +1849,7 @@
 6	det	O	O	-
 7	står	O	O	-
 8	på	O	O	-
-9	Wikipedia	O	B-PROD	-
+9	Wikipedia	B-OTH	B-PROD	-
 10	,	O	O	-
 11	«	O	O	-
 12	er	O	O	-
@@ -1891,9 +1891,9 @@
 7	ein	O	O	-
 8	artikkel	O	O	-
 9	i	O	O	-
-10	The	O	B-PROD	-
-11	Sunday	O	I-PROD	-
-12	Times	O	I-PROD	-
+10	The	B-OTH	B-PROD	-
+11	Sunday	I-OTH	I-PROD	-
+12	Times	I-OTH	I-PROD	-
 13	.	O	O	-
 
 # sent_id = 016192
@@ -2138,28 +2138,28 @@
 # text = Ho heiter Man and Morals. An Inquiry into the Maltreatment of Non-humans (Menneske og moral. Ei gransking av misbruk av ikkje-menneske).
 1	Ho	O	O	-
 2	heiter	O	O	-
-3	Man	O	B-PROD	-
-4	and	O	I-PROD	-
-5	Morals	O	I-PROD	-
-6	.	O	I-PROD	-
-7	An	O	I-PROD	-
-8	Inquiry	O	I-PROD	-
-9	into	O	I-PROD	-
-10	the	O	I-PROD	-
-11	Maltreatment	O	I-PROD	-
-12	of	O	I-PROD	-
-13	Non-humans	O	I-PROD	-
+3	Man	B-OTH	B-PROD	-
+4	and	I-OTH	I-PROD	-
+5	Morals	I-OTH	I-PROD	-
+6	.	I-OTH	I-PROD	-
+7	An	I-OTH	I-PROD	-
+8	Inquiry	I-OTH	I-PROD	-
+9	into	I-OTH	I-PROD	-
+10	the	I-OTH	I-PROD	-
+11	Maltreatment	I-OTH	I-PROD	-
+12	of	I-OTH	I-PROD	-
+13	Non-humans	I-OTH	I-PROD	-
 14	(	O	O	-
-15	Menneske	O	B-PROD	-
-16	og	O	I-PROD	-
-17	moral	O	I-PROD	-
-18	.	O	I-PROD	-
-19	Ei	O	I-PROD	-
-20	gransking	O	I-PROD	-
-21	av	O	I-PROD	-
-22	misbruk	O	I-PROD	-
-23	av	O	I-PROD	-
-24	ikkje-menneske	O	I-PROD	-
+15	Menneske	B-OTH	B-PROD	-
+16	og	I-OTH	I-PROD	-
+17	moral	I-OTH	I-PROD	-
+18	.	I-OTH	I-PROD	-
+19	Ei	I-OTH	I-PROD	-
+20	gransking	I-OTH	I-PROD	-
+21	av	I-OTH	I-PROD	-
+22	misbruk	I-OTH	I-PROD	-
+23	av	I-OTH	I-PROD	-
+24	ikkje-menneske	I-OTH	I-PROD	-
 25	)	O	O	-
 26	.	O	O	-
 
@@ -3539,8 +3539,8 @@
 18	ulike	O	O	-
 19	modellar	O	O	-
 20	på	O	O	-
-21	Parkinsons	O	B-MISC	-
-22	sjukdom	O	I-MISC	-
+21	Parkinsons	B-OTH	B-MISC	-
+22	sjukdom	I-OTH	I-MISC	-
 23	.	O	O	-
 
 # sent_id = 016272
@@ -3553,7 +3553,7 @@
 6	mild	O	O	-
 7	versjon	O	O	-
 8	av	O	O	-
-9	Parkinsons	O	B-MISC	-
+9	Parkinsons	B-OTH	B-MISC	-
 10	.	O	O	-
 
 # sent_id = 016273
@@ -3601,7 +3601,7 @@
 8	stoff	O	O	-
 9	som	O	O	-
 10	heiter	O	O	-
-11	MPTP	O	B-MISC	-
+11	MPTP	B-OTH	B-MISC	-
 12	.	O	O	-
 
 # sent_id = 016277
@@ -3725,7 +3725,7 @@
 4	hadde	O	O	-
 5	han	O	O	-
 6	utvikla	O	O	-
-7	Parkinsons	O	B-MISC	-
+7	Parkinsons	B-OTH	B-MISC	-
 8	.	O	O	-
 
 # sent_id = 016284
@@ -3737,7 +3737,7 @@
 5	andre	O	O	-
 6	studentar	O	O	-
 7	òg	O	O	-
-8	Parkinsons	O	B-MISC	-
+8	Parkinsons	B-OTH	B-MISC	-
 9	,	O	O	-
 10	noko	O	O	-
 11	som	O	O	-
@@ -3808,12 +3808,12 @@
 8	ved	O	O	-
 9	å	O	O	-
 10	nytta	O	O	-
-11	Levo-dopa	O	B-PROD	-
+11	Levo-dopa	B-OTH	B-PROD	-
 12	,	O	O	-
 13	ein	O	O	-
 14	medisin	O	O	-
 15	mot	O	O	-
-16	Parkinsons	O	B-MISC	-
+16	Parkinsons	B-OTH	B-MISC	-
 17	.	O	O	-
 
 # sent_id = 016288
@@ -3871,7 +3871,7 @@
 
 # sent_id = 016291
 # text = Parkinsons bryt ned dei same cellene hjå menneske.
-1	Parkinsons	O	B-MISC	-
+1	Parkinsons	B-OTH	B-MISC	-
 2	bryt	O	O	-
 3	ned	O	O	-
 4	dei	O	O	-
@@ -3939,7 +3939,7 @@
 25	forskinga	O	O	-
 26	si	O	O	-
 27	på	O	O	-
-28	Parkinsons	O	B-MISC	-
+28	Parkinsons	B-OTH	B-MISC	-
 29	.	O	O	-
 
 # sent_id = 016294
@@ -3962,7 +3962,7 @@
 16	å	O	O	-
 17	utvikla	O	O	-
 18	mild	O	O	-
-19	Parkinsons	O	B-MISC	-
+19	Parkinsons	B-OTH	B-MISC	-
 20	.	O	O	-
 
 # sent_id = 016295
@@ -4001,7 +4001,7 @@
 18	av	O	O	-
 19	symptoma	O	O	-
 20	på	O	O	-
-21	Parkinsons	O	B-MISC	-
+21	Parkinsons	B-OTH	B-MISC	-
 22	,	O	O	-
 23	den	O	O	-
 24	vantande	O	O	-
@@ -4032,14 +4032,14 @@
 # text = Jamvel om Parkinsons-pasientar kan verta hjelpte ved bruk av Levo-dopa, syner det seg at det medikamentet sluttar å ha ein effekt hjå eit fleirtal av pasientane etter nokre år.
 1	Jamvel	O	O	-
 2	om	O	O	-
-3	Parkinsons-pasientar	-	B-DRV	-
+3	Parkinsons-pasientar	B-OTH	B-DRV	-
 4	kan	O	O	-
 5	verta	O	O	-
 6	hjelpte	O	O	-
 7	ved	O	O	-
 8	bruk	O	O	-
 9	av	O	O	-
-10	Levo-dopa	O	B-PROD	-
+10	Levo-dopa	B-OTH	B-PROD	-
 11	,	O	O	-
 12	syner	O	O	-
 13	det	O	O	-
@@ -4614,7 +4614,7 @@
 7	brev	O	O	-
 8	fylte	O	O	-
 9	med	O	O	-
-10	HIV-infiserte	-	B-DRV	-
+10	HIV-infiserte	B-OTH	B-DRV	-
 11	barberblad	O	O	-
 12	har	O	O	-
 13	vorte	O	O	-
@@ -4855,7 +4855,7 @@
 16	dei	O	O	-
 17	mest	O	O	-
 18	kjende	O	O	-
-19	Labour-politikarane	-	B-DRV	-
+19	Labour-politikarane	B-OTH	B-DRV	-
 20	dei	O	O	-
 21	siste	O	O	-
 22	seksti	O	O	-
@@ -4883,7 +4883,7 @@
 7	med	O	O	-
 8	seg	O	O	-
 9	ein	O	O	-
-10	Parkinsons-pasient	-	B-DRV	-
+10	Parkinsons-pasient	B-OTH	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 016340
@@ -5708,7 +5708,7 @@
 8	finansiera	O	O	-
 9	forskinga	O	O	-
 10	på	O	O	-
-11	Parkinsons	O	B-MISC	-
+11	Parkinsons	B-OTH	B-MISC	-
 12	,	O	O	-
 13	ei	O	O	-
 14	liding	O	O	-
@@ -5842,8 +5842,8 @@
 23	liv	O	O	-
 24	,	O	O	-
 25	kunne	O	O	-
-26	The	O	B-PROD	-
-27	Guardian	O	I-PROD	-
+26	The	B-OTH	B-PROD	-
+27	Guardian	I-OTH	I-PROD	-
 28	fortelja	O	O	-
 29	for	O	O	-
 30	tre	O	O	-
@@ -5935,8 +5935,8 @@
 5	det	O	O	-
 6	tyske	O	O	-
 7	tidsskriftet	O	O	-
-8	Internationale	O	B-PROD	-
-9	Politik	O	I-PROD	-
+8	Internationale	B-OTH	B-PROD	-
+9	Politik	I-OTH	I-PROD	-
 10	varsla	O	O	-
 11	nyleg	O	O	-
 12	sjefsøkonom	O	O	-
@@ -5969,9 +5969,9 @@
 
 # sent_id = 016397
 # text = World Energy Outlook, den årlege publikasjonen frå IEA, spår i 2007-utgåva at oljeutvinninga kan falle med rundt 4 prosent i året.
-1	World	O	B-PROD	-
-2	Energy	O	I-PROD	-
-3	Outlook	O	I-PROD	-
+1	World	B-OTH	B-PROD	-
+2	Energy	I-OTH	I-PROD	-
+3	Outlook	I-OTH	I-PROD	-
 4	,	O	O	-
 5	den	O	O	-
 6	årlege	O	O	-
@@ -6383,7 +6383,7 @@
 12	i	O	O	-
 13	salongane	O	O	-
 14	på	O	O	-
-15	Titanic	O	B-PROD	-
+15	Titanic	B-OTH	B-PROD	-
 16	:	O	O	-
 
 # sent_id = 016419
@@ -6955,7 +6955,7 @@
 12	fortel	O	O	-
 13	den	O	O	-
 14	nordiske	O	O	-
-15	Kraftjournalen	O	B-PROD	-
+15	Kraftjournalen	B-OTH	B-PROD	-
 16	.	O	O	-
 
 # sent_id = 016450
@@ -7416,7 +7416,7 @@
 18	på	O	O	-
 19	dekket	O	O	-
 20	av	O	O	-
-21	Titanic	O	B-PROD	-
+21	Titanic	B-OTH	B-PROD	-
 22	.	O	O	-
 
 # sent_id = 016474
@@ -8479,7 +8479,7 @@
 
 # sent_id = 016536
 # text = Tromsø-saka er i utgangspunktet ei fillesak.
-1	Tromsø-saka	O	B-EVT	-
+1	Tromsø-saka	B-OTH	B-EVT	-
 2	er	O	O	-
 3	i	O	O	-
 4	utgangspunktet	O	O	-
@@ -8519,7 +8519,7 @@
 # sent_id = 016538
 # text = Og VG hevdar at Jonas Gahr Støre har sendt ein SMS som provar at han engasjerte seg for Tromsø som OL-by.
 1	Og	O	O	-
-2	VG	O	B-PROD	-
+2	VG	B-OTH	B-PROD	-
 3	hevdar	O	O	-
 4	at	O	O	-
 5	Jonas	B-PER	B-PER	-
@@ -8575,7 +8575,7 @@
 4	òg	O	O	-
 5	gjera	O	O	-
 6	med	O	O	-
-7	Haga-saka	O	B-EVT	-
+7	Haga-saka	B-OTH	B-EVT	-
 8	.	O	O	-
 
 # sent_id = 016542
@@ -8607,13 +8607,13 @@
 3	ein	O	O	-
 4	TV-debatt	O	O	-
 5	på	O	O	-
-6	NRK	O	B-PROD	-
+6	NRK	B-OTH	B-PROD	-
 7	17.	O	O	-
 8	februar	O	O	-
 9	i	O	O	-
 10	fjor	O	O	-
 11	får	O	O	-
-12	Brennpunkt-redaksjonen	-	B-DRV	-
+12	Brennpunkt-redaksjonen	B-OTH	B-DRV	-
 13	fram	O	O	-
 14	at	O	O	-
 15	ho	O	O	-
@@ -9022,9 +9022,9 @@
 4	til	O	O	-
 5	OL	O	O	-
 6	er	O	O	-
-7	NM	O	B-EVT	-
-8	i	O	I-EVT	-
-9	Stokke	O	I-EVT	-
+7	NM	B-OTH	B-EVT	-
+8	i	I-OTH	I-EVT	-
+9	Stokke	I-OTH	I-EVT	-
 10	seinare	O	O	-
 11	denne	O	O	-
 12	veka	O	O	-
@@ -9755,7 +9755,7 @@
 2	Jølster	B-ORG	B-GPE_ORG	-
 3	bør	O	O	-
 4	kjøpe	O	O	-
-5	Apneseth-samlinga	-	B-DRV	-
+5	Apneseth-samlinga	B-OTH	B-DRV	-
 
 # sent_id = 016608
 # text = - Jølster kommune bør sikre seg Oddleif Apneseth si unike fotosamling, seier Dagunn Klakegg i Førde.
@@ -9782,7 +9782,7 @@
 # sent_id = 016609
 # text = Men Jølster-ordføraren tvilar sterkt på om kommunen har råd.
 1	Men	O	O	-
-2	Jølster-ordføraren	-	B-DRV	-
+2	Jølster-ordføraren	B-OTH	B-DRV	-
 3	tvilar	O	O	-
 4	sterkt	O	O	-
 5	på	O	O	-
@@ -10594,8 +10594,8 @@
 15	ikkje	O	O	-
 16	påvist	O	O	-
 17	laksedreparen	O	O	-
-18	Gyrodactylus	O	B-MISC	-
-19	salaris	O	I-MISC	-
+18	Gyrodactylus	B-OTH	B-MISC	-
+19	salaris	I-OTH	I-MISC	-
 20	.	O	O	-
 
 # sent_id = 016657
@@ -10935,7 +10935,7 @@
 1	Fekk	O	O	-
 2	ikkje	O	O	-
 3	rigge	O	O	-
-4	MGP	O	B-EVT	-
+4	MGP	B-OTH	B-EVT	-
 5	-	O	O	-
 6	fordi	O	O	-
 7	dei	O	O	-
@@ -10975,8 +10975,8 @@
 16	rigge	O	O	-
 17	opp	O	O	-
 18	til	O	O	-
-19	MGP	O	B-EVT	-
-20	delfinalen	O	I-EVT	-
+19	MGP	B-OTH	B-EVT	-
+20	delfinalen	I-OTH	I-EVT	-
 21	i	O	O	-
 22	Florø	B-LOC	B-LOC	-
 23	.	O	O	-
@@ -11070,7 +11070,7 @@
 15	den	O	O	-
 16	mykje	O	O	-
 17	omtala	O	O	-
-18	MGP-delfinalen	O	B-EVT	-
+18	MGP-delfinalen	B-OTH	B-EVT	-
 19	i	O	O	-
 20	Florø	B-LOC	B-LOC	-
 21	,	O	O	-
@@ -11464,10 +11464,10 @@
 7	døra	O	O	-
 8	via	O	O	-
 9	ordninga	O	O	-
-10	Heim	O	B-PROD	-
-11	for	O	I-PROD	-
-12	ein	O	I-PROD	-
-13	50-lapp	O	I-PROD	-
+10	Heim	B-OTH	B-PROD	-
+11	for	I-OTH	I-PROD	-
+12	ein	I-OTH	I-PROD	-
+13	50-lapp	I-OTH	I-PROD	-
 14	.	O	O	-
 
 # sent_id = 016707
@@ -11508,11 +11508,11 @@
 19	Eikefjord	B-LOC	B-LOC	-
 20	med	O	O	-
 21	tilbodet	O	O	-
-22	Trygt	O	B-PROD	-
-23	heim	O	I-PROD	-
-24	for	O	I-PROD	-
-25	ein	O	I-PROD	-
-26	50-lapp	O	I-PROD	-
+22	Trygt	B-OTH	B-PROD	-
+23	heim	I-OTH	I-PROD	-
+24	for	I-OTH	I-PROD	-
+25	ein	I-OTH	I-PROD	-
+26	50-lapp	I-OTH	I-PROD	-
 27	.	O	O	-
 
 # newpar
@@ -11563,11 +11563,11 @@
 22	fylkeskommunale	O	O	-
 23	tilbodet	O	O	-
 24	«	O	O	-
-25	Trygt	O	B-PROD	-
-26	heim	O	I-PROD	-
-27	for	O	I-PROD	-
-28	ein	O	I-PROD	-
-29	50-lapp	O	I-PROD	-
+25	Trygt	B-OTH	B-PROD	-
+26	heim	I-OTH	I-PROD	-
+27	for	I-OTH	I-PROD	-
+28	ein	I-OTH	I-PROD	-
+29	50-lapp	I-OTH	I-PROD	-
 30	»	O	O	-
 31	.	O	O	-
 
@@ -11658,7 +11658,7 @@
 # sent_id = 016716
 # text = På Fjordaglimt under artikkelen går debatten etter festopplevinga til dei to unge gutane.
 1	På	O	O	-
-2	Fjordaglimt	O	B-PROD	-
+2	Fjordaglimt	B-OTH	B-PROD	-
 3	under	O	O	-
 4	artikkelen	O	O	-
 5	går	O	O	-
@@ -11775,7 +11775,7 @@
 27	Niklas	B-PER	B-PER	-
 28	Veiesund	I-PER	I-PER	-
 29	via	O	O	-
-30	Origo-sona	O	B-PROD	-
+30	Origo-sona	B-OTH	B-PROD	-
 31	.	O	O	-
 
 # sent_id = 016724
@@ -12042,7 +12042,7 @@
 # text = Del på Origo
 1	Del	O	O	-
 2	på	O	O	-
-3	Origo	O	B-PROD	-
+3	Origo	B-OTH	B-PROD	-
 
 # sent_id = 016741
 # text = Del
@@ -12066,9 +12066,9 @@
 # newpar
 # sent_id = 016744
 # text = Naust på Styvi (biletet) er blant dei seks prosjekta som får pengar.
-1	Naust	O	B-PROD	-
-2	på	O	I-PROD	-
-3	Styvi	O	I-PROD	-
+1	Naust	B-OTH	B-PROD	-
+2	på	I-OTH	I-PROD	-
+3	Styvi	I-OTH	I-PROD	-
 4	(	O	O	-
 5	biletet	O	O	-
 6	)	O	O	-
@@ -12132,29 +12132,29 @@
 # sent_id = 016748
 # text = - Løe og stabbur på Nedbergo - Naust på Styvi - Løe på Skau i Fresvik - Husmannsplassen Hestaskår i Luster - SS Svanhild.
 1	-	O	O	-
-2	Løe	O	B-PROD	-
-3	og	O	I-PROD	-
-4	stabbur	O	I-PROD	-
-5	på	O	I-PROD	-
-6	Nedbergo	O	I-PROD	-
+2	Løe	B-OTH	B-PROD	-
+3	og	I-OTH	I-PROD	-
+4	stabbur	I-OTH	I-PROD	-
+5	på	I-OTH	I-PROD	-
+6	Nedbergo	I-OTH	I-PROD	-
 7	-	O	O	-
-8	Naust	O	B-PROD	-
-9	på	O	I-PROD	-
-10	Styvi	O	I-PROD	-
+8	Naust	B-OTH	B-PROD	-
+9	på	I-OTH	I-PROD	-
+10	Styvi	I-OTH	I-PROD	-
 11	-	O	O	-
-12	Løe	O	B-PROD	-
-13	på	O	I-PROD	-
-14	Skau	O	I-PROD	-
-15	i	O	I-PROD	-
-16	Fresvik	O	I-PROD	-
+12	Løe	B-OTH	B-PROD	-
+13	på	I-OTH	I-PROD	-
+14	Skau	I-OTH	I-PROD	-
+15	i	I-OTH	I-PROD	-
+16	Fresvik	I-OTH	I-PROD	-
 17	-	O	O	-
-18	Husmannsplassen	O	B-PROD	-
-19	Hestaskår	O	I-PROD	-
-20	i	O	I-PROD	-
-21	Luster	O	I-PROD	-
+18	Husmannsplassen	B-OTH	B-PROD	-
+19	Hestaskår	I-OTH	I-PROD	-
+20	i	I-OTH	I-PROD	-
+21	Luster	I-OTH	I-PROD	-
 22	-	O	O	-
-23	SS	O	B-PROD	-
-24	Svanhild	O	I-PROD	-
+23	SS	B-OTH	B-PROD	-
+24	Svanhild	I-OTH	I-PROD	-
 25	.	O	O	-
 
 # sent_id = 016749
@@ -12224,7 +12224,7 @@
 3	meining	O	O	-
 4	om	O	O	-
 5	nye	O	O	-
-6	firda.no	O	B-PROD	-
+6	firda.no	B-OTH	B-PROD	-
 
 # newpar
 # sent_id = 016753
@@ -12232,7 +12232,7 @@
 1	Tysdag	O	O	-
 2	føremiddag	O	O	-
 3	kom	O	O	-
-4	firda.no	O	B-PROD	-
+4	firda.no	B-OTH	B-PROD	-
 5	i	O	O	-
 6	heilt	O	O	-
 7	ny	O	O	-
@@ -12245,7 +12245,7 @@
 2	Media	I-ORG	I-ORG	-
 3	sin	O	O	-
 4	nettstad	O	O	-
-5	firda.no	O	B-PROD	-
+5	firda.no	B-OTH	B-PROD	-
 6	og	O	O	-
 7	resten	O	O	-
 8	av	O	O	-
@@ -12327,7 +12327,7 @@
 6	og	O	O	-
 7	linken	O	O	-
 8	til	O	O	-
-9	Firda	O	B-PROD	-
+9	Firda	B-OTH	B-PROD	-
 10	som	O	O	-
 11	eavis	O	O	-
 12	flytta	O	O	-
@@ -12377,7 +12377,7 @@
 # text = Nok eit Eras-utslepp
 1	Nok	O	O	-
 2	eit	O	O	-
-3	Eras-utslepp	-	B-DRV	-
+3	Eras-utslepp	B-OTH	B-DRV	-
 
 # newpar
 # sent_id = 016761
@@ -12406,8 +12406,8 @@
 9	ettermiddag	O	O	-
 10	,	O	O	-
 11	ifølgje	O	O	-
-12	Ytre	O	B-PROD	-
-13	Sogn	O	I-PROD	-
+12	Ytre	B-OTH	B-PROD	-
+13	Sogn	I-OTH	I-PROD	-
 14	.	O	O	-
 
 # sent_id = 016763
@@ -12435,8 +12435,8 @@
 4	,	O	O	-
 5	ifølgje	O	O	-
 6	lokalavisa	O	O	-
-7	Ytre	O	B-PROD	-
-8	Sogn	O	I-PROD	-
+7	Ytre	B-OTH	B-PROD	-
+8	Sogn	I-OTH	I-PROD	-
 9	,	O	O	-
 10	over	O	O	-
 11	heile	O	O	-
@@ -12731,7 +12731,7 @@
 4	i	O	O	-
 5	2005	O	O	-
 6	var	O	O	-
-7	Idol-deltakar	-	B-DRV	-
+7	Idol-deltakar	B-OTH	B-DRV	-
 8	,	O	O	-
 9	er	O	O	-
 10	spesielt	O	O	-
@@ -13176,7 +13176,7 @@
 # text = Del på Origo
 1	Del	O	O	-
 2	på	O	O	-
-3	Origo	O	B-PROD	-
+3	Origo	B-OTH	B-PROD	-
 
 # sent_id = 016811
 # text = Del
@@ -13890,7 +13890,7 @@
 18	snøvêr	O	O	-
 19	,	O	O	-
 20	oppfordrar	O	O	-
-21	Gjensidige-sjefen	-	B-DRV	-
+21	Gjensidige-sjefen	B-OTH	B-DRV	-
 22	.	O	O	-
 
 # sent_id = 016851
@@ -14158,7 +14158,7 @@
 # sent_id = 016862
 # text = «Terminator» var det fyrste samarbeidsprosjektet til dei unge filmskaparane James Cameron (regissør) og Gale Anne Hurd (produsent og medmanusforfattar).
 1	«	O	O	-
-2	Terminator	O	B-PROD	-
+2	Terminator	B-OTH	B-PROD	-
 3	»	O	O	-
 4	var	O	O	-
 5	det	O	O	-
@@ -14252,9 +14252,9 @@
 15	debuterte	O	O	-
 16	med	O	O	-
 17	«	O	O	-
-18	Piranha	O	B-PROD	-
-19	Part	O	I-PROD	-
-20	Two	O	I-PROD	-
+18	Piranha	B-OTH	B-PROD	-
+19	Part	I-OTH	I-PROD	-
+20	Two	I-OTH	I-PROD	-
 21	»	O	O	-
 22	)	O	O	-
 23	,	O	O	-
@@ -14312,7 +14312,7 @@
 17	prega	O	O	-
 18	dei	O	O	-
 19	seinare	O	O	-
-20	Cameron-filmane	-	B-DRV	-
+20	Cameron-filmane	B-OTH	B-DRV	-
 21	,	O	O	-
 22	blir	O	O	-
 23	det	O	O	-
@@ -14328,7 +14328,7 @@
 # sent_id = 016868
 # text = «Terminator» er amoralsk, blodig råskap med høg «body count» .
 1	«	O	O	-
-2	Terminator	O	B-PROD	-
+2	Terminator	B-OTH	B-PROD	-
 3	»	O	O	-
 4	er	O	O	-
 5	amoralsk	O	O	-
@@ -14358,11 +14358,11 @@
 # text = I «Terminator 2: Judgment Day» har det skjedd store endringar.
 1	I	O	O	-
 2	«	O	O	-
-3	Terminator	O	B-PROD	-
-4	2	O	I-PROD	-
-5	:	O	I-PROD	-
-6	Judgment	O	I-PROD	-
-7	Day	O	I-PROD	-
+3	Terminator	B-OTH	B-PROD	-
+4	2	I-OTH	I-PROD	-
+5	:	I-OTH	I-PROD	-
+6	Judgment	I-OTH	I-PROD	-
+7	Day	I-OTH	I-PROD	-
 8	»	O	O	-
 9	har	O	O	-
 10	det	O	O	-
@@ -14385,13 +14385,13 @@
 10	Camerons	B-PER	B-PER	-
 11	krigssciencefiction	O	O	-
 12	«	O	O	-
-13	Aliens	O	B-PROD	-
+13	Aliens	B-OTH	B-PROD	-
 14	»	O	O	-
 15	og	O	O	-
 16	undervassforskingsdrama	O	O	-
 17	«	O	O	-
-18	The	O	B-PROD	-
-19	Abyss	O	I-PROD	-
+18	The	B-OTH	B-PROD	-
+19	Abyss	I-OTH	I-PROD	-
 20	»	O	O	-
 21	.	O	O	-
 
@@ -14514,8 +14514,8 @@
 # sent_id = 016877
 # text = «Terminator 2» var då også historias dyraste film i 1991.
 1	«	O	O	-
-2	Terminator	O	B-PROD	-
-3	2	O	I-PROD	-
+2	Terminator	B-OTH	B-PROD	-
+3	2	I-OTH	I-PROD	-
 4	»	O	O	-
 5	var	O	O	-
 6	då	O	O	-
@@ -14604,7 +14604,7 @@
 15	oppgraderte	O	O	-
 16	modellen	O	O	-
 17	«	O	O	-
-18	T-1000	O	B-PROD	-
+18	T-1000	B-OTH	B-PROD	-
 19	»	O	O	-
 20	.	O	O	-
 
@@ -14789,8 +14789,8 @@
 13	,	O	O	-
 14	men	O	O	-
 15	«	O	O	-
-16	Terminator	O	B-PROD	-
-17	2	O	I-PROD	-
+16	Terminator	B-OTH	B-PROD	-
+17	2	I-OTH	I-PROD	-
 18	»	O	O	-
 19	er	O	O	-
 20	gjennomsyra	O	O	-
@@ -14799,7 +14799,7 @@
 23	same	O	O	-
 24	familieverdiane	O	O	-
 25	som	O	O	-
-26	Hollywood-filmar	-	B-DRV	-
+26	Hollywood-filmar	B-OTH	B-DRV	-
 27	mest	O	O	-
 28	alltid	O	O	-
 29	er	O	O	-
@@ -14841,7 +14841,7 @@
 3	regel	O	O	-
 4	som	O	O	-
 5	omfattar	O	O	-
-6	Disney-klamorama	-	B-DRV	-
+6	Disney-klamorama	B-OTH	B-DRV	-
 7	for	O	O	-
 8	dei	O	O	-
 9	under	O	O	-
@@ -14850,11 +14850,11 @@
 12	så	O	O	-
 13	vel	O	O	-
 14	som	O	O	-
-15	«	-	B-DRV	-
-16	Face	O	I-DRV	-
-17	Off	O	I-DRV	-
-18	»	O	I-DRV	-
-19	-valdsorgier	O	I-DRV	-
+15	«	B-OTH	B-DRV	-
+16	Face	I-OTH	I-DRV	-
+17	Off	I-OTH	I-DRV	-
+18	»	I-OTH	I-DRV	-
+19	-valdsorgier	I-OTH	I-DRV	-
 20	for	O	O	-
 21	dei	O	O	-
 22	over	O	O	-
@@ -14882,7 +14882,7 @@
 17	,	O	O	-
 18	som	O	O	-
 19	«	O	O	-
-20	Terminator	O	B-PROD	-
+20	Terminator	B-OTH	B-PROD	-
 21	»	O	O	-
 22	,	O	O	-
 23	og	O	O	-
@@ -14892,8 +14892,8 @@
 27	ekstravagansar	O	O	-
 28	som	O	O	-
 29	«	O	O	-
-30	Terminator	O	B-PROD	-
-31	2	O	I-PROD	-
+30	Terminator	B-OTH	B-PROD	-
+31	2	I-OTH	I-PROD	-
 32	»	O	O	-
 33	.	O	O	-
 
@@ -15023,26 +15023,26 @@
 9	nyaste	O	O	-
 10	bok	O	O	-
 11	«	O	O	-
-12	Hitlers	O	B-PROD	-
-13	Volksstaat	O	I-PROD	-
-14	.	O	I-PROD	-
-15	Raub	O	I-PROD	-
-16	,	O	I-PROD	-
-17	Rassenkrieg	O	I-PROD	-
-18	und	O	I-PROD	-
-19	nationaler	O	I-PROD	-
-20	Sozialismus	O	I-PROD	-
+12	Hitlers	B-OTH	B-PROD	-
+13	Volksstaat	I-OTH	I-PROD	-
+14	.	I-OTH	I-PROD	-
+15	Raub	I-OTH	I-PROD	-
+16	,	I-OTH	I-PROD	-
+17	Rassenkrieg	I-OTH	I-PROD	-
+18	und	I-OTH	I-PROD	-
+19	nationaler	I-OTH	I-PROD	-
+20	Sozialismus	I-OTH	I-PROD	-
 21	»	O	O	-
 22	(	O	O	-
-23	Hitlers	O	B-PROD	-
-24	folkestat	O	I-PROD	-
-25	.	O	I-PROD	-
-26	Ran	O	I-PROD	-
-27	,	O	I-PROD	-
-28	rasekrig	O	I-PROD	-
-29	og	O	I-PROD	-
-30	nasjonal	O	I-PROD	-
-31	sosialisme	O	I-PROD	-
+23	Hitlers	B-OTH	B-PROD	-
+24	folkestat	I-OTH	I-PROD	-
+25	.	I-OTH	I-PROD	-
+26	Ran	I-OTH	I-PROD	-
+27	,	I-OTH	I-PROD	-
+28	rasekrig	I-OTH	I-PROD	-
+29	og	I-OTH	I-PROD	-
+30	nasjonal	I-OTH	I-PROD	-
+31	sosialisme	I-OTH	I-PROD	-
 32	)	O	O	-
 33	.	O	O	-
 
@@ -15135,7 +15135,7 @@
 
 # sent_id = 016902
 # text = Hitlerregimet vann folket ved hjelp av velferdsgodar.
-1	Hitlerregimet	-	B-DRV	-
+1	Hitlerregimet	B-OTH	B-DRV	-
 2	vann	O	O	-
 3	folket	O	O	-
 4	ved	O	O	-
@@ -15181,7 +15181,7 @@
 1	Det	O	O	-
 2	som	O	O	-
 3	gjorde	O	O	-
-4	Hitler-staten	-	B-DRV	-
+4	Hitler-staten	B-OTH	B-DRV	-
 5	attraktiv	O	O	-
 6	for	O	O	-
 7	vanlege	O	O	-
@@ -16320,7 +16320,7 @@
 22	glødande	O	O	-
 23	antisemittismen	O	O	-
 24	og	O	O	-
-25	Hitler-dyrkinga	-	B-DRV	-
+25	Hitler-dyrkinga	B-OTH	B-DRV	-
 26	i	O	O	-
 27	bakgrunnen	O	O	-
 28	?	O	O	-
@@ -16468,7 +16468,7 @@
 11	av	O	O	-
 12	innbyggjarane	O	O	-
 13	i	O	O	-
-14	nazi-Tyskland	-	B-DRV	-
+14	nazi-Tyskland	B-OTH	B-DRV	-
 15	tente	O	O	-
 16	på	O	O	-
 17	krigen	O	O	-
@@ -16588,7 +16588,7 @@
 19	,	O	O	-
 20	gjennom	O	O	-
 21	«	O	O	-
-22	Anschluss	O	B-PROD	-
+22	Anschluss	B-OTH	B-PROD	-
 23	»	O	O	-
 24	i	O	O	-
 25	1938	O	O	-
@@ -16616,8 +16616,8 @@
 # text = Boka «Hitlers Volksstaat» har den siste månaden vekt ein skarp kulturdebatt i Tyskland.
 1	Boka	O	O	-
 2	«	O	O	-
-3	Hitlers	O	B-PROD	-
-4	Volksstaat	O	I-PROD	-
+3	Hitlers	B-OTH	B-PROD	-
+4	Volksstaat	I-OTH	I-PROD	-
 5	»	O	O	-
 6	har	O	O	-
 7	den	O	O	-
@@ -16696,8 +16696,8 @@
 1	Boka	O	O	-
 2	er	O	O	-
 3	i	O	O	-
-4	Die	O	B-PROD	-
-5	Zeit	O	I-PROD	-
+4	Die	B-OTH	B-PROD	-
+5	Zeit	I-OTH	I-PROD	-
 6	karakterisert	O	O	-
 7	som	O	O	-
 8	ei	O	O	-
@@ -16721,8 +16721,8 @@
 # sent_id = 016980
 # text = I Die Tageszeitung vert Aly sine berande tesar tilbakeviste som fullstendig uhaldbare.
 1	I	O	O	-
-2	Die	O	B-PROD	-
-3	Tageszeitung	O	I-PROD	-
+2	Die	B-OTH	B-PROD	-
+3	Tageszeitung	I-OTH	I-PROD	-
 4	vert	O	O	-
 5	Aly	B-PER	B-PER	-
 6	sine	O	O	-
@@ -16849,7 +16849,7 @@
 17	vart	O	O	-
 18	utnytta	O	O	-
 19	av	O	O	-
-20	Hitler-regimet	-	B-DRV	-
+20	Hitler-regimet	B-OTH	B-DRV	-
 21	.	O	O	-
 
 # sent_id = 016986
@@ -16861,8 +16861,8 @@
 5	debattredaktør	O	O	-
 6	i	O	O	-
 7	avisa	O	O	-
-8	Berliner	O	B-PROD	-
-9	Zeitung	O	I-PROD	-
+8	Berliner	B-OTH	B-PROD	-
+9	Zeitung	I-OTH	I-PROD	-
 10	.	O	O	-
 
 # sent_id = 016987
@@ -16927,7 +16927,7 @@
 2	Det	O	O	-
 3	som	O	O	-
 4	gjorde	O	O	-
-5	Hitler-staten	-	B-DRV	-
+5	Hitler-staten	B-OTH	B-DRV	-
 6	attraktiv	O	O	-
 7	for	O	O	-
 8	vanlege	O	O	-
@@ -16958,9 +16958,9 @@
 1	Dette	O	O	-
 2	er	O	O	-
 3	gårsdagens	O	O	-
-4	Med	-	B-DRV	-
-5	andre	O	I-DRV	-
-6	ord-tekst	O	I-DRV	-
+4	Med	B-OTH	B-DRV	-
+5	andre	I-OTH	I-DRV	-
+6	ord-tekst	I-OTH	I-DRV	-
 7	i	O	O	-
 8	fullstendig	O	O	-
 9	versjon	O	O	-
@@ -17860,7 +17860,7 @@
 6	regimet	O	O	-
 7	for	O	O	-
 8	«	O	O	-
-9	Arbeiderpartistaten	-	B-DRV	-
+9	Arbeiderpartistaten	B-OTH	B-DRV	-
 10	»	O	O	-
 11	med	O	O	-
 12	tilsikta	O	O	-
@@ -21040,8 +21040,8 @@
 
 # sent_id = 017198
 # text = Novaja Gaseta er ei mindre avis som kjem ut to gonger i veka med eit opplag på rundt 500.000 eksemplar.
-1	Novaja	O	B-PROD	-
-2	Gaseta	O	I-PROD	-
+1	Novaja	B-OTH	B-PROD	-
+2	Gaseta	I-OTH	I-PROD	-
 3	er	O	O	-
 4	ei	O	O	-
 5	mindre	O	O	-
@@ -21208,7 +21208,7 @@
 4	på	O	O	-
 5	Dubrovka-teatret	B-LOC	B-LOC	-
 6	og	O	O	-
-7	Beslan	O	B-EVT	-
+7	Beslan	B-OTH	B-EVT	-
 8	.	O	O	-
 
 # sent_id = 017209
@@ -21473,7 +21473,7 @@
 # sent_id = 017222
 # text = * Adecco-skandalen har potensial til å verte eit grunnleggjande oppgjer med konkurranseiveren på borgarleg side, ikkje berre i Oslo, men over heile landet.
 1	*	O	O	-
-2	Adecco-skandalen	O	B-EVT	-
+2	Adecco-skandalen	B-OTH	B-EVT	-
 3	har	O	O	-
 4	potensial	O	O	-
 5	til	O	O	-
@@ -21503,13 +21503,13 @@
 # text = Etter at Dagsrevyen avslørte at tilsette på det Adecco-drivne Ammerudlunden sjukeheim jobba 84 timar lang veke utan overtidsbetaling og måtte overnatte i kjellaren for å få døgeret til å gå rundt, har det komme både banale og prinsipielle reaksjonar.
 1	Etter	O	O	-
 2	at	O	O	-
-3	Dagsrevyen	O	B-PROD	-
+3	Dagsrevyen	B-OTH	B-PROD	-
 4	avslørte	O	O	-
 5	at	O	O	-
 6	tilsette	O	O	-
 7	på	O	O	-
 8	det	O	O	-
-9	Adecco-drivne	-	B-DRV	-
+9	Adecco-drivne	B-OTH	B-DRV	-
 10	Ammerudlunden	B-ORG	B-ORG	-
 11	sjukeheim	I-ORG	I-ORG	-
 12	jobba	O	O	-
@@ -21590,7 +21590,7 @@
 3	sida	O	O	-
 4	er	O	O	-
 5	det	O	O	-
-6	Fagforbundet-leiar	-	B-DRV	-
+6	Fagforbundet-leiar	B-OTH	B-DRV	-
 7	Jan	B-PER	B-PER	-
 8	Davidsen	I-PER	I-PER	-
 9	og	O	O	-
@@ -21613,7 +21613,7 @@
 # sent_id = 017227
 # text = * Adecco-saka har fått mykje merksemd av di både Høgre-leiar Erna Solberg og eldrebyråd Sylvi Listhaug frå Frp (som Brein vikarierer for) har prisa Ammerudlunden som eit føregangsdøme for kommunale sjukeheimar.
 1	*	O	O	-
-2	Adecco-saka	O	B-EVT	-
+2	Adecco-saka	B-OTH	B-EVT	-
 3	har	O	O	-
 4	fått	O	O	-
 5	mykje	O	O	-
@@ -21621,7 +21621,7 @@
 7	av	O	O	-
 8	di	O	O	-
 9	både	O	O	-
-10	Høgre-leiar	-	B-DRV	-
+10	Høgre-leiar	B-OTH	B-DRV	-
 11	Erna	B-PER	B-PER	-
 12	Solberg	I-PER	I-PER	-
 13	og	O	O	-
@@ -21687,9 +21687,9 @@
 36	godt	O	O	-
 37	hjelpte	O	O	-
 38	av	O	O	-
-39	Høgre-	-	B-DRV	-
+39	Høgre-	B-OTH	B-DRV	-
 40	og	O	O	-
-41	Frp-politikarar	-	B-DRV	-
+41	Frp-politikarar	B-OTH	B-DRV	-
 42	som	O	O	-
 43	ikkje	O	O	-
 44	nett	O	O	-
@@ -24772,28 +24772,28 @@
 
 # sent_id = 017339
 # text = MY «Marie Claire» vil korrespondere både med MS «Telemarken» som kjem frå Norsjø og MS «Victoria» som kjem frå Skien kvar dag.
-1	MY	O	B-PROD	-
-2	«	O	I-PROD	-
-3	Marie	O	I-PROD	-
-4	Claire	O	I-PROD	-
-5	»	O	I-PROD	-
+1	MY	B-OTH	B-PROD	-
+2	«	I-OTH	I-PROD	-
+3	Marie	I-OTH	I-PROD	-
+4	Claire	I-OTH	I-PROD	-
+5	»	I-OTH	I-PROD	-
 6	vil	O	O	-
 7	korrespondere	O	O	-
 8	både	O	O	-
 9	med	O	O	-
-10	MS	O	B-PROD	-
-11	«	O	I-PROD	-
-12	Telemarken	O	I-PROD	-
-13	»	O	I-PROD	-
+10	MS	B-OTH	B-PROD	-
+11	«	I-OTH	I-PROD	-
+12	Telemarken	I-OTH	I-PROD	-
+13	»	I-OTH	I-PROD	-
 14	som	O	O	-
 15	kjem	O	O	-
 16	frå	O	O	-
 17	Norsjø	B-LOC	B-LOC	-
 18	og	O	O	-
-19	MS	O	B-PROD	-
-20	«	O	I-PROD	-
-21	Victoria	O	I-PROD	-
-22	»	O	I-PROD	-
+19	MS	B-OTH	B-PROD	-
+20	«	I-OTH	I-PROD	-
+21	Victoria	I-OTH	I-PROD	-
+22	»	I-OTH	I-PROD	-
 23	som	O	O	-
 24	kjem	O	O	-
 25	frå	O	O	-
@@ -25045,8 +25045,8 @@
 # text = Motoryachten «Marie Claire» er leigd med mannskap, og dei fleste av mannskapet er andelseigarar i båten.
 1	Motoryachten	O	O	-
 2	«	O	O	-
-3	Marie	O	B-PROD	-
-4	Claire	O	I-PROD	-
+3	Marie	B-OTH	B-PROD	-
+4	Claire	I-OTH	I-PROD	-
 5	»	O	O	-
 6	er	O	O	-
 7	leigd	O	O	-
@@ -25091,8 +25091,8 @@
 10	ta	O	O	-
 11	seg	O	O	-
 12	«	O	O	-
-13	Marie	O	B-PROD	-
-14	Claire	O	I-PROD	-
+13	Marie	B-OTH	B-PROD	-
+14	Claire	I-OTH	I-PROD	-
 15	»	O	O	-
 16	,	O	O	-
 17	avsluttar	O	O	-
@@ -26063,13 +26063,13 @@
 2	Marianne	B-PER	B-PER	-
 3	Wienenga	I-PER	I-PER	-
 4	og	O	O	-
-5	SLT-koordinator	-	B-DRV	-
+5	SLT-koordinator	B-OTH	B-DRV	-
 6	Silje	B-PER	B-PER	-
 7	Hagen	I-PER	I-PER	-
 8	er	O	O	-
 9	nøgde	O	O	-
 10	med	O	O	-
-11	SLT-samarbeidet	-	B-DRV	-
+11	SLT-samarbeidet	B-OTH	B-DRV	-
 12	i	O	O	-
 13	Vinje	B-LOC	B-GPE_LOC	-
 14	kommune	I-LOC	I-GPE_LOC	-
@@ -26678,7 +26678,7 @@
 19	dei	O	O	-
 20	får	O	O	-
 21	gjennom	O	O	-
-22	SLT-samarbeidet	-	B-DRV	-
+22	SLT-samarbeidet	B-OTH	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 017432

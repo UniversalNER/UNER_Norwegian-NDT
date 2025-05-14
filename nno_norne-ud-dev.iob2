@@ -2113,7 +2113,7 @@
 14	desse	O	O	-
 15	dagar	O	O	-
 16	vert	O	O	-
-17	IMF-kontoret	-	B-DRV	-
+17	IMF-kontoret	B-OTH	B-DRV	-
 18	der	O	O	-
 19	stengt	O	O	-
 20	.	O	O	-
@@ -4211,8 +4211,8 @@
 6	som	O	O	-
 7	henta	O	O	-
 8	frå	O	O	-
-9	Sataniske	O	B-PROD	-
-10	vers	O	I-PROD	-
+9	Sataniske	B-OTH	B-PROD	-
+10	vers	I-OTH	I-PROD	-
 11	.	O	O	-
 
 # sent_id = 014410
@@ -5067,7 +5067,7 @@
 7	vanleg	O	O	-
 8	den	O	O	-
 9	unge	O	O	-
-10	Harvard-utdana	-	B-DRV	-
+10	Harvard-utdana	B-OTH	B-DRV	-
 11	ordføraren	O	O	-
 12	vi	O	O	-
 13	møtte	O	O	-
@@ -5439,12 +5439,12 @@
 6	å	O	O	-
 7	lansere	O	O	-
 8	boka	O	O	-
-9	En	O	B-PROD	-
-10	kvinne	O	I-PROD	-
-11	på	O	I-PROD	-
-12	flukt	O	I-PROD	-
-13	fra	O	I-PROD	-
-14	budskapet	O	I-PROD	-
+9	En	B-OTH	B-PROD	-
+10	kvinne	I-OTH	I-PROD	-
+11	på	I-OTH	I-PROD	-
+12	flukt	I-OTH	I-PROD	-
+13	fra	I-OTH	I-PROD	-
+14	budskapet	I-OTH	I-PROD	-
 15	,	O	O	-
 16	ei	O	O	-
 17	israelsk	O	O	-
@@ -5574,8 +5574,8 @@
 14	av	O	O	-
 15	egyptarane	O	O	-
 16	under	O	O	-
-17	Yom	O	B-EVT	-
-18	Kippur-krigen	O	I-EVT	-
+17	Yom	B-OTH	B-EVT	-
+18	Kippur-krigen	I-OTH	I-EVT	-
 19	i	O	O	-
 20	1973	O	O	-
 21	.	O	O	-
@@ -5643,7 +5643,7 @@
 37	under	O	O	-
 38	den	O	O	-
 39	andre	O	O	-
-40	Libanon-krigen	O	B-EVT	-
+40	Libanon-krigen	B-OTH	B-EVT	-
 41	,	O	O	-
 42	12.	O	O	-
 43	august	O	O	-
@@ -5863,9 +5863,9 @@
 2	året	O	O	-
 3	kom	O	O	-
 4	boka	O	O	-
-5	Den	O	B-PROD	-
-6	gule	O	I-PROD	-
-7	vinden	O	I-PROD	-
+5	Den	B-OTH	B-PROD	-
+6	gule	I-OTH	I-PROD	-
+7	vinden	I-OTH	I-PROD	-
 8	på	O	O	-
 9	norsk	O	O	-
 10	,	O	O	-
@@ -5980,10 +5980,10 @@
 # sent_id = 014507
 # text = Kjærleiksromanen Noen å løpe med kom på norsk i 2006, då Grossman sa til Dag og Tid at «ein mur stoggar ikkje terror, og du kan ikkje byggje freden på ein vegg».
 1	Kjærleiksromanen	O	O	-
-2	Noen	O	B-PROD	-
-3	å	O	I-PROD	-
-4	løpe	O	I-PROD	-
-5	med	O	I-PROD	-
+2	Noen	B-OTH	B-PROD	-
+3	å	I-OTH	I-PROD	-
+4	løpe	I-OTH	I-PROD	-
+5	med	I-OTH	I-PROD	-
 6	kom	O	O	-
 7	på	O	O	-
 8	norsk	O	O	-
@@ -6633,7 +6633,7 @@
 
 # sent_id = 014534
 # text = FN-sporet
-1	FN-sporet	-	B-DRV	-
+1	FN-sporet	B-OTH	B-DRV	-
 
 # sent_id = 014535
 # text = - Kva rolle kan den palestinske framstøyten andsynes FN spele?
@@ -7184,7 +7184,7 @@
 17	israelske	O	O	-
 18	åtaket	O	O	-
 19	på	O	O	-
-20	Gaza-flotiljen	-	B-DRV	-
+20	Gaza-flotiljen	B-OTH	B-DRV	-
 21	i	O	O	-
 22	internasjonalt	O	O	-
 23	farvatn	O	O	-
@@ -8244,7 +8244,7 @@
 28	i	O	O	-
 29	hortensavisa	O	O	-
 30	«	O	O	-
-31	Gjengangeren	O	B-PROD	-
+31	Gjengangeren	B-OTH	B-PROD	-
 32	»	O	O	-
 33	.	O	O	-
 
@@ -8812,13 +8812,13 @@
 9	doktorgrad	O	O	-
 10	med	O	O	-
 11	tittelen	O	O	-
-12	Kvinnestemmeretten	O	B-PROD	-
-13	i	O	I-PROD	-
-14	Horten	O	I-PROD	-
-15	og	O	I-PROD	-
-16	de	O	I-PROD	-
-17	andre	O	I-PROD	-
-18	vestfoldbyene	O	I-PROD	-
+12	Kvinnestemmeretten	B-OTH	B-PROD	-
+13	i	I-OTH	I-PROD	-
+14	Horten	I-OTH	I-PROD	-
+15	og	I-OTH	I-PROD	-
+16	de	I-OTH	I-PROD	-
+17	andre	I-OTH	I-PROD	-
+18	vestfoldbyene	I-OTH	I-PROD	-
 19	.	O	O	-
 
 # sent_id = 014636
@@ -8836,16 +8836,16 @@
 4	har	O	O	-
 5	skrive	O	O	-
 6	hovudoppgåva	O	O	-
-7	Iscenesettelse	O	B-PROD	-
-8	og	O	I-PROD	-
-9	lek	O	I-PROD	-
-10	med	O	I-PROD	-
-11	kjønnsidentitet	O	I-PROD	-
-12	i	O	I-PROD	-
-13	norsk	O	I-PROD	-
-14	fotografi	O	I-PROD	-
-15	omkring	O	I-PROD	-
-16	1900	O	I-PROD	-
+7	Iscenesettelse	B-OTH	B-PROD	-
+8	og	I-OTH	I-PROD	-
+9	lek	I-OTH	I-PROD	-
+10	med	I-OTH	I-PROD	-
+11	kjønnsidentitet	I-OTH	I-PROD	-
+12	i	I-OTH	I-PROD	-
+13	norsk	I-OTH	I-PROD	-
+14	fotografi	I-OTH	I-PROD	-
+15	omkring	I-OTH	I-PROD	-
+16	1900	I-OTH	I-PROD	-
 17	,	O	O	-
 18	med	O	O	-
 19	utgangspunkt	O	O	-
@@ -8922,7 +8922,7 @@
 11	heiter	O	O	-
 12	det	O	O	-
 13	i	O	O	-
-14	Grunnlova	O	B-PROD	-
+14	Grunnlova	B-OTH	B-PROD	-
 15	.	O	O	-
 
 # sent_id = 014642
@@ -8934,7 +8934,7 @@
 5	ingen	O	O	-
 6	høyrt	O	O	-
 7	om	O	O	-
-8	EØS-avtalen	O	B-PROD	-
+8	EØS-avtalen	B-OTH	B-PROD	-
 9	.	O	O	-
 
 # newpar
@@ -8972,9 +8972,9 @@
 2	som	O	O	-
 3	dei	O	O	-
 4	fleste	O	O	-
-5	Dag	-	B-DRV	-
-6	og	O	I-DRV	-
-7	Tid-lesarar	O	I-DRV	-
+5	Dag	B-OTH	B-DRV	-
+6	og	I-OTH	I-DRV	-
+7	Tid-lesarar	I-OTH	I-DRV	-
 8	vel	O	O	-
 9	veit	O	O	-
 10	:	O	O	-
@@ -9016,7 +9016,7 @@
 15	regelverk	O	O	-
 16	takk	O	O	-
 17	vere	O	O	-
-18	EØS-avtalen	O	B-PROD	-
+18	EØS-avtalen	B-OTH	B-PROD	-
 19	.	O	O	-
 
 # sent_id = 014648
@@ -9266,7 +9266,7 @@
 14	,	O	O	-
 15	som	O	O	-
 16	er	O	O	-
-17	EØS-rådgjevar	-	B-DRV	-
+17	EØS-rådgjevar	B-OTH	B-DRV	-
 18	for	O	O	-
 19	SV	B-ORG	B-ORG	-
 20	og	O	O	-
@@ -9280,7 +9280,7 @@
 28	aller	O	O	-
 29	mest	O	O	-
 30	av	O	O	-
-31	EU-rettsaktene	-	B-DRV	-
+31	EU-rettsaktene	B-OTH	B-DRV	-
 32	.	O	O	-
 
 # sent_id = 014660
@@ -9358,7 +9358,7 @@
 4	ikkje	O	O	-
 5	slik	O	O	-
 6	med	O	O	-
-7	EØS-avtalen	O	B-PROD	-
+7	EØS-avtalen	B-OTH	B-PROD	-
 8	?	O	O	-
 
 # sent_id = 014665
@@ -9394,7 +9394,7 @@
 # sent_id = 014667
 # text = Når EU-rettsaktene fører til lovendring, må Stortinget godkjenne dei.
 1	Når	O	O	-
-2	EU-rettsaktene	-	B-DRV	-
+2	EU-rettsaktene	B-OTH	B-DRV	-
 3	fører	O	O	-
 4	til	O	O	-
 5	lovendring	O	O	-
@@ -9680,7 +9680,7 @@
 
 # sent_id = 014683
 # text = EØS er så ubehageleg for mange at di mindre ein snakkar om det, di betre er det.
-1	EØS	O	B-PROD	-
+1	EØS	B-OTH	B-PROD	-
 2	er	O	O	-
 3	så	O	O	-
 4	ubehageleg	O	O	-
@@ -9744,7 +9744,7 @@
 5	at	O	O	-
 6	handsaminga	O	O	-
 7	av	O	O	-
-8	EØS-sakene	-	B-DRV	-
+8	EØS-sakene	B-OTH	B-DRV	-
 9	i	O	O	-
 10	Stortinget	B-ORG	B-ORG	-
 11	var	O	O	-
@@ -9854,7 +9854,7 @@
 4	handsama	O	O	-
 5	meldinga	O	O	-
 6	om	O	O	-
-7	Europa-politikken	-	B-DRV	-
+7	Europa-politikken	B-OTH	B-DRV	-
 8	i	O	O	-
 9	fjor	O	O	-
 10	,	O	O	-
@@ -9931,7 +9931,7 @@
 # text = Valle er SV-medlem i utanrikskomiteen og dermed i Europautvalet.
 1	Valle	B-PER	B-PER	-
 2	er	O	O	-
-3	SV-medlem	-	B-DRV	-
+3	SV-medlem	B-OTH	B-DRV	-
 4	i	O	O	-
 5	utanrikskomiteen	O	O	-
 6	og	O	O	-
@@ -10207,7 +10207,7 @@
 6	av	O	O	-
 7	handtering	O	O	-
 8	av	O	O	-
-9	EU-direktiva	-	B-DRV	-
+9	EU-direktiva	B-OTH	B-DRV	-
 10	forsvarlege	O	O	-
 11	?	O	O	-
 
@@ -10372,7 +10372,7 @@
 7	opplyst	O	O	-
 8	samtale	O	O	-
 9	om	O	O	-
-10	EU-saker	-	B-DRV	-
+10	EU-saker	B-OTH	B-DRV	-
 11	,	O	O	-
 12	kan	O	O	-
 13	vi	O	O	-
@@ -10430,7 +10430,7 @@
 # sent_id = 014721
 # text = Men EØS grip så mykje inn i sjølvråderetten at det er all grunn til å sjå grundig på korleis avtalen fungerer, seier Ågot Valle.
 1	Men	O	O	-
-2	EØS	O	B-PROD	-
+2	EØS	B-OTH	B-PROD	-
 3	grip	O	O	-
 4	så	O	O	-
 5	mykje	O	O	-
@@ -10489,7 +10489,7 @@
 9	har	O	O	-
 10	til	O	O	-
 11	norsk	O	O	-
-12	EU-medlemskap	-	B-DRV	-
+12	EU-medlemskap	B-OTH	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 014725
@@ -10603,10 +10603,10 @@
 10	som	O	O	-
 11	er	O	O	-
 12	mot	O	O	-
-13	EU-medlemskap	-	B-DRV	-
+13	EU-medlemskap	B-OTH	B-DRV	-
 14	og	O	O	-
 15	før	O	O	-
-16	EØS-avtalen	O	B-PROD	-
+16	EØS-avtalen	B-OTH	B-PROD	-
 17	?	O	O	-
 
 # sent_id = 014731
@@ -10687,7 +10687,7 @@
 # text = Han opplever EØS-sakene svært annleis som stortingsrepresentant enn han gjorde som statsråd.
 1	Han	O	O	-
 2	opplever	O	O	-
-3	EØS-sakene	-	B-DRV	-
+3	EØS-sakene	B-OTH	B-DRV	-
 4	svært	O	O	-
 5	annleis	O	O	-
 6	som	O	O	-
@@ -10714,7 +10714,7 @@
 11	for	O	O	-
 12	første	O	O	-
 13	gong	O	O	-
-14	EØS-systemet	-	B-DRV	-
+14	EØS-systemet	B-OTH	B-DRV	-
 15	frå	O	O	-
 16	stortingssida	O	O	-
 17	.	O	O	-
@@ -10822,7 +10822,7 @@
 19	i	O	O	-
 20	arbeidet	O	O	-
 21	med	O	O	-
-22	EØS-saker	-	B-DRV	-
+22	EØS-saker	B-OTH	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 014740
@@ -10959,9 +10959,9 @@
 15	tradisjonen	O	O	-
 16	,	O	O	-
 17	og	O	O	-
-18	Handbok	O	B-PROD	-
-19	i	O	I-PROD	-
-20	livskunst	O	I-PROD	-
+18	Handbok	B-OTH	B-PROD	-
+19	i	I-OTH	I-PROD	-
+20	livskunst	I-OTH	I-PROD	-
 21	kom	O	O	-
 22	på	O	O	-
 23	norsk	O	O	-
@@ -10971,10 +10971,10 @@
 27	1927	O	O	-
 28	,	O	O	-
 29	i	O	O	-
-30	Samlag-serien	-	B-DRV	-
+30	Samlag-serien	B-OTH	B-DRV	-
 31	«	O	O	-
-32	Klassiske	O	B-PROD	-
-33	bokverk	O	I-PROD	-
+32	Klassiske	B-OTH	B-PROD	-
+33	bokverk	I-OTH	I-PROD	-
 34	»	O	O	-
 35	.	O	O	-
 
@@ -11724,15 +11724,15 @@
 8	,	O	O	-
 9	og	O	O	-
 10	særleg	O	O	-
-11	Epistulae	O	B-PROD	-
-12	morales	O	I-PROD	-
-13	ad	O	I-PROD	-
-14	Lucilium	O	I-PROD	-
+11	Epistulae	B-OTH	B-PROD	-
+12	morales	I-OTH	I-PROD	-
+13	ad	I-OTH	I-PROD	-
+14	Lucilium	I-OTH	I-PROD	-
 15	(	O	O	-
-16	Moralske	O	B-PROD	-
-17	brev	O	I-PROD	-
-18	til	O	I-PROD	-
-19	Lucilius	O	I-PROD	-
+16	Moralske	B-OTH	B-PROD	-
+17	brev	I-OTH	I-PROD	-
+18	til	I-OTH	I-PROD	-
+19	Lucilius	I-OTH	I-PROD	-
 20	)	O	O	-
 21	,	O	O	-
 22	i	O	O	-
@@ -12235,9 +12235,9 @@
 
 # sent_id = 014817
 # text = Køyre frå Fræna
-1	Køyre	O	B-PROD	-
-2	frå	O	I-PROD	-
-3	Fræna	O	I-PROD	-
+1	Køyre	B-OTH	B-PROD	-
+2	frå	I-OTH	I-PROD	-
+3	Fræna	I-OTH	I-PROD	-
 
 # sent_id = 014818
 # text = Aschehoug
@@ -12395,7 +12395,7 @@
 # text = I « Elva » har ein mann jaga ein innvandrar på elva, mens den unge faren i « Bankeånd » har mist son sin i krybbedød.
 1	I	O	O	-
 2	«	O	O	-
-3	Elva	O	B-PROD	-
+3	Elva	B-OTH	B-PROD	-
 4	»	O	O	-
 5	har	O	O	-
 6	ein	O	O	-
@@ -12412,7 +12412,7 @@
 17	faren	O	O	-
 18	i	O	O	-
 19	«	O	O	-
-20	Bankeånd	O	B-PROD	-
+20	Bankeånd	B-OTH	B-PROD	-
 21	»	O	O	-
 22	har	O	O	-
 23	mist	O	O	-
@@ -12426,14 +12426,14 @@
 # text = Novella «Eg veit verkeleg ikkje kva de snakkar om» handlar om den tidlegare soldaten som drikk for mykje og som truleg har vore med på noko dramatisk, men vi får ikkje noko anna hint enn dette:
 1	Novella	O	O	-
 2	«	O	O	-
-3	Eg	O	B-PROD	-
-4	veit	O	I-PROD	-
-5	verkeleg	O	I-PROD	-
-6	ikkje	O	I-PROD	-
-7	kva	O	I-PROD	-
-8	de	O	I-PROD	-
-9	snakkar	O	I-PROD	-
-10	om	O	I-PROD	-
+3	Eg	B-OTH	B-PROD	-
+4	veit	I-OTH	I-PROD	-
+5	verkeleg	I-OTH	I-PROD	-
+6	ikkje	I-OTH	I-PROD	-
+7	kva	I-OTH	I-PROD	-
+8	de	I-OTH	I-PROD	-
+9	snakkar	I-OTH	I-PROD	-
+10	om	I-OTH	I-PROD	-
 11	»	O	O	-
 12	handlar	O	O	-
 13	om	O	O	-
@@ -12621,12 +12621,12 @@
 # text = I «Himmelen over Fræna er den vakraste» møter vi leiaren av ei lokal protestrørsle som har sett i gang ein protestmarsj med katastrofal utgang.
 1	I	O	O	-
 2	«	O	O	-
-3	Himmelen	O	B-PROD	-
-4	over	O	I-PROD	-
-5	Fræna	O	I-PROD	-
-6	er	O	I-PROD	-
-7	den	O	I-PROD	-
-8	vakraste	O	I-PROD	-
+3	Himmelen	B-OTH	B-PROD	-
+4	over	I-OTH	I-PROD	-
+5	Fræna	I-OTH	I-PROD	-
+6	er	I-OTH	I-PROD	-
+7	den	I-OTH	I-PROD	-
+8	vakraste	I-OTH	I-PROD	-
 9	»	O	O	-
 10	møter	O	O	-
 11	vi	O	O	-
@@ -12651,7 +12651,7 @@
 # text = I « Kandidaten » er det ein ung og framstormande partimann som nyttar den personlege tragedien til andre til å fremje sin kandidat.
 1	I	O	O	-
 2	«	O	O	-
-3	Kandidaten	O	B-PROD	-
+3	Kandidaten	B-OTH	B-PROD	-
 4	»	O	O	-
 5	er	O	O	-
 6	det	O	O	-
@@ -12678,8 +12678,8 @@
 # text = I «Vakne opp» er det ein stortingspolitikar som blandar religion og politikk, men som verkar blind for motsetnadene mellom dei ideala religionen fremjar, og den politikken han i røynda støttar.
 1	I	O	O	-
 2	«	O	O	-
-3	Vakne	O	B-PROD	-
-4	opp	O	I-PROD	-
+3	Vakne	B-OTH	B-PROD	-
+4	opp	I-OTH	I-PROD	-
 5	»	O	O	-
 6	er	O	O	-
 7	det	O	O	-
@@ -12796,8 +12796,8 @@
 14	gruppa	O	O	-
 15	i	O	O	-
 16	«	O	O	-
-17	Vakne	O	B-PROD	-
-18	opp	O	I-PROD	-
+17	Vakne	B-OTH	B-PROD	-
+18	opp	I-OTH	I-PROD	-
 19	»	O	O	-
 20	kjenner	O	O	-
 21	at	O	O	-
@@ -12913,7 +12913,7 @@
 # sent_id = 014848
 # text = « Søner » er ei grøssaraktig novelle om to søner som ventar på faren for å ta eit oppgjer med han, men så dukkar han opp som skrømt.
 1	«	O	O	-
-2	Søner	O	B-PROD	-
+2	Søner	B-OTH	B-PROD	-
 3	»	O	O	-
 4	er	O	O	-
 5	ei	O	O	-
@@ -12961,8 +12961,8 @@
 # sent_id = 014850
 # text = «Den framande» handlar òg om eit skrømt; her er vi på ein gard rett etter krigen der ein mann oppdagar at den gravide kona går ut om natta for å snakke med nokon.
 1	«	O	O	-
-2	Den	O	B-PROD	-
-3	framande	O	I-PROD	-
+2	Den	B-OTH	B-PROD	-
+3	framande	I-OTH	I-PROD	-
 4	»	O	O	-
 5	handlar	O	O	-
 6	òg	O	O	-
@@ -13278,7 +13278,7 @@
 29	til	O	O	-
 30	finalen	O	O	-
 31	i	O	O	-
-32	Idol	O	B-PROD	-
+32	Idol	B-OTH	B-PROD	-
 33	.	O	O	-
 
 # sent_id = 014866
@@ -13586,7 +13586,7 @@
 5	pussa	O	O	-
 6	opp	O	O	-
 7	med	O	O	-
-8	Rekkedals-midlar	-	B-DRV	-
+8	Rekkedals-midlar	B-OTH	B-DRV	-
 9	på	O	O	-
 10	80-talet	O	O	-
 11	.	O	O	-
@@ -13681,11 +13681,11 @@
 # text = Tone er MPG-klar
 1	Tone	B-PER	B-PER	-
 2	er	O	O	-
-3	MPG-klar	-	B-DRV	-
+3	MPG-klar	B-OTH	B-DRV	-
 
 # sent_id = 014889
 # text = Idolsirkuset gav Tone Damli Aaberge (17) frå Sogndal ein flying start på songkarrièra.
-1	Idolsirkuset	-	B-DRV	-
+1	Idolsirkuset	B-OTH	B-DRV	-
 2	gav	O	O	-
 3	Tone	B-PER	B-PER	-
 4	Damli	I-PER	I-PER	-
@@ -13707,7 +13707,7 @@
 1	Plata	O	O	-
 2	hennar	O	O	-
 3	«	O	O	-
-4	Bliss	O	B-PROD	-
+4	Bliss	B-OTH	B-PROD	-
 5	»	O	O	-
 6	selde	O	O	-
 7	til	O	O	-
@@ -13745,9 +13745,9 @@
 5	no	O	O	-
 6	klar	O	O	-
 7	for	O	O	-
-8	Melodi	O	B-PROD	-
-9	Grand	O	I-PROD	-
-10	Prix	O	I-PROD	-
+8	Melodi	B-OTH	B-PROD	-
+9	Grand	I-OTH	I-PROD	-
+10	Prix	I-OTH	I-PROD	-
 11	.	O	O	-
 
 # newpar
@@ -13767,9 +13767,9 @@
 5	gonger	O	O	-
 6	deltatt	O	O	-
 7	i	O	O	-
-8	Melodi	O	B-PROD	-
-9	Grand	O	I-PROD	-
-10	Prix	O	I-PROD	-
+8	Melodi	B-OTH	B-PROD	-
+9	Grand	I-OTH	I-PROD	-
+10	Prix	I-OTH	I-PROD	-
 11	og	O	O	-
 12	Damli	B-PER	B-PER	-
 13	Aaberge	I-PER	I-PER	-
@@ -13779,9 +13779,9 @@
 17	mot	O	O	-
 18	ei	O	O	-
 19	ekte	O	O	-
-20	Melodi	-	B-DRV	-
-21	Grand	O	I-DRV	-
-22	Prix-dronning	O	I-DRV	-
+20	Melodi	B-OTH	B-DRV	-
+21	Grand	I-OTH	I-DRV	-
+22	Prix-dronning	I-OTH	I-DRV	-
 23	.	O	O	-
 
 # sent_id = 014896
@@ -13879,7 +13879,7 @@
 6	til	O	O	-
 7	låta	O	O	-
 8	"	O	O	-
-9	Butterlies	O	B-PROD	-
+9	Butterlies	B-OTH	B-PROD	-
 10	"	O	O	-
 11	saman	O	O	-
 12	med	O	O	-
@@ -13934,7 +13934,7 @@
 
 # sent_id = 014907
 # text = MGP er annleis enn alt.
-1	MGP	O	B-PROD	-
+1	MGP	B-OTH	B-PROD	-
 2	er	O	O	-
 3	annleis	O	O	-
 4	enn	O	O	-
@@ -13994,9 +13994,9 @@
 10	vore	O	O	-
 11	tilhengjarar	O	O	-
 12	av	O	O	-
-13	Melodi	O	B-PROD	-
-14	Grand	O	I-PROD	-
-15	Prix	O	I-PROD	-
+13	Melodi	B-OTH	B-PROD	-
+14	Grand	I-OTH	I-PROD	-
+15	Prix	I-OTH	I-PROD	-
 16	.	O	O	-
 
 # sent_id = 014911
@@ -14014,7 +14014,7 @@
 11	å	O	O	-
 12	sjå	O	O	-
 13	på	O	O	-
-14	MPG-finale	O	B-EVT	-
+14	MPG-finale	B-OTH	B-EVT	-
 15	i	O	O	-
 16	Oslo	B-LOC	B-LOC	-
 17	Spektrum	I-LOC	I-LOC	-
@@ -14049,7 +14049,7 @@
 1	Ho	O	O	-
 2	deltok	O	O	-
 3	i	O	O	-
-4	Idol	O	B-PROD	-
+4	Idol	B-OTH	B-PROD	-
 5	i	O	O	-
 6	2005	O	O	-
 7	,	O	O	-
@@ -14075,9 +14075,9 @@
 5	med	O	O	-
 6	i	O	O	-
 7	"	O	O	-
-8	Skal	O	B-PROD	-
-9	vi	O	I-PROD	-
-10	danse	O	I-PROD	-
+8	Skal	B-OTH	B-PROD	-
+9	vi	I-OTH	I-PROD	-
+10	danse	I-OTH	I-PROD	-
 11	"	O	O	-
 12	.	O	O	-
 
@@ -14130,7 +14130,7 @@
 8	,	O	O	-
 9	heiter	O	O	-
 10	"	O	O	-
-11	Bliss	O	B-PROD	-
+11	Bliss	B-OTH	B-PROD	-
 12	"	O	O	-
 13	,	O	O	-
 14	og	O	O	-
@@ -14151,9 +14151,9 @@
 5	Aaberge	I-PER	I-PER	-
 6	ser	O	O	-
 7	på	O	O	-
-8	Melodi	-	B-DRV	-
-9	Grand	O	I-DRV	-
-10	Prix-deltakinga	O	I-DRV	-
+8	Melodi	B-OTH	B-DRV	-
+9	Grand	I-OTH	I-DRV	-
+10	Prix-deltakinga	I-OTH	I-DRV	-
 11	som	O	O	-
 12	ein	O	O	-
 13	fantastisk	O	O	-
@@ -14335,7 +14335,7 @@
 19	staden	O	O	-
 20	i	O	O	-
 21	to	O	O	-
-22	BMWar	-	B-DRV	-
+22	BMWar	B-OTH	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 014936
@@ -14879,7 +14879,7 @@
 # sent_id = 014970
 # text = 57833300 www.firda.no
 1	57833300	O	O	-
-2	www.firda.no	O	B-PROD	-
+2	www.firda.no	B-OTH	B-PROD	-
 
 # sent_id = 014971
 # text = - Dette kom godt med for mange.
@@ -15966,7 +15966,7 @@
 
 # sent_id = 015037
 # text = Distriktnorge er kjent for å vere bakpå og intolerant.
-1	Distriktnorge	-	B-DRV	-
+1	Distriktnorge	B-OTH	B-DRV	-
 2	er	O	O	-
 3	kjent	O	O	-
 4	for	O	O	-
@@ -16177,7 +16177,7 @@
 # text = - På firda.no les vi om vald i pølsekøen og hjortekalvar som bur inne i rundballar.
 1	-	O	O	-
 2	På	O	O	-
-3	firda.no	O	B-PROD	-
+3	firda.no	B-OTH	B-PROD	-
 4	les	O	O	-
 5	vi	O	O	-
 6	om	O	O	-
@@ -16515,8 +16515,8 @@
 17	til	O	O	-
 18	oss	O	O	-
 19	under	O	O	-
-20	VEKA	O	B-EVT	-
-21	TjueTi	O	I-EVT	-
+20	VEKA	B-OTH	B-EVT	-
+21	TjueTi	I-OTH	I-EVT	-
 22	,	O	O	-
 23	seier	O	O	-
 24	vekasjef	O	O	-
@@ -16817,9 +16817,9 @@
 5	saman	O	O	-
 6	med	O	O	-
 7	eit	O	O	-
-8	Sea	O	B-PROD	-
-9	King	O	I-PROD	-
-10	redningshelikopter	O	I-PROD	-
+8	Sea	B-OTH	B-PROD	-
+9	King	I-OTH	I-PROD	-
+10	redningshelikopter	I-OTH	I-PROD	-
 11	frå	O	O	-
 12	redningsbasen	O	O	-
 13	i	O	O	-
@@ -17216,8 +17216,8 @@
 9	vart	O	O	-
 10	presenterte	O	O	-
 11	i	O	O	-
-12	Bergens	O	B-PROD	-
-13	Tidende	O	I-PROD	-
+12	Bergens	B-OTH	B-PROD	-
+13	Tidende	I-OTH	I-PROD	-
 14	.	O	O	-
 
 # sent_id = 015109
@@ -17365,8 +17365,8 @@
 # text = Det vitnar West Tank i Gulen om, med all tydelegdom, seier Etnestad:
 1	Det	O	O	-
 2	vitnar	O	O	-
-3	West	O	B-EVT	-
-4	Tank	O	I-EVT	-
+3	West	B-OTH	B-EVT	-
+4	Tank	I-OTH	I-EVT	-
 5	i	O	O	-
 6	Gulen	B-LOC	B-GPE_LOC	-
 7	om	O	O	-
@@ -20664,8 +20664,8 @@
 11	rapport	O	O	-
 12	frå	O	O	-
 13	«	O	O	-
-14	white	-	B-DRV	-
-15	trash-USA	O	I-DRV	-
+14	white	B-OTH	B-DRV	-
+15	trash-USA	I-OTH	I-DRV	-
 16	»	O	O	-
 17	og	O	O	-
 18	kvardagen	O	O	-
@@ -20694,8 +20694,8 @@
 3	tematikken	O	O	-
 4	i	O	O	-
 5	filmen	O	O	-
-6	8	O	B-PROD	-
-7	Mile	O	I-PROD	-
+6	8	B-OTH	B-PROD	-
+7	Mile	I-OTH	I-PROD	-
 8	som	O	O	-
 9	har	O	O	-
 10	premiere	O	O	-
@@ -21790,8 +21790,8 @@
 10	at	O	O	-
 11	filmen	O	O	-
 12	«	O	O	-
-13	8	O	B-PROD	-
-14	Mile	O	I-PROD	-
+13	8	B-OTH	B-PROD	-
+14	Mile	I-OTH	I-PROD	-
 15	»	O	O	-
 16	,	O	O	-
 17	med	O	O	-
@@ -22030,7 +22030,7 @@
 17	slik	O	O	-
 18	som	O	O	-
 19	«	O	O	-
-20	Stan	O	B-PROD	-
+20	Stan	B-OTH	B-PROD	-
 21	»	O	O	-
 22	,	O	O	-
 23	der	O	O	-
@@ -22046,7 +22046,7 @@
 33	,	O	O	-
 34	eller	O	O	-
 35	«	O	O	-
-36	Lounge	O	B-PROD	-
+36	Lounge	B-OTH	B-PROD	-
 37	»	O	O	-
 38	der	O	O	-
 39	han	O	O	-
@@ -22396,10 +22396,10 @@
 18	,	O	O	-
 19	som	O	O	-
 20	«	O	O	-
-21	The	O	B-PROD	-
-22	Way	O	I-PROD	-
-23	I	O	I-PROD	-
-24	Am	O	I-PROD	-
+21	The	B-OTH	B-PROD	-
+22	Way	I-OTH	I-PROD	-
+23	I	I-OTH	I-PROD	-
+24	Am	I-OTH	I-PROD	-
 25	»	O	O	-
 26	,	O	O	-
 27	der	O	O	-
@@ -22463,8 +22463,8 @@
 9	geitemøkk	O	O	-
 10	er	O	O	-
 11	«	O	O	-
-12	Open	O	B-PROD	-
-13	MIC	O	I-PROD	-
+12	Open	B-OTH	B-PROD	-
+13	MIC	I-OTH	I-PROD	-
 14	»	O	O	-
 15	:	O	O	-
 
@@ -22773,7 +22773,7 @@
 # text = NHO med Gats i blikket
 1	NHO	B-ORG	B-ORG	-
 2	med	O	O	-
-3	Gats	O	B-PROD	-
+3	Gats	B-OTH	B-PROD	-
 4	i	O	O	-
 5	blikket	O	O	-
 
@@ -22790,7 +22790,7 @@
 
 # sent_id = 015400
 # text = NHO-direktør Tor Hersoug veit kvar han står:
-1	NHO-direktør	-	B-DRV	-
+1	NHO-direktør	B-OTH	B-DRV	-
 2	Tor	B-PER	B-PER	-
 3	Hersoug	I-PER	I-PER	-
 4	veit	O	O	-
@@ -22926,7 +22926,7 @@
 18	i	O	O	-
 19	forkant	O	O	-
 20	av	O	O	-
-21	Gats-forhandlingane	-	B-DRV	-
+21	Gats-forhandlingane	B-OTH	B-DRV	-
 22	og	O	O	-
 23	handel	O	O	-
 24	med	O	O	-
@@ -22950,7 +22950,7 @@
 13	i	O	O	-
 14	kombinasjon	O	O	-
 15	med	O	O	-
-16	Gats-reglane	-	B-DRV	-
+16	Gats-reglane	B-OTH	B-DRV	-
 17	opnar	O	O	-
 18	den	O	O	-
 19	norske	O	O	-
@@ -22964,7 +22964,7 @@
 # text = No understrekar NHO-direktør Hersoug at det er nettopp ei slik opning organisasjonen Clemet kjem frå går inn for.
 1	No	O	O	-
 2	understrekar	O	O	-
-3	NHO-direktør	-	B-DRV	-
+3	NHO-direktør	B-OTH	B-DRV	-
 4	Hersoug	B-PER	B-PER	-
 5	at	O	O	-
 6	det	O	O	-
@@ -23014,7 +23014,7 @@
 6	full	O	O	-
 7	fart	O	O	-
 8	i	O	O	-
-9	Gats-prosessen	-	B-DRV	-
+9	Gats-prosessen	B-OTH	B-DRV	-
 10	.	O	O	-
 
 # sent_id = 015412
@@ -23116,7 +23116,7 @@
 7	,	O	O	-
 8	på	O	O	-
 9	eit	O	O	-
-10	WTO-møte	-	B-DRV	-
+10	WTO-møte	B-OTH	B-DRV	-
 11	i	O	O	-
 12	Singapore	B-LOC	B-GPE_LOC	-
 13	.	O	O	-
@@ -23244,7 +23244,7 @@
 # sent_id = 015430
 # text = I EU-landa arbeider 67 millionar menneske, over to tredelar av alle tilsette, i tenesteproduksjon.
 1	I	O	O	-
-2	EU-landa	-	B-DRV	-
+2	EU-landa	B-OTH	B-DRV	-
 3	arbeider	O	O	-
 4	67	O	O	-
 5	millionar	O	O	-
@@ -23291,7 +23291,7 @@
 3	veks	O	O	-
 4	i	O	O	-
 5	alle	O	O	-
-6	OECD-landa	-	B-DRV	-
+6	OECD-landa	B-OTH	B-DRV	-
 7	.	O	O	-
 
 # sent_id = 015434
@@ -23313,7 +23313,7 @@
 1	Der	O	O	-
 2	kritikarane	O	O	-
 3	ser	O	O	-
-4	Gats	O	B-PROD	-
+4	Gats	B-OTH	B-PROD	-
 5	som	O	O	-
 6	ein	O	O	-
 7	konspirasjon	O	O	-
@@ -23518,13 +23518,13 @@
 # text = Forhandlingane om Generalavtalen om handel med tenester (Gats) dreier seg ikkje minst om å fjerna slike monopol.
 1	Forhandlingane	O	O	-
 2	om	O	O	-
-3	Generalavtalen	O	B-PROD	-
-4	om	O	I-PROD	-
-5	handel	O	I-PROD	-
-6	med	O	I-PROD	-
-7	tenester	O	I-PROD	-
+3	Generalavtalen	B-OTH	B-PROD	-
+4	om	I-OTH	I-PROD	-
+5	handel	I-OTH	I-PROD	-
+6	med	I-OTH	I-PROD	-
+7	tenester	I-OTH	I-PROD	-
 8	(	O	O	-
-9	Gats	O	B-PROD	-
+9	Gats	B-OTH	B-PROD	-
 10	)	O	O	-
 11	dreier	O	O	-
 12	seg	O	O	-
@@ -23625,7 +23625,7 @@
 11	ressursar	O	O	-
 12	,	O	O	-
 13	proklamerer	O	O	-
-14	NHO-direktøren	-	B-DRV	-
+14	NHO-direktøren	B-OTH	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 015461
@@ -24012,7 +24012,7 @@
 
 # sent_id = 015481
 # text = WTO-låsen
-1	WTO-låsen	-	B-DRV	-
+1	WTO-låsen	B-OTH	B-DRV	-
 
 # sent_id = 015482
 # text = Vi veit at samfunnsøkonomien blir meir og meir dominert av tenester i dei rike landa.
@@ -24204,7 +24204,7 @@
 15	eit	O	O	-
 16	område	O	O	-
 17	i	O	O	-
-18	Gats	O	B-PROD	-
+18	Gats	B-OTH	B-PROD	-
 19	,	O	O	-
 20	og	O	O	-
 21	dermed	O	O	-
@@ -24297,7 +24297,7 @@
 5	vidtgåande	O	O	-
 6	forpliktingar	O	O	-
 7	i	O	O	-
-8	Gats	O	B-PROD	-
+8	Gats	B-OTH	B-PROD	-
 9	,	O	O	-
 10	og	O	O	-
 11	kan	O	O	-
@@ -24475,7 +24475,7 @@
 14	har	O	O	-
 15	høyrt	O	O	-
 16	om	O	O	-
-17	Gats	O	B-PROD	-
+17	Gats	B-OTH	B-PROD	-
 18	.	O	O	-
 
 # sent_id = 015509
@@ -24505,7 +24505,7 @@
 2	får	O	O	-
 3	debatt	O	O	-
 4	om	O	O	-
-5	Gats	O	B-PROD	-
+5	Gats	B-OTH	B-PROD	-
 6	fyrst	O	O	-
 7	når	O	O	-
 8	konsekvensane	O	O	-
@@ -24565,7 +24565,7 @@
 4	tvil	O	O	-
 5	om	O	O	-
 6	at	O	O	-
-7	Gats	O	B-PROD	-
+7	Gats	B-OTH	B-PROD	-
 8	rører	O	O	-
 9	ved	O	O	-
 10	veldig	O	O	-
@@ -24589,7 +24589,7 @@
 5	har	O	O	-
 6	høyrt	O	O	-
 7	om	O	O	-
-8	Gats	O	B-PROD	-
+8	Gats	B-OTH	B-PROD	-
 9	,	O	O	-
 10	og	O	O	-
 11	Stortinget	B-ORG	B-ORG	-
@@ -24725,14 +24725,14 @@
 10	seg	O	O	-
 11	inn	O	O	-
 12	i	O	O	-
-13	Gats-regelverket	-	B-DRV	-
+13	Gats-regelverket	B-OTH	B-DRV	-
 14	?	O	O	-
 
 # sent_id = 015524
 # text = Når alle WTO-avtalane er ferdige, blir det mange tusen sider, veit du.
 1	Når	O	O	-
 2	alle	O	O	-
-3	WTO-avtalane	-	B-DRV	-
+3	WTO-avtalane	B-OTH	B-DRV	-
 4	er	O	O	-
 5	ferdige	O	O	-
 6	,	O	O	-
@@ -24810,7 +24810,7 @@
 10	rekka	O	O	-
 11	av	O	O	-
 12	«	O	O	-
-13	Terminator-filmar	-	B-DRV	-
+13	Terminator-filmar	B-OTH	B-DRV	-
 14	»	O	O	-
 15	.	O	O	-
 
@@ -24986,9 +24986,9 @@
 13	logiske	O	O	-
 14	utfordringa	O	O	-
 15	i	O	O	-
-16	Terminator-historia	-	B-DRV	-
+16	Terminator-historia	B-OTH	B-DRV	-
 17	og	O	O	-
-18	Connor-genealogien	-	B-DRV	-
+18	Connor-genealogien	B-OTH	B-DRV	-
 19	:	O	O	-
 
 # sent_id = 015538
@@ -25170,7 +25170,7 @@
 3	assosierer	O	O	-
 4	vel	O	O	-
 5	«	O	O	-
-6	Terminator	O	B-PROD	-
+6	Terminator	B-OTH	B-PROD	-
 7	»	O	O	-
 8	med	O	O	-
 9	skodespelaren	O	O	-
@@ -25220,7 +25220,7 @@
 27	sette	O	O	-
 28	mot	O	O	-
 29	i	O	O	-
-30	Bush-troppane	-	B-DRV	-
+30	Bush-troppane	B-OTH	B-DRV	-
 31	i	O	O	-
 32	Irak	B-LOC	B-GPE_LOC	-
 33	både	O	O	-
@@ -25234,7 +25234,7 @@
 41	åra	O	O	-
 42	som	O	O	-
 43	«	O	O	-
-44	Terminator	O	B-PROD	-
+44	Terminator	B-OTH	B-PROD	-
 45	»	O	O	-
 46	nummer	O	O	-
 47	to	O	O	-
@@ -25279,7 +25279,7 @@
 31	ny	O	O	-
 32	episode	O	O	-
 33	i	O	O	-
-34	Terminator-franchisen	-	B-DRV	-
+34	Terminator-franchisen	B-OTH	B-DRV	-
 35	er	O	O	-
 36	på	O	O	-
 37	veg	O	O	-
@@ -25301,7 +25301,7 @@
 # sent_id = 015548
 # text = «Terminator» var filmen som lyfte Arnold Schwarzeneggers karriere ut av trashfilm-undergrunnen («Hercules in New York» og «Conan the Barbarian») og inn i Hollywoods stjernehimmel, eit sprang som også opna den politiske sfæren for han.
 1	«	O	O	-
-2	Terminator	O	B-PROD	-
+2	Terminator	B-OTH	B-PROD	-
 3	»	O	O	-
 4	var	O	O	-
 5	filmen	O	O	-
@@ -25315,16 +25315,16 @@
 13	trashfilm-undergrunnen	O	O	-
 14	(	O	O	-
 15	«	O	O	-
-16	Hercules	O	B-PROD	-
-17	in	O	I-PROD	-
-18	New	O	I-PROD	-
-19	York	O	I-PROD	-
+16	Hercules	B-OTH	B-PROD	-
+17	in	I-OTH	I-PROD	-
+18	New	I-OTH	I-PROD	-
+19	York	I-OTH	I-PROD	-
 20	»	O	O	-
 21	og	O	O	-
 22	«	O	O	-
-23	Conan	O	B-PROD	-
-24	the	O	I-PROD	-
-25	Barbarian	O	I-PROD	-
+23	Conan	B-OTH	B-PROD	-
+24	the	I-OTH	I-PROD	-
+25	Barbarian	I-OTH	I-PROD	-
 26	»	O	O	-
 27	)	O	O	-
 28	og	O	O	-
@@ -25420,7 +25420,7 @@
 11	Fritz	B-PER	B-PER	-
 12	Langs	I-PER	I-PER	-
 13	«	O	O	-
-14	Metropolis	O	B-PROD	-
+14	Metropolis	B-OTH	B-PROD	-
 15	»	O	O	-
 16	(	O	O	-
 17	1927	O	O	-
@@ -25456,7 +25456,7 @@
 11	revolvermann	O	O	-
 12	i	O	O	-
 13	«	O	O	-
-14	Westworld	O	B-PROD	-
+14	Westworld	B-OTH	B-PROD	-
 15	»	O	O	-
 16	(	O	O	-
 17	1973	O	O	-
@@ -25475,8 +25475,8 @@
 8	i	O	O	-
 9	boka	O	O	-
 10	«	O	O	-
-11	Jurassic	O	B-PROD	-
-12	Park	O	I-PROD	-
+11	Jurassic	B-OTH	B-PROD	-
+12	Park	I-OTH	I-PROD	-
 13	»	O	O	-
 14	,	O	O	-
 15	han	O	O	-
@@ -25510,8 +25510,8 @@
 17	Ridley	B-PER	B-PER	-
 18	Scotts	I-PER	I-PER	-
 19	«	O	O	-
-20	Blade	O	B-PROD	-
-21	Runner	O	I-PROD	-
+20	Blade	B-OTH	B-PROD	-
+21	Runner	I-OTH	I-PROD	-
 22	»	O	O	-
 23	(	O	O	-
 24	1982	O	O	-
@@ -25599,10 +25599,10 @@
 23	i	O	O	-
 24	Shinja	B-PER	B-PER	-
 25	Tsukamotos	I-PER	I-PER	-
-26	«	-	B-DRV	-
-27	Tetsuo	O	I-DRV	-
-28	»	O	I-DRV	-
-29	-filmar	O	I-DRV	-
+26	«	B-OTH	B-DRV	-
+27	Tetsuo	I-OTH	I-DRV	-
+28	»	I-OTH	I-DRV	-
+29	-filmar	I-OTH	I-DRV	-
 30	(	O	O	-
 31	1989	O	O	-
 32	,	O	O	-
@@ -25618,7 +25618,7 @@
 4	barn	O	O	-
 5	i	O	O	-
 6	«	O	O	-
-7	A.I.	O	B-PROD	-
+7	A.I.	B-OTH	B-PROD	-
 8	»	O	O	-
 9	(	O	O	-
 10	2001	O	O	-
@@ -25634,7 +25634,7 @@
 20	som	O	O	-
 21	i	O	O	-
 22	«	O	O	-
-23	Tetsuo	O	B-PROD	-
+23	Tetsuo	B-OTH	B-PROD	-
 24	»	O	O	-
 25	og	O	O	-
 26	mange	O	O	-
@@ -25708,7 +25708,7 @@
 13	dei	O	O	-
 14	i	O	O	-
 15	«	O	O	-
-16	Terminator-filmane	-	B-DRV	-
+16	Terminator-filmane	B-OTH	B-DRV	-
 17	»	O	O	-
 18	også	O	O	-
 19	,	O	O	-
@@ -25818,7 +25818,7 @@
 14	dataprogram	O	O	-
 15	,	O	O	-
 16	«	O	O	-
-17	Skynet	O	B-PROD	-
+17	Skynet	B-OTH	B-PROD	-
 18	»	O	O	-
 19	,	O	O	-
 20	til	O	O	-
@@ -25851,7 +25851,7 @@
 # sent_id = 015567
 # text = «Terminator» vart til medan Ronald Reagan utvikla stjernekrigsprogrammet sitt.
 1	«	O	O	-
-2	Terminator	O	B-PROD	-
+2	Terminator	B-OTH	B-PROD	-
 3	»	O	O	-
 4	vart	O	O	-
 5	til	O	O	-
@@ -25883,7 +25883,7 @@
 16	det	O	O	-
 17	høgkommersielle	O	O	-
 18	og	O	O	-
-19	Washington-lojale	-	B-DRV	-
+19	Washington-lojale	B-OTH	B-DRV	-
 20	Hollywood	B-ORG	B-ORG	-
 21	,	O	O	-
 22	med	O	O	-
@@ -25892,9 +25892,9 @@
 25	nasjonale	O	O	-
 26	traume	O	O	-
 27	som	O	O	-
-28	Watergate	O	B-EVT	-
+28	Watergate	B-OTH	B-EVT	-
 29	og	O	O	-
-30	Vietnam	O	B-EVT	-
+30	Vietnam	B-OTH	B-EVT	-
 31	,	O	O	-
 32	byrja	O	O	-
 33	å	O	O	-
@@ -26180,7 +26180,7 @@
 18	om	O	O	-
 19	stadnamn	O	O	-
 20	(	O	O	-
-21	Stadnamntenesta	O	B-PROD	-
+21	Stadnamntenesta	B-OTH	B-PROD	-
 22	)	O	O	-
 23	.	O	O	-
 
@@ -26389,9 +26389,9 @@
 20	vart	O	O	-
 21	skissert	O	O	-
 22	i	O	O	-
-23	St.meld.	O	B-PROD	-
-24	nr.	O	I-PROD	-
-25	7	O	I-PROD	-
+23	St.meld.	B-OTH	B-PROD	-
+24	nr.	I-OTH	I-PROD	-
+25	7	I-OTH	I-PROD	-
 26	(	O	O	-
 27	2005	O	O	-
 28	-	O	O	-
@@ -27875,10 +27875,10 @@
 1	3.5.3.4	O	O	-
 2	Merknader	O	O	-
 3	i	O	O	-
-4	Norsk	O	B-PROD	-
-5	i	O	I-PROD	-
-6	hundre	O	I-PROD	-
-7	!	O	I-PROD	-
+4	Norsk	B-OTH	B-PROD	-
+5	i	I-OTH	I-PROD	-
+6	hundre	I-OTH	I-PROD	-
+7	!	I-OTH	I-PROD	-
 
 # sent_id = 015637
 # text = Den vidare omdanninga av Språkrådet reiste så mange spørsmål at departementet i første omgang ikkje gjekk vidare med spørsmålet om eit utvida ansvarsområde når det gjaldt andre språk enn norsk.
@@ -27985,10 +27985,10 @@
 25	resulterte	O	O	-
 26	i	O	O	-
 27	rapporten	O	O	-
-28	Norsk	O	B-PROD	-
-29	i	O	I-PROD	-
-30	hundre	O	I-PROD	-
-31	!	O	I-PROD	-
+28	Norsk	B-OTH	B-PROD	-
+29	i	I-OTH	I-PROD	-
+30	hundre	I-OTH	I-PROD	-
+31	!	I-OTH	I-PROD	-
 32	.	O	O	-
 
 # sent_id = 015640
@@ -28994,7 +28994,7 @@
 15	gå	O	O	-
 16	inn	O	O	-
 17	i	O	O	-
-18	EØS-avtalen	O	B-PROD	-
+18	EØS-avtalen	B-OTH	B-PROD	-
 19	sine	O	O	-
 20	verknader	O	O	-
 21	for	O	O	-
@@ -29013,7 +29013,7 @@
 7	,	O	O	-
 8	seier	O	O	-
 9	at	O	O	-
-10	EØS-avtalen	O	B-PROD	-
+10	EØS-avtalen	B-OTH	B-PROD	-
 11	er	O	O	-
 12	«	O	O	-
 13	ein	O	O	-
@@ -29068,7 +29068,7 @@
 28	reknar	O	O	-
 29	dette	O	O	-
 30	med	O	O	-
-31	EØS-avtalen	O	B-PROD	-
+31	EØS-avtalen	B-OTH	B-PROD	-
 32	inn	O	O	-
 33	i	O	O	-
 34	det	O	O	-
@@ -30754,7 +30754,7 @@
 # text = Løyvinga til Energifondet er i 2003 på 479 mill. kr, nesten ein halv milliard, inklusiv 200 mill. kr som følgje av påslaget på nettariffen til dette formålet.
 1	Løyvinga	O	O	-
 2	til	O	O	-
-3	Energifondet	O	B-PROD	-
+3	Energifondet	B-OTH	B-PROD	-
 4	er	O	O	-
 5	i	O	O	-
 6	2003	O	O	-
@@ -31016,7 +31016,7 @@
 
 # sent_id = 015762
 # text = Sem-erklæringa seier 100 mill. kr til denne forskninga.
-1	Sem-erklæringa	O	B-PROD	-
+1	Sem-erklæringa	B-OTH	B-PROD	-
 2	seier	O	O	-
 3	100	O	O	-
 4	mill.	O	O	-
@@ -31383,7 +31383,7 @@
 1	Då	O	O	-
 2	me	O	O	-
 3	sjekka	O	O	-
-4	Borsæ-isen	-	B-DRV	-
+4	Borsæ-isen	B-OTH	B-DRV	-
 5	litt	O	O	-
 6	tidlegare	O	O	-
 7	,	O	O	-
@@ -31469,8 +31469,8 @@
 
 # sent_id = 015782
 # text = Raude Kross-laget har 4-5 vakter til stades på hytta heile påska.
-1	Raude	-	B-DRV	-
-2	Kross-laget	O	I-DRV	-
+1	Raude	B-OTH	B-DRV	-
+2	Kross-laget	I-OTH	I-DRV	-
 3	har	O	O	-
 4	4	O	O	-
 5	-	O	O	-
@@ -34539,7 +34539,7 @@
 21	Tveiten	I-PER	I-PER	-
 22	,	O	O	-
 23	og	O	O	-
-24	KrF-representantane	-	B-DRV	-
+24	KrF-representantane	B-OTH	B-DRV	-
 25	Astrid	B-PER	B-PER	-
 26	Eidem	I-PER	I-PER	-
 27	Nordal	I-PER	I-PER	-
@@ -35133,8 +35133,8 @@
 10	minikonsert	O	O	-
 11	med	O	O	-
 12	«	O	O	-
-13	Suite	O	B-PROD	-
-14	gothique	O	I-PROD	-
+13	Suite	B-OTH	B-PROD	-
+14	gothique	I-OTH	I-PROD	-
 15	»	O	O	-
 16	av	O	O	-
 17	komponist	O	O	-
@@ -36325,11 +36325,11 @@
 14	Carlsten	I-PER	I-PER	-
 15	overrekte	O	O	-
 16	dei	O	O	-
-17	The	O	B-PROD	-
-18	Lithuanian	O	I-PROD	-
-19	Prize	O	I-PROD	-
-20	of	O	I-PROD	-
-21	Honour	O	I-PROD	-
+17	The	B-OTH	B-PROD	-
+18	Lithuanian	I-OTH	I-PROD	-
+19	Prize	I-OTH	I-PROD	-
+20	of	I-OTH	I-PROD	-
+21	Honour	I-OTH	I-PROD	-
 22	laurdag	O	O	-
 23	kveld	O	O	-
 24	.	O	O	-
@@ -36758,8 +36758,8 @@
 # sent_id = 016046
 # text = «Marie Claire» er klar
 1	«	O	O	-
-2	Marie	O	B-PROD	-
-3	Claire	O	I-PROD	-
+2	Marie	B-OTH	B-PROD	-
+3	Claire	I-OTH	I-PROD	-
 4	»	O	O	-
 5	er	O	O	-
 6	klar	O	O	-
@@ -36816,11 +36816,11 @@
 2	3.	O	O	-
 3	juli	O	O	-
 4	set	O	O	-
-5	MY	O	B-PROD	-
-6	«	O	I-PROD	-
-7	Marie	O	I-PROD	-
-8	Claire	O	I-PROD	-
-9	»	O	I-PROD	-
+5	MY	B-OTH	B-PROD	-
+6	«	I-OTH	I-PROD	-
+7	Marie	I-OTH	I-PROD	-
+8	Claire	I-OTH	I-PROD	-
+9	»	I-OTH	I-PROD	-
 10	ut	O	O	-
 11	på	O	O	-
 12	daglege	O	O	-
@@ -36837,11 +36837,11 @@
 
 # sent_id = 016053
 # text = MY «Marie Claire» er klar for innsats på Telemarkskanalen frå 3. juli.
-1	MY	O	B-PROD	-
-2	«	O	I-PROD	-
-3	Marie	O	I-PROD	-
-4	Claire	O	I-PROD	-
-5	»	O	I-PROD	-
+1	MY	B-OTH	B-PROD	-
+2	«	I-OTH	I-PROD	-
+3	Marie	I-OTH	I-PROD	-
+4	Claire	I-OTH	I-PROD	-
+5	»	I-OTH	I-PROD	-
 6	er	O	O	-
 7	klar	O	O	-
 8	for	O	O	-
@@ -36867,10 +36867,10 @@
 2	fylgje	O	O	-
 3	av	O	O	-
 4	at	O	O	-
-5	MS	O	B-PROD	-
-6	«	O	I-PROD	-
-7	Victoria	O	I-PROD	-
-8	»	O	I-PROD	-
+5	MS	B-OTH	B-PROD	-
+6	«	I-OTH	I-PROD	-
+7	Victoria	I-OTH	I-PROD	-
+8	»	I-OTH	I-PROD	-
 9	ikkje	O	O	-
 10	går	O	O	-
 11	til	O	O	-
