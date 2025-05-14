@@ -1,7 +1,7 @@
 import os
 
 repos = [
-    "git@github.com:ltgoslo/norne.git",
+    "https://github.com/ltgoslo/norne.git",
     # only if you want to use the document-aligned files:
     # "git@github.com:tollefj/UD-NARC.git",
 ]
