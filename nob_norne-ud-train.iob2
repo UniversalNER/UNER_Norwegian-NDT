@@ -1062,7 +1062,7 @@
 8	Bondevik	I-PER	I-PER	-
 9	opp	O	O	-
 10	på	O	O	-
-11	Fr.p.-formann	-	B-DRV	-
+11	Fr.p.-formann	O	B-DRV	-
 12	Carl	B-PER	B-PER	-
 13	I.	I-PER	I-PER	-
 14	Hagens	I-PER	I-PER	-
@@ -1103,7 +1103,7 @@
 1	I	O	O	-
 2	dag	O	O	-
 3	skal	O	O	-
-4	Fr.p.-gruppen	-	B-DRV	-
+4	Fr.p.-gruppen	O	B-DRV	-
 5	si	O	O	-
 6	ja	O	O	-
 7	eller	O	O	-
@@ -1240,7 +1240,7 @@
 8	fokus	O	O	-
 9	helt	O	O	-
 10	siden	O	O	-
-11	Fr.p.-gruppen	-	B-DRV	-
+11	Fr.p.-gruppen	O	B-DRV	-
 12	sist	O	O	-
 13	onsdag	O	O	-
 14	vedtok	O	O	-
@@ -1270,11 +1270,11 @@
 2	om	O	O	-
 3	Bondevik	B-PER	B-PER	-
 4	,	O	O	-
-5	Høyre-leder	-	B-DRV	-
+5	Høyre-leder	O	B-DRV	-
 6	Jan	B-PER	B-PER	-
 7	Petersen	I-PER	I-PER	-
 8	og	O	O	-
-9	Venstre-leder	-	B-DRV	-
+9	Venstre-leder	O	B-DRV	-
 10	Lars	B-PER	B-PER	-
 11	Sponheim	I-PER	I-PER	-
 12	som	O	O	-
@@ -1477,7 +1477,7 @@
 10	til	O	O	-
 11	å	O	O	-
 12	sikre	O	O	-
-13	Fr.p.-støtte	-	B-DRV	-
+13	Fr.p.-støtte	O	B-DRV	-
 14	for	O	O	-
 15	budsjettet	O	O	-
 16	,	O	O	-
@@ -1735,7 +1735,7 @@
 21	fremfor	O	O	-
 22	en	O	O	-
 23	fortsatt	O	O	-
-24	Ap.-regjering	-	B-DRV	-
+24	Ap.-regjering	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 000087
@@ -2294,7 +2294,7 @@
 7	Omar	I-PER	I-PER	-
 8	,	O	O	-
 9	beordrer	O	O	-
-10	Taliban-soldatene	-	B-DRV	-
+10	Taliban-soldatene	O	B-DRV	-
 11	til	O	O	-
 12	å	O	O	-
 13	adlyde	O	O	-
@@ -2325,7 +2325,7 @@
 15	Afghanistan	B-LOC	B-GPE_LOC	-
 16	,	O	O	-
 17	der	O	O	-
-18	Taliban-ledelsen	-	B-DRV	-
+18	Taliban-ledelsen	O	B-DRV	-
 19	har	O	O	-
 20	sitt	O	O	-
 21	hovedkvarter	O	O	-
@@ -2608,7 +2608,7 @@
 
 # sent_id = 000127
 # text = HIV/AIDS-arbeidet, som Annan forøvrig har fått inn på Sikkerhetsrådets dagsorden, er ett eksempel:
-1	HIV	-	B-DRV	-
+1	HIV	O	B-DRV	-
 2	/	O	I-DRV	-
 3	AIDS-arbeidet	O	I-DRV	-
 4	,	O	O	-
@@ -2637,7 +2637,7 @@
 # text = Mange blir HIV-smittet fordi de ikke vet hvordan man smittes og at man kan beskytte seg.
 1	Mange	O	O	-
 2	blir	O	O	-
-3	HIV-smittet	-	B-DRV	-
+3	HIV-smittet	O	B-DRV	-
 4	fordi	O	O	-
 5	de	O	O	-
 6	ikke	O	O	-
@@ -2661,7 +2661,7 @@
 # sent_id = 000131
 # text = Mange HIV-smittede i fattige land får ikke medisiner som kan gi dem et bedre og lengre liv fordi det ikke finnes penger, hverken privat eller offentlig.
 1	Mange	O	O	-
-2	HIV-smittede	-	B-DRV	-
+2	HIV-smittede	O	B-DRV	-
 3	i	O	O	-
 4	fattige	O	O	-
 5	land	O	O	-
@@ -2696,7 +2696,7 @@
 
 # sent_id = 000133
 # text = AIDS-døden, særlig i Afrika, etterlater seg hele landsbyer av foreldreløse barn.
-1	AIDS-døden	-	B-DRV	-
+1	AIDS-døden	O	B-DRV	-
 2	,	O	O	-
 3	særlig	O	O	-
 4	i	O	O	-
@@ -2762,7 +2762,7 @@
 5	i	O	O	-
 6	den	O	O	-
 7	store	O	O	-
-8	FN-familien	-	B-DRV	-
+8	FN-familien	O	B-DRV	-
 9	arbeider	O	O	-
 10	på	O	O	-
 11	feltet	O	O	-
@@ -2819,7 +2819,7 @@
 5	UNICEF	B-ORG	B-ORG	-
 6	,	O	O	-
 7	har	O	O	-
-8	HIV	-	B-DRV	-
+8	HIV	O	B-DRV	-
 9	/	O	I-DRV	-
 10	AIDS-katastrofen	O	I-DRV	-
 11	høyt	O	O	-
@@ -2936,7 +2936,7 @@
 1	I	O	O	-
 2	tillegg	O	O	-
 3	har	O	O	-
-4	FN-organet	-	B-DRV	-
+4	FN-organet	O	B-DRV	-
 5	UNRWA	B-ORG	B-ORG	-
 6	ansvaret	O	O	-
 7	for	O	O	-
@@ -3836,7 +3836,7 @@
 31	vegne	O	O	-
 32	holdt	O	O	-
 33	årets	O	O	-
-34	Nobel-foredrag	-	B-DRV	-
+34	Nobel-foredrag	O	B-DRV	-
 35	i	O	O	-
 36	Oslo	B-LOC	B-LOC	-
 37	rådhus	I-LOC	I-LOC	-
@@ -4028,7 +4028,7 @@
 12	i	O	O	-
 13	hundreårsjubiléet	O	O	-
 14	for	O	O	-
-15	Nobel-prisene	-	B-DRV	-
+15	Nobel-prisene	O	B-DRV	-
 16	,	O	O	-
 17	har	O	O	-
 18	alltid	O	O	-
@@ -4872,7 +4872,7 @@
 22	konsert	O	O	-
 23	sammen	O	O	-
 24	med	O	O	-
-25	Hollywood-kollega	-	B-DRV	-
+25	Hollywood-kollega	O	B-DRV	-
 26	Liam	B-PER	B-PER	-
 27	Neeson	I-PER	I-PER	-
 28	.	O	O	-
@@ -6420,7 +6420,7 @@
 11	siste	O	O	-
 12	årene	O	O	-
 13	som	O	O	-
-14	Subaru-kjører	-	B-DRV	-
+14	Subaru-kjører	O	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 000315
@@ -7545,7 +7545,7 @@
 5	blant	O	O	-
 6	annet	O	O	-
 7	i	O	O	-
-8	SHOC-rommet	-	B-DRV	-
+8	SHOC-rommet	O	B-DRV	-
 9	,	O	O	-
 10	som	O	O	-
 11	er	O	O	-
@@ -8836,7 +8836,7 @@
 3	sending	O	O	-
 4	ble	O	O	-
 5	en	O	O	-
-6	Bush-dukke	-	B-DRV	-
+6	Bush-dukke	O	B-DRV	-
 7	hugget	O	O	-
 8	løs	O	O	-
 9	på	O	O	-
@@ -9009,7 +9009,7 @@
 4	siden	O	O	-
 5	oppfordret	O	O	-
 6	en	O	O	-
-7	Mikke	-	B-DRV	-
+7	Mikke	O	B-DRV	-
 8	Mus-liknende	O	I-DRV	-
 9	dukke	O	O	-
 10	palestinske	O	O	-
@@ -9698,7 +9698,7 @@
 5	mye	O	O	-
 6	ut	O	O	-
 7	at	O	O	-
-8	Fram-mannskapet	-	B-DRV	-
+8	Fram-mannskapet	O	B-DRV	-
 9	slapp	O	O	-
 10	opp	O	O	-
 11	for	O	O	-
@@ -10300,7 +10300,7 @@
 
 # sent_id = 000520
 # text = Ap-leder Jens Stoltenberg sender sine gratulasjoner til foreldrene og besteforeldrene i forbindelse med fødselen av prinsesse Märtha Louise og Ari Behns andre barn.
-1	Ap-leder	-	B-DRV	-
+1	Ap-leder	O	B-DRV	-
 2	Jens	B-PER	B-PER	-
 3	Stoltenberg	I-PER	I-PER	-
 4	sender	O	O	-
@@ -10380,7 +10380,7 @@
 13	i	O	O	-
 14	lunsjpausen	O	O	-
 15	under	O	O	-
-16	Ap-landsmøtet	-	B-DRV	-
+16	Ap-landsmøtet	O	B-DRV	-
 17	fredag	O	O	-
 18	.	O	O	-
 
@@ -10503,7 +10503,7 @@
 
 # sent_id = 000529
 # text = Oslo-biskop Ole Christian Kvarme sender sine varmeste gratulasjoner til Märtha og Ari og hele kongefamilien.
-1	Oslo-biskop	-	B-DRV	-
+1	Oslo-biskop	O	B-DRV	-
 2	Ole	B-PER	B-PER	-
 3	Christian	I-PER	I-PER	-
 4	Kvarme	I-PER	I-PER	-
@@ -10698,7 +10698,7 @@
 3	i	O	O	-
 4	det	O	O	-
 5	såkalte	O	O	-
-6	SHOC-rommet	-	B-DRV	-
+6	SHOC-rommet	O	B-DRV	-
 7	som	O	O	-
 8	er	O	O	-
 9	WHOs	B-ORG	B-ORG	-
@@ -10978,7 +10978,7 @@
 
 # sent_id = 000555
 # text = Akvariet-sjef Kees Ekeli reagerer sterkt på Gånevs påstander om at reptilene lider ved Akvariet.
-1	Akvariet-sjef	-	B-DRV	-
+1	Akvariet-sjef	O	B-DRV	-
 2	Kees	B-PER	B-PER	-
 3	Ekeli	I-PER	I-PER	-
 4	reagerer	O	O	-
@@ -11255,7 +11255,7 @@
 2	ble	O	O	-
 3	foretatt	O	O	-
 4	ved	O	O	-
-5	Duke-universitetet	-	B-DRV	-
+5	Duke-universitetet	O	B-DRV	-
 6	i	O	O	-
 7	delstaten	O	O	-
 8	North	B-LOC	B-GPE_LOC	-
@@ -11976,7 +11976,7 @@
 4	formelt	O	O	-
 5	ikke	O	O	-
 6	lenger	O	O	-
-7	Viking-spiller	-	B-DRV	-
+7	Viking-spiller	O	B-DRV	-
 8	,	O	O	-
 9	siden	O	O	-
 10	kontrakten	O	O	-
@@ -11994,7 +11994,7 @@
 5	i	O	O	-
 6	den	O	O	-
 7	vante	O	O	-
-8	Viking-dressen	-	B-DRV	-
+8	Viking-dressen	O	B-DRV	-
 9	på	O	O	-
 10	hjemreisen	O	O	-
 11	fra	O	O	-
@@ -12313,7 +12313,7 @@
 
 # sent_id = 000635
 # text = CSKA-spilleren kastet seg ned, uten at Frode (Hansen) var i nærheten av ham, understreker kaptein Brede Hangeland.
-1	CSKA-spilleren	-	B-DRV	-
+1	CSKA-spilleren	O	B-DRV	-
 2	kastet	O	O	-
 3	seg	O	O	-
 4	ned	O	O	-
@@ -12524,7 +12524,7 @@
 13	0	O	O	-
 14	,	O	O	-
 15	og	O	O	-
-16	Sofia-tap	-	B-DRV	-
+16	Sofia-tap	O	B-DRV	-
 17	for	O	O	-
 18	Monaco	B-ORG	B-ORG	-
 19	gir	O	O	-
@@ -13522,7 +13522,7 @@
 # text = Det er Merseyside-politiet i Liverpool som holder ham i forvaring.
 1	Det	O	O	-
 2	er	O	O	-
-3	Merseyside-politiet	-	B-DRV	-
+3	Merseyside-politiet	O	B-DRV	-
 4	i	O	O	-
 5	Liverpool	B-LOC	B-GPE_LOC	-
 6	som	O	O	-
@@ -13538,7 +13538,7 @@
 1	En	O	O	-
 2	talsmann	O	O	-
 3	for	O	O	-
-4	Merseyside-politiet	-	B-DRV	-
+4	Merseyside-politiet	O	B-DRV	-
 5	bekrefter	O	O	-
 6	arrestasjonen	O	O	-
 7	og	O	O	-
@@ -13896,7 +13896,7 @@
 3	svært	O	O	-
 4	upopulær	O	O	-
 5	i	O	O	-
-6	Bush-administrasjonen	-	B-DRV	-
+6	Bush-administrasjonen	O	B-DRV	-
 7	da	O	O	-
 8	han	O	O	-
 9	sto	O	O	-
@@ -14367,7 +14367,7 @@
 # text = UV-stråling fra sommer-, Syden- og solariumssol er med oss hele tiden, nesten som en kjær følgesvenn.
 1	UV-stråling	O	O	-
 2	fra	O	O	-
-3	sommer-	-	B-DRV	-
+3	sommer-	O	B-DRV	-
 4	,	O	I-DRV	-
 5	Syden-	O	I-DRV	-
 6	og	O	I-DRV	-
@@ -14820,7 +14820,7 @@
 # text = Den svenske TCO-standarden er på 0,8 watt/kg og dermed langt lavere.
 1	Den	O	O	-
 2	svenske	O	O	-
-3	TCO-standarden	-	B-DRV	-
+3	TCO-standarden	O	B-DRV	-
 4	er	O	O	-
 5	på	O	O	-
 6	0,8	O	O	-
@@ -16095,7 +16095,7 @@
 7	,	O	O	-
 8	etter	O	O	-
 9	et	O	O	-
-10	Puls-innslag	-	B-DRV	-
+10	Puls-innslag	O	B-DRV	-
 11	om	O	O	-
 12	Johanssons	B-PER	B-PER	-
 13	forskning	O	O	-
@@ -16508,7 +16508,7 @@
 
 # sent_id = 000874
 # text = Barcelona-spilleren merker presset fra de drøyt 300.000 menneskene på " sagaøya ", men samtidig vet han at Islands mesterskapsstatistikk er dyster lesning.
-1	Barcelona-spilleren	-	B-DRV	-
+1	Barcelona-spilleren	O	B-DRV	-
 2	merker	O	O	-
 3	presset	O	O	-
 4	fra	O	O	-
@@ -16570,7 +16570,7 @@
 # text = Den tidligere Chelsea-spissen har ingen god forklaring på hvorfor den lille øya med de mange fotballproffene aldri klarer å tromme sammen et landslag som holder helt til mål.
 1	Den	O	O	-
 2	tidligere	O	O	-
-3	Chelsea-spissen	-	B-DRV	-
+3	Chelsea-spissen	O	B-DRV	-
 4	har	O	O	-
 5	ingen	O	O	-
 6	god	O	O	-
@@ -16646,7 +16646,7 @@
 13	100	O	O	-
 14	beste	O	O	-
 15	på	O	O	-
-16	FIFA-rankingen	-	B-DRV	-
+16	FIFA-rankingen	O	B-DRV	-
 17	først	O	O	-
 18	.	O	O	-
 
@@ -16844,7 +16844,7 @@
 12	kvalifiseringene	O	O	-
 13	,	O	O	-
 14	sier	O	O	-
-15	Portsmouth-spilleren	-	B-DRV	-
+15	Portsmouth-spilleren	O	B-DRV	-
 16	.	O	O	-
 
 # newpar
@@ -17316,7 +17316,7 @@
 10	kategori	O	O	-
 11	fire	O	O	-
 12	på	O	O	-
-13	Saffir-Simpson-skalaen	-	B-DRV	-
+13	Saffir-Simpson-skalaen	O	B-DRV	-
 14	(	O	O	-
 15	se	O	O	-
 16	faktaramme	O	O	-
@@ -18684,7 +18684,7 @@
 # sent_id = 000979
 # text = Ble FFK-fansens offer
 1	Ble	O	O	-
-2	FFK-fansens	-	B-DRV	-
+2	FFK-fansens	O	B-DRV	-
 3	offer	O	O	-
 
 # newpar
@@ -18705,7 +18705,7 @@
 # sent_id = 000982
 # text = Men RBK-keeperen hadde nok en tøff dag på jobben.
 1	Men	O	O	-
-2	RBK-keeperen	-	B-DRV	-
+2	RBK-keeperen	O	B-DRV	-
 3	hadde	O	O	-
 4	nok	O	O	-
 5	en	O	O	-
@@ -18935,7 +18935,7 @@
 2	!	O	O	-
 3	,	O	O	-
 4	sier	O	O	-
-5	RBK-keeperen	-	B-DRV	-
+5	RBK-keeperen	O	B-DRV	-
 6	.	O	O	-
 
 # sent_id = 000999
@@ -19023,7 +19023,7 @@
 2	alle	O	O	-
 3	fall	O	O	-
 4	fikk	O	O	-
-5	RBK-keeperen	-	B-DRV	-
+5	RBK-keeperen	O	B-DRV	-
 6	hjemmesupporternes	O	O	-
 7	fulle	O	O	-
 8	oppmerksomhet	O	O	-
@@ -19042,7 +19042,7 @@
 6	vi	O	O	-
 7	,	O	O	-
 8	sang	O	O	-
-9	FFK-fansen	-	B-DRV	-
+9	FFK-fansen	O	B-DRV	-
 10	av	O	O	-
 11	full	O	O	-
 12	hals	O	O	-
@@ -19299,7 +19299,7 @@
 
 # sent_id = 001018
 # text = RBK-treneren påpeker at det " bare " er smerter, og ikke noe som skal hemme keeperen.
-1	RBK-treneren	-	B-DRV	-
+1	RBK-treneren	O	B-DRV	-
 2	påpeker	O	O	-
 3	at	O	O	-
 4	det	O	O	-
@@ -19585,7 +19585,7 @@
 8	lanseringen	O	O	-
 9	av	O	O	-
 10	Modems	B-ORG	B-ORG	-
-11	EU-valgkampanje	-	B-DRV	-
+11	EU-valgkampanje	O	B-DRV	-
 12	i	O	O	-
 13	Paris	B-LOC	B-GPE_LOC	-
 14	.	O	O	-
@@ -19634,7 +19634,7 @@
 40	Aftenposten	B-ORG	B-ORG	-
 41	like	O	O	-
 42	etter	O	O	-
-43	Modem-møtet	-	B-DRV	-
+43	Modem-møtet	O	B-DRV	-
 44	i	O	O	-
 45	juni	O	O	-
 46	.	O	O	-
@@ -21399,7 +21399,7 @@
 18	sur	O	O	-
 19	og	O	O	-
 20	irritert	O	O	-
-21	Start-trener	-	B-DRV	-
+21	Start-trener	O	B-DRV	-
 22	Arne	B-PER	B-PER	-
 23	Sandstø	I-PER	I-PER	-
 24	til	O	O	-
@@ -21432,7 +21432,7 @@
 7	søppeltrener	O	O	-
 8	,	O	O	-
 9	kontrer	O	O	-
-10	Bryne-spiller	-	B-DRV	-
+10	Bryne-spiller	O	B-DRV	-
 11	Espen	B-PER	B-PER	-
 12	Ertzeid	I-PER	I-PER	-
 13	når	O	O	-
@@ -21440,7 +21440,7 @@
 15	får	O	O	-
 16	høre	O	O	-
 17	hva	O	O	-
-18	Start-treneren	-	B-DRV	-
+18	Start-treneren	O	B-DRV	-
 19	har	O	O	-
 20	sagt	O	O	-
 21	.	O	O	-
@@ -21448,7 +21448,7 @@
 # newpar
 # sent_id = 001138
 # text = Bryne-trener Rolf Teigen nekter å kommentere hjemmestrenerens uttalelse.
-1	Bryne-trener	-	B-DRV	-
+1	Bryne-trener	O	B-DRV	-
 2	Rolf	B-PER	B-PER	-
 3	Teigen	I-PER	I-PER	-
 4	nekter	O	O	-
@@ -21596,7 +21596,7 @@
 6	hadde	O	O	-
 7	stanget	O	O	-
 8	inn	O	O	-
-9	Start-ledelse	-	B-DRV	-
+9	Start-ledelse	O	B-DRV	-
 10	i	O	O	-
 11	første	O	O	-
 12	omgang	O	O	-
@@ -21711,7 +21711,7 @@
 
 # sent_id = 001156
 # text = Bryne-spilleren er jo på vei bort fra målet, sier Sandstø, som bekrefter at han sikter til Jesper Mathisen som var involvert i duellen i forkant av målet.
-1	Bryne-spilleren	-	B-DRV	-
+1	Bryne-spilleren	O	B-DRV	-
 2	er	O	O	-
 3	jo	O	O	-
 4	på	O	O	-
@@ -22947,7 +22947,7 @@
 
 # sent_id = 001222
 # text = EU-kravene til dieselbiler som kommer i 2009, er fem ganger strengere for partikler enn kravene som har vært gjeldende siden 2005.
-1	EU-kravene	-	B-DRV	-
+1	EU-kravene	O	B-DRV	-
 2	til	O	O	-
 3	dieselbiler	O	O	-
 4	som	O	O	-
@@ -23037,7 +23037,7 @@
 # newpar
 # sent_id = 001229
 # text = Konan-show
-1	Konan-show	-	B-DRV	-
+1	Konan-show	O	B-DRV	-
 
 # newpar
 # sent_id = 001230
@@ -23084,7 +23084,7 @@
 2	Det	O	O	-
 3	er	O	O	-
 4	en	O	O	-
-5	Disney-film	-	B-DRV	-
+5	Disney-film	O	B-DRV	-
 6	som	O	O	-
 7	heter	O	O	-
 8	Bambi	O	B-PROD	-
@@ -23423,7 +23423,7 @@
 2	et	O	O	-
 3	defensivt	O	O	-
 4	orientert	O	O	-
-5	AaFK-lag	-	B-DRV	-
+5	AaFK-lag	O	B-DRV	-
 6	kom	O	O	-
 7	hurtig	O	O	-
 8	på	O	O	-
@@ -23527,7 +23527,7 @@
 29	spill	O	O	-
 30	,	O	O	-
 31	men	O	O	-
-32	AaFK-keeper	-	B-DRV	-
+32	AaFK-keeper	O	B-DRV	-
 33	Nenad	B-PER	B-PER	-
 34	Novakovic	I-PER	I-PER	-
 35	reddet	O	O	-
@@ -23576,7 +23576,7 @@
 37	og	O	O	-
 38	gikk	O	O	-
 39	over	O	O	-
-40	RBK-buret	-	B-DRV	-
+40	RBK-buret	O	B-DRV	-
 41	.	O	O	-
 
 # newpar
@@ -23634,7 +23634,7 @@
 18	rundt	O	O	-
 19	den	O	O	-
 20	storvokste	O	O	-
-21	AaFK-spissen	-	B-DRV	-
+21	AaFK-spissen	O	B-DRV	-
 22	.	O	O	-
 
 # sent_id = 001260
@@ -23649,7 +23649,7 @@
 8	voldsomme	O	O	-
 9	protester	O	O	-
 10	fra	O	O	-
-11	RBK-spillerne	-	B-DRV	-
+11	RBK-spillerne	O	B-DRV	-
 12	.	O	O	-
 
 # sent_id = 001261
@@ -23782,7 +23782,7 @@
 20	under	O	O	-
 21	Novakovic	B-PER	B-PER	-
 22	i	O	O	-
-23	AaFK-buret	-	B-DRV	-
+23	AaFK-buret	O	B-DRV	-
 24	.	O	O	-
 
 # sent_id = 001269
@@ -23821,7 +23821,7 @@
 12	tafatt	O	O	-
 13	og	O	O	-
 14	baktungt	O	O	-
-15	Aalesund-lag	-	B-DRV	-
+15	Aalesund-lag	O	B-DRV	-
 16	.	O	O	-
 
 # newpar
@@ -23840,7 +23840,7 @@
 11	imot	O	O	-
 12	det	O	O	-
 13	massive	O	O	-
-14	RBK-overtaket	-	B-DRV	-
+14	RBK-overtaket	O	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 001272
@@ -24011,9 +24011,9 @@
 
 # sent_id = 001278
 # text = TIL-spillerne kritiserer Alfheim-kunstgresset
-1	TIL-spillerne	-	B-DRV	-
+1	TIL-spillerne	O	B-DRV	-
 2	kritiserer	O	O	-
-3	Alfheim-kunstgresset	-	B-DRV	-
+3	Alfheim-kunstgresset	O	B-DRV	-
 
 # newpar
 # sent_id = 001279
@@ -24033,7 +24033,7 @@
 # newpar
 # sent_id = 001280
 # text = Tromsø-spillerne er ikke udelt positive til underlaget på Alfheim.
-1	Tromsø-spillerne	-	B-DRV	-
+1	Tromsø-spillerne	O	B-DRV	-
 2	er	O	O	-
 3	ikke	O	O	-
 4	udelt	O	O	-
@@ -24070,7 +24070,7 @@
 # newpar
 # sent_id = 001283
 # text = Alfheim-matta har blitt slaktet av mange gjestende lag denne sesongen.
-1	Alfheim-matta	-	B-DRV	-
+1	Alfheim-matta	O	B-DRV	-
 2	har	O	O	-
 3	blitt	O	O	-
 4	slaktet	O	O	-
@@ -24084,7 +24084,7 @@
 
 # sent_id = 001284
 # text = Rosenborg-trener Erik Hamrén uttalte blant annet at underlaget på Alfheim og på Color Line stadion i Ålesund var "en skandale" og "ikke går an å spille fotball på".
-1	Rosenborg-trener	-	B-DRV	-
+1	Rosenborg-trener	O	B-DRV	-
 2	Erik	B-PER	B-PER	-
 3	Hamrén	I-PER	I-PER	-
 4	uttalte	O	O	-
@@ -24168,7 +24168,7 @@
 8	en	O	O	-
 9	rekke	O	O	-
 10	av	O	O	-
-11	Tromsø-spillerne	-	B-DRV	-
+11	Tromsø-spillerne	O	B-DRV	-
 12	,	O	O	-
 13	og	O	O	-
 14	de	O	O	-
@@ -24246,7 +24246,7 @@
 2	i	O	O	-
 3	tillegg	O	O	-
 4	sliter	O	O	-
-5	Alfheim-matta	-	B-DRV	-
+5	Alfheim-matta	O	B-DRV	-
 6	mye	O	O	-
 7	på	O	O	-
 8	kroppen	O	O	-
@@ -26894,7 +26894,7 @@
 6	politikk	O	O	-
 7	i	O	O	-
 8	sitt	O	O	-
-9	Nobel-foredrag	-	B-DRV	-
+9	Nobel-foredrag	O	B-DRV	-
 10	.	O	O	-
 
 # sent_id = 001420
@@ -26932,7 +26932,7 @@
 17	forhandlingene	O	O	-
 18	om	O	O	-
 19	tyrkisk	O	O	-
-20	EU-medlemskap	-	B-DRV	-
+20	EU-medlemskap	O	B-DRV	-
 21	på	O	O	-
 22	skinner	O	O	-
 23	.	O	O	-
@@ -26955,7 +26955,7 @@
 14	i	O	O	-
 15	litteratur	O	O	-
 16	sitt	O	O	-
-17	Nobel-foredrag	-	B-DRV	-
+17	Nobel-foredrag	O	B-DRV	-
 18	i	O	O	-
 19	Stockholm	B-LOC	B-GPE_LOC	-
 20	.	O	O	-
@@ -27065,7 +27065,7 @@
 33	listen	O	O	-
 34	for	O	O	-
 35	politisk	O	O	-
-36	Nobel-tale	-	B-DRV	-
+36	Nobel-tale	O	B-DRV	-
 37	høyt	O	O	-
 38	.	O	O	-
 
@@ -29945,7 +29945,7 @@
 1	De	O	O	-
 2	to	O	O	-
 3	norske	O	O	-
-4	Gaza-legene	-	B-DRV	-
+4	Gaza-legene	O	B-DRV	-
 5	har	O	O	-
 6	skrevet	O	O	-
 7	en	O	O	-
@@ -29973,7 +29973,7 @@
 # newpar
 # sent_id = 001589
 # text = Gaza-krigen, som startet 27. desember i fjor, ble ført uten at vestlig presse var på plass og kunne rapportere direkte hva som skjedde.
-1	Gaza-krigen	-	B-DRV	-
+1	Gaza-krigen	O	B-DRV	-
 2	,	O	O	-
 3	som	O	O	-
 4	startet	O	O	-
@@ -31138,7 +31138,7 @@
 9	da	O	O	-
 10	USA	B-ORG	B-GPE_ORG	-
 11	fortalte	O	O	-
-12	IMF-ledelsen	-	B-DRV	-
+12	IMF-ledelsen	O	B-DRV	-
 13	hvor	O	O	-
 14	skapet	O	O	-
 15	skulle	O	O	-
@@ -31397,7 +31397,7 @@
 # text = Og da G20-landene under sitt møte i London i april strevde med å bli enige om konkrete tiltak mot finanskrisen, ble det desto lettere å si ja til IMFs forslag om å tilføre organisasjonen hele 500 milliarder dollar, en tredobling av IMFs krigskasse!
 1	Og	O	O	-
 2	da	O	O	-
-3	G20-landene	-	B-DRV	-
+3	G20-landene	O	B-DRV	-
 4	under	O	O	-
 5	sitt	O	O	-
 6	møte	O	O	-
@@ -32042,7 +32042,7 @@
 2	leder	O	O	-
 3	av	O	O	-
 4	Arbeiderpartiets	B-ORG	B-ORG	-
-5	EU-utvalg	-	B-DRV	-
+5	EU-utvalg	O	B-DRV	-
 6	dempet	O	O	-
 7	han	O	O	-
 8	motsetningene	O	O	-
@@ -33692,11 +33692,11 @@
 18	replikker	O	O	-
 19	til	O	O	-
 20	både	O	O	-
-21	Frp-leder	-	B-DRV	-
+21	Frp-leder	O	B-DRV	-
 22	Siv	B-PER	B-PER	-
 23	Jensen	I-PER	I-PER	-
 24	og	O	O	-
-25	Høyre-leder	-	B-DRV	-
+25	Høyre-leder	O	B-DRV	-
 26	Erna	B-PER	B-PER	-
 27	Solberg	I-PER	I-PER	-
 28	forsøkte	O	O	-
@@ -33769,7 +33769,7 @@
 3	også	O	O	-
 4	enig	O	O	-
 5	med	O	O	-
-6	Høyre-lederen	-	B-DRV	-
+6	Høyre-lederen	O	B-DRV	-
 7	i	O	O	-
 8	at	O	O	-
 9	hensynet	O	O	-
@@ -35104,13 +35104,13 @@
 14	når	O	O	-
 15	opposisjonen	O	O	-
 16	bruker	O	O	-
-17	Obama-tildelingen	-	B-DRV	-
+17	Obama-tildelingen	O	B-DRV	-
 18	til	O	O	-
 19	en	O	O	-
 20	ny	O	O	-
 21	runde	O	O	-
 22	med	O	O	-
-23	Jagland-kritikk	-	B-DRV	-
+23	Jagland-kritikk	O	B-DRV	-
 24	.	O	O	-
 
 # sent_id = 001824
@@ -37186,7 +37186,7 @@
 4	norske	O	O	-
 5	myndigheter	O	O	-
 6	møte	O	O	-
-7	FN-komiteen	-	B-DRV	-
+7	FN-komiteen	O	B-DRV	-
 8	i	O	O	-
 9	Genève	B-LOC	B-GPE_LOC	-
 10	for	O	O	-
@@ -37566,7 +37566,7 @@
 1	I	O	O	-
 2	likhet	O	O	-
 3	med	O	O	-
-4	FN-kåringen	-	B-DRV	-
+4	FN-kåringen	O	B-DRV	-
 5	om	O	O	-
 6	hvilke	O	O	-
 7	land	O	O	-
@@ -38012,7 +38012,7 @@
 2	mellom	O	O	-
 3	skatteopplysninger	O	O	-
 4	og	O	O	-
-5	Facebook-kontakter	-	B-DRV	-
+5	Facebook-kontakter	O	B-DRV	-
 6	kan	O	O	-
 7	være	O	O	-
 8	et	O	O	-
@@ -38607,7 +38607,7 @@
 # text = Kollektivtilbudet i Oslo-området er blitt bedre de siste årene.
 1	Kollektivtilbudet	O	O	-
 2	i	O	O	-
-3	Oslo-området	-	B-DRV	-
+3	Oslo-området	O	B-DRV	-
 4	er	O	O	-
 5	blitt	O	O	-
 6	bedre	O	O	-
@@ -42032,7 +42032,7 @@
 27	like	O	O	-
 28	sterk	O	O	-
 29	hos	O	O	-
-30	NS-medlemmet	-	B-DRV	-
+30	NS-medlemmet	O	B-DRV	-
 31	som	O	O	-
 32	hos	O	O	-
 33	motstandsmannen	O	O	-
@@ -42446,7 +42446,7 @@
 2	ærlig	O	O	-
 3	analyse	O	O	-
 4	av	O	O	-
-5	Sovjet-kommunismen	-	B-DRV	-
+5	Sovjet-kommunismen	O	B-DRV	-
 6	og	O	O	-
 7	nazismen	O	O	-
 8	viser	O	O	-
@@ -43317,7 +43317,7 @@
 18	av	O	O	-
 19	klimafakta	O	O	-
 20	i	O	O	-
-21	Bush-administrasjonen	-	B-DRV	-
+21	Bush-administrasjonen	O	B-DRV	-
 22	.	O	O	-
 
 # sent_id = 002237
@@ -43373,7 +43373,7 @@
 
 # sent_id = 002239
 # text = Bush-administrasjonens tak på bilutslipp i 18 stater er løftet.
-1	Bush-administrasjonens	-	B-DRV	-
+1	Bush-administrasjonens	O	B-DRV	-
 2	tak	O	O	-
 3	på	O	O	-
 4	bilutslipp	O	O	-
@@ -44591,7 +44591,7 @@
 12	igjen	O	O	-
 13	tusenvis	O	O	-
 14	av	O	O	-
-15	Somaliland-schilling	-	B-DRV	-
+15	Somaliland-schilling	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 002293
@@ -45768,13 +45768,13 @@
 # sent_id = 002354
 # text = Både Hagen-familien, Kristian Siems familie og Fredriksen-familien har vist stor kreativitet i sine tilpasninger.
 1	Både	O	O	-
-2	Hagen-familien	-	B-DRV	-
+2	Hagen-familien	O	B-DRV	-
 3	,	O	O	-
 4	Kristian	B-PER	B-PER	-
 5	Siems	I-PER	I-PER	-
 6	familie	O	O	-
 7	og	O	O	-
-8	Fredriksen-familien	-	B-DRV	-
+8	Fredriksen-familien	O	B-DRV	-
 9	har	O	O	-
 10	vist	O	O	-
 11	stor	O	O	-
@@ -48120,7 +48120,7 @@
 8	Kina	B-LOC	B-GPE_LOC	-
 9	tidlig	O	O	-
 10	i	O	O	-
-11	Obama-administrasjonen	-	B-DRV	-
+11	Obama-administrasjonen	O	B-DRV	-
 12	,	O	O	-
 13	uttalte	O	O	-
 14	hun	O	O	-
@@ -49182,7 +49182,7 @@
 4	i	O	O	-
 5	hånd	O	O	-
 6	kan	O	O	-
-7	Obama-administrasjonen	-	B-DRV	-
+7	Obama-administrasjonen	O	B-DRV	-
 8	begynne	O	O	-
 9	å	O	O	-
 10	gi	O	O	-
@@ -49570,7 +49570,7 @@
 # text = Kanskje får AKP-erne endelig rett i at Kina blir et lysende fyrtårn.
 1	Kanskje	O	O	-
 2	får	O	O	-
-3	AKP-erne	-	B-DRV	-
+3	AKP-erne	O	B-DRV	-
 4	endelig	O	O	-
 5	rett	O	O	-
 6	i	O	O	-
@@ -51478,14 +51478,14 @@
 5	av	O	O	-
 6	den	O	O	-
 7	smilende	O	O	-
-8	BBC-journalisten	-	B-DRV	-
+8	BBC-journalisten	O	B-DRV	-
 9	Alan	B-PER	B-PER	-
 10	Johnston	I-PER	I-PER	-
 11	side	O	O	-
 12	om	O	O	-
 13	side	O	O	-
 14	med	O	O	-
-15	Hamas-leder	-	B-DRV	-
+15	Hamas-leder	O	B-DRV	-
 16	Ismail	B-PER	B-PER	-
 17	Haniyeh	I-PER	I-PER	-
 18	verden	O	O	-
@@ -51547,7 +51547,7 @@
 4	Henriksen	I-PER	I-PER	-
 5	Waage	I-PER	I-PER	-
 6	,	O	O	-
-7	Midtøsten-ekspert	-	B-DRV	-
+7	Midtøsten-ekspert	O	B-DRV	-
 8	ved	O	O	-
 9	Universitetet	B-ORG	B-ORG	-
 10	i	I-ORG	I-ORG	-
@@ -51708,7 +51708,7 @@
 9	krever	O	O	-
 10	endring	O	O	-
 11	fra	O	O	-
-12	Hamas-ledelsen	-	B-DRV	-
+12	Hamas-ledelsen	O	B-DRV	-
 13	,	O	O	-
 14	er	O	O	-
 15	organisasjonens	O	O	-
@@ -51759,7 +51759,7 @@
 1	Norges	B-LOC	B-GPE_LOC	-
 2	kanskje	O	O	-
 3	fremste	O	O	-
-4	Hamas-ekspert	-	B-DRV	-
+4	Hamas-ekspert	O	B-DRV	-
 5	,	O	O	-
 6	Are	B-PER	B-PER	-
 7	Hovdenak	I-PER	I-PER	-
@@ -51842,7 +51842,7 @@
 9	og	O	O	-
 10	ble	O	O	-
 11	av	O	O	-
-12	Midtøsten-eksperter	-	B-DRV	-
+12	Midtøsten-eksperter	O	B-DRV	-
 13	ansett	O	O	-
 14	for	O	O	-
 15	å	O	O	-
@@ -52012,7 +52012,7 @@
 
 # sent_id = 002676
 # text = Fatah-leder Mahmoud Abbas kan ifølge Nils Butenschøn, direktør ved Norsk senter for menneskerettigheter, få et Quisling-stempel etter Gaza-krigen.
-1	Fatah-leder	-	B-DRV	-
+1	Fatah-leder	O	B-DRV	-
 2	Mahmoud	B-PER	B-PER	-
 3	Abbas	I-PER	I-PER	-
 4	kan	O	O	-
@@ -52029,7 +52029,7 @@
 15	,	O	O	-
 16	få	O	O	-
 17	et	O	O	-
-18	Quisling-stempel	-	B-DRV	-
+18	Quisling-stempel	O	B-DRV	-
 19	etter	O	O	-
 20	Gaza-krigen	O	B-EVT	-
 21	.	O	O	-
@@ -52098,7 +52098,7 @@
 10	Israels	B-ORG	B-GPE_ORG	-
 11	bombardement	O	O	-
 12	av	O	O	-
-13	Hamas-mål	-	B-DRV	-
+13	Hamas-mål	O	B-DRV	-
 14	på	O	O	-
 15	Gaza	B-LOC	B-GPE_LOC	-
 16	.	O	O	-
@@ -52507,7 +52507,7 @@
 # sent_id = 002700
 # text = Uten FN-styrker ser vi frem mot fortsatte somaliske lidelser og en frihavn for pirater og terrorister.
 1	Uten	O	O	-
-2	FN-styrker	-	B-DRV	-
+2	FN-styrker	O	B-DRV	-
 3	ser	O	O	-
 4	vi	O	O	-
 5	frem	O	O	-
@@ -53628,7 +53628,7 @@
 5	Churchill	B-PER	B-PER	-
 6	holdt	O	O	-
 7	sin	O	O	-
-8	Fulton-tale	-	B-DRV	-
+8	Fulton-tale	O	B-DRV	-
 9	,	O	O	-
 10	gikk	O	O	-
 11	Einar	B-PER	B-PER	-
@@ -54802,7 +54802,7 @@
 3	det	O	O	-
 4	da	O	O	-
 5	at	O	O	-
-6	Schibsted-konsernets	-	B-DRV	-
+6	Schibsted-konsernets	O	B-DRV	-
 7	mektige	O	O	-
 8	toppsjef	O	O	-
 9	,	O	O	-
@@ -54905,7 +54905,7 @@
 13	takhøyde	O	O	-
 14	i	O	O	-
 15	det	O	O	-
-16	Schibstedske	-	B-DRV	-
+16	Schibstedske	O	B-DRV	-
 17	hus	O	O	-
 18	.	O	O	-
 
@@ -56080,7 +56080,7 @@
 
 # sent_id = 002898
 # text = Trollhättan-bedriften er tross alt en av verdens minste bilprodusenter, som bare selger 85000 biler på verdensbasis.
-1	Trollhättan-bedriften	-	B-DRV	-
+1	Trollhättan-bedriften	O	B-DRV	-
 2	er	O	O	-
 3	tross	O	O	-
 4	alt	O	O	-
@@ -56238,7 +56238,7 @@
 # newpar
 # sent_id = 002905
 # text = SAAB-forhandlerne i Norge er selvsagt fortvilet, og det kan bli til mager trøst at eieren, General Motors, garanterer for deler og service hvis SAAB skulle ble nedlagt.
-1	SAAB-forhandlerne	-	B-DRV	-
+1	SAAB-forhandlerne	O	B-DRV	-
 2	i	O	O	-
 3	Norge	B-LOC	B-GPE_LOC	-
 4	er	O	O	-
@@ -56936,10 +56936,10 @@
 3	lang	O	O	-
 4	periode	O	O	-
 5	fikk	O	O	-
-6	BMW-folket	-	B-DRV	-
+6	BMW-folket	O	B-DRV	-
 7	levert	O	O	-
 8	sine	O	O	-
-9	BMW-er	-	B-DRV	-
+9	BMW-er	O	B-DRV	-
 10	uten	O	O	-
 11	modellbeskrivelse	O	O	-
 12	bak	O	O	-
@@ -57285,7 +57285,7 @@
 1	Den	O	O	-
 2	kompakte	O	O	-
 3	enigheten	O	O	-
-4	G20-landene	-	B-DRV	-
+4	G20-landene	O	B-DRV	-
 5	viste	O	O	-
 6	under	O	O	-
 7	møtet	O	O	-
@@ -57949,7 +57949,7 @@
 7	av	O	O	-
 8	angrepet	O	O	-
 9	på	O	O	-
-10	Rehman-restauranten	-	B-DRV	-
+10	Rehman-restauranten	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 002984
@@ -59979,7 +59979,7 @@
 # sent_id = 003100
 # text = Etter Lyng-kommisjonens avsløringer er jeg ikke trygg på at noen grenser overholdes hvis en «sak» antas å være god nok.
 1	Etter	O	O	-
-2	Lyng-kommisjonens	-	B-DRV	-
+2	Lyng-kommisjonens	O	B-DRV	-
 3	avsløringer	O	O	-
 4	er	O	O	-
 5	jeg	O	O	-
@@ -60776,7 +60776,7 @@
 25	ligne	O	O	-
 26	en	O	O	-
 27	sliten	O	O	-
-28	Ål-hytte	-	B-DRV	-
+28	Ål-hytte	O	B-DRV	-
 29	.	O	O	-
 
 # sent_id = 003149
@@ -61293,7 +61293,7 @@
 37	offentlighet	O	O	-
 38	etter	O	O	-
 39	et	O	O	-
-40	NHO-møte	-	B-DRV	-
+40	NHO-møte	O	B-DRV	-
 41	i	O	O	-
 42	Oslo	B-LOC	B-GPE_LOC	-
 43	.	O	O	-
@@ -61779,7 +61779,7 @@
 11	beløp	O	O	-
 12	som	O	O	-
 13	for	O	O	-
-14	Hagen-familien	-	B-DRV	-
+14	Hagen-familien	O	B-DRV	-
 15	betyr	O	O	-
 16	80	O	O	-
 17	-	O	O	-
@@ -62493,7 +62493,7 @@
 12	kontroll	O	O	-
 13	og	O	O	-
 14	at	O	O	-
-15	Helse-Norge	-	B-DRV	-
+15	Helse-Norge	O	B-DRV	-
 16	er	O	O	-
 17	i	O	O	-
 18	betydelig	O	O	-
@@ -62562,7 +62562,7 @@
 # text = Det er Velstands-Norges krav om at det siste problem skal løses, den rødgrønne regjering nå butter mot.
 1	Det	O	O	-
 2	er	O	O	-
-3	Velstands-Norges	-	B-DRV	-
+3	Velstands-Norges	O	B-DRV	-
 4	krav	O	O	-
 5	om	O	O	-
 6	at	O	O	-
@@ -63194,7 +63194,7 @@
 31	stor	O	O	-
 32	del	O	O	-
 33	av	O	O	-
-34	LO-medlemmene	-	B-DRV	-
+34	LO-medlemmene	O	B-DRV	-
 35	tilhører	O	O	-
 36	ganske	O	O	-
 37	andre	O	O	-
@@ -63428,7 +63428,7 @@
 # text = Muslim i Bush-land
 1	Muslim	O	O	-
 2	i	O	O	-
-3	Bush-land	-	B-DRV	-
+3	Bush-land	O	B-DRV	-
 
 # newpar
 # sent_id = 003277
@@ -63453,7 +63453,7 @@
 4	sa	O	O	-
 5	i	O	O	-
 6	sin	O	O	-
-7	Kairo-tale	-	B-DRV	-
+7	Kairo-tale	O	B-DRV	-
 8	at	O	O	-
 9	islam	O	O	-
 10	alltid	O	O	-
@@ -63483,7 +63483,7 @@
 14	som	O	O	-
 15	fremdeles	O	O	-
 16	var	O	O	-
-17	Bush-land	-	B-DRV	-
+17	Bush-land	O	B-DRV	-
 18	.	O	O	-
 
 # newpar
@@ -63726,7 +63726,7 @@
 11	i	O	O	-
 12	den	O	O	-
 13	historiske	O	O	-
-14	Kairo-talen	-	B-DRV	-
+14	Kairo-talen	O	B-DRV	-
 15	ved	O	O	-
 16	tydelig	O	O	-
 17	å	O	O	-
@@ -63800,7 +63800,7 @@
 # text = En av Ramadan-månedens siste netter besøkte jeg en praktfull moské der pågangen var så stor at det var satt opp flatskjermer og telt utendørs, og Koran-resitasjon runget ut fra de utvendige høyttalerne gjennom hele natten etter tillatelse fra politiet.
 1	En	O	O	-
 2	av	O	O	-
-3	Ramadan-månedens	-	B-DRV	-
+3	Ramadan-månedens	O	B-DRV	-
 4	siste	O	O	-
 5	netter	O	O	-
 6	besøkte	O	O	-
@@ -63824,7 +63824,7 @@
 24	utendørs	O	O	-
 25	,	O	O	-
 26	og	O	O	-
-27	Koran-resitasjon	-	B-DRV	-
+27	Koran-resitasjon	O	B-DRV	-
 28	runget	O	O	-
 29	ut	O	O	-
 30	fra	O	O	-
@@ -66514,7 +66514,7 @@
 21	på	O	O	-
 22	stortingslisten	O	O	-
 23	og	O	O	-
-24	Frp-spøkelset	-	B-DRV	-
+24	Frp-spøkelset	O	B-DRV	-
 25	.	O	O	-
 
 # newpar
@@ -66694,7 +66694,7 @@
 11	i	O	O	-
 12	stil	O	O	-
 13	til	O	O	-
-14	Arne	-	B-DRV	-
+14	Arne	O	B-DRV	-
 15	Jacobsen-stolen	O	I-DRV	-
 16	de	O	O	-
 17	hadde	O	O	-
@@ -67201,7 +67201,7 @@
 18	av	O	O	-
 19	den	O	O	-
 20	actionfylte	O	O	-
-21	Fox	-	B-DRV	-
+21	Fox	O	B-DRV	-
 22	Kids-tegnefilmen	O	I-DRV	-
 23	de	O	O	-
 24	så	O	O	-
@@ -67521,7 +67521,7 @@
 
 # sent_id = 003468
 # text = FN-ansatte i New York, som overvintret de mange lange årene med George W. Bush, klyper seg nå i armen hver dag.
-1	FN-ansatte	-	B-DRV	-
+1	FN-ansatte	O	B-DRV	-
 2	i	O	O	-
 3	New	B-LOC	B-GPE_LOC	-
 4	York	I-LOC	I-GPE_LOC	-
@@ -67561,7 +67561,7 @@
 11	sa	O	O	-
 12	en	O	O	-
 13	gammel	O	O	-
-14	FN-kollega	-	B-DRV	-
+14	FN-kollega	O	B-DRV	-
 15	om	O	O	-
 16	samarbeidet	O	O	-
 17	med	O	O	-
@@ -67589,7 +67589,7 @@
 15	er	O	O	-
 16	hjemme	O	O	-
 17	i	O	O	-
-18	FN-systemet	-	B-DRV	-
+18	FN-systemet	O	B-DRV	-
 19	.	O	O	-
 
 # sent_id = 003471
@@ -67632,7 +67632,7 @@
 14	sa	O	O	-
 15	USAs	B-ORG	B-GPE_ORG	-
 16	daværende	O	O	-
-17	FN-ambassadør	-	B-DRV	-
+17	FN-ambassadør	O	B-DRV	-
 18	John	B-PER	B-PER	-
 19	Bolten	I-PER	I-PER	-
 20	.	O	O	-
@@ -67813,7 +67813,7 @@
 3	bidra	O	O	-
 4	til	O	O	-
 5	at	O	O	-
-6	FN-ledelsen	-	B-DRV	-
+6	FN-ledelsen	O	B-DRV	-
 7	føler	O	O	-
 8	et	O	O	-
 9	like	O	O	-
@@ -67868,7 +67868,7 @@
 14	og	O	O	-
 15	Finland	B-ORG	B-GPE_ORG	-
 16	ble	O	O	-
-17	EU-medlemmer	-	B-DRV	-
+17	EU-medlemmer	O	B-DRV	-
 18	i	O	O	-
 19	1995	O	O	-
 20	.	O	O	-
@@ -68019,7 +68019,7 @@
 # text = De andre NATO-landene har samlet brukt snaut en billion til.
 1	De	O	O	-
 2	andre	O	O	-
-3	NATO-landene	-	B-DRV	-
+3	NATO-landene	O	B-DRV	-
 4	har	O	O	-
 5	samlet	O	O	-
 6	brukt	O	O	-
@@ -68367,7 +68367,7 @@
 4	denne	O	O	-
 5	runde	O	O	-
 6	av	O	O	-
-7	Aftenposten-debatten	-	B-DRV	-
+7	Aftenposten-debatten	O	B-DRV	-
 8	,	O	O	-
 9	og	O	O	-
 10	slår	O	O	-
@@ -69228,7 +69228,7 @@
 7	på	O	O	-
 8	vegne	O	O	-
 9	av	O	O	-
-10	FN-systemet	-	B-DRV	-
+10	FN-systemet	O	B-DRV	-
 11	:	O	O	-
 
 # sent_id = 003567
@@ -71712,7 +71712,7 @@
 # sent_id = 003690
 # text = En EU-rapport fra 2006 foreslår blant annet tøffere tiltak mot promillekjøring, høyere avgifter samt å gjøre alkohol enda mindre tilgjengelig.
 1	En	O	O	-
-2	EU-rapport	-	B-DRV	-
+2	EU-rapport	O	B-DRV	-
 3	fra	O	O	-
 4	2006	O	O	-
 5	foreslår	O	O	-
@@ -72525,7 +72525,7 @@
 
 # sent_id = 003729
 # text = Obama-koden
-1	Obama-koden	-	B-DRV	-
+1	Obama-koden	O	B-DRV	-
 
 # newpar
 # sent_id = 003730
@@ -72562,7 +72562,7 @@
 # newpar
 # sent_id = 003734
 # text = AUF-leder Martin Henriksen skulle ønske at statsminister Jens Stoltenberg begeistret velgerne mer.
-1	AUF-leder	-	B-DRV	-
+1	AUF-leder	O	B-DRV	-
 2	Martin	B-PER	B-PER	-
 3	Henriksen	I-PER	I-PER	-
 4	skulle	O	O	-
@@ -72585,7 +72585,7 @@
 5	lære	O	O	-
 6	å	O	O	-
 7	knekke	O	O	-
-8	Obama-koden	-	B-DRV	-
+8	Obama-koden	O	B-DRV	-
 9	.	O	O	-
 
 # newpar
@@ -72633,7 +72633,7 @@
 6	tyde	O	O	-
 7	på	O	O	-
 8	at	O	O	-
-9	Obama-koden	-	B-DRV	-
+9	Obama-koden	O	B-DRV	-
 10	kan	O	O	-
 11	være	O	O	-
 12	det	O	O	-
@@ -72753,7 +72753,7 @@
 3	finnes	O	O	-
 4	i	O	O	-
 5	Obamas	B-PER	B-PER	-
-6	Berlin-tale	-	B-DRV	-
+6	Berlin-tale	O	B-DRV	-
 7	,	O	O	-
 8	men	O	O	-
 9	pathos	O	O	-
@@ -73481,7 +73481,7 @@
 11	som	O	O	-
 12	ikke	O	O	-
 13	er	O	O	-
-14	IA-bedrifter	-	B-DRV	-
+14	IA-bedrifter	O	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 003776
@@ -73867,7 +73867,7 @@
 
 # sent_id = 003795
 # text = IA-mysteriet er muligens ikke så mystisk likevel.
-1	IA-mysteriet	-	B-DRV	-
+1	IA-mysteriet	O	B-DRV	-
 2	er	O	O	-
 3	muligens	O	O	-
 4	ikke	O	O	-
@@ -75275,7 +75275,7 @@
 13	,	O	O	-
 14	uttrekning	O	O	-
 15	av	O	O	-
-16	Irak-styrkene	-	B-DRV	-
+16	Irak-styrkene	O	B-DRV	-
 17	,	O	O	-
 18	bedring	O	O	-
 19	av	O	O	-
@@ -78514,7 +78514,7 @@
 21	tilhørte	O	O	-
 22	en	O	O	-
 23	av	O	O	-
-24	Ceausescu-diktaturets	-	B-DRV	-
+24	Ceausescu-diktaturets	O	B-DRV	-
 25	mange	O	O	-
 26	undertrykte	O	O	-
 27	minoriteter	O	O	-
@@ -79061,7 +79061,7 @@
 21	å	O	O	-
 22	skrive	O	O	-
 23	om	O	O	-
-24	GULag-leirene	-	B-DRV	-
+24	GULag-leirene	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 004056
@@ -79698,7 +79698,7 @@
 7	Li	B-PER	B-PER	-
 8	Xiaohong	I-PER	I-PER	-
 9	ved	O	O	-
-10	Chongqing-universitetet	-	B-DRV	-
+10	Chongqing-universitetet	O	B-DRV	-
 11	,	O	O	-
 12	som	O	O	-
 13	inviterte	O	O	-
@@ -79784,7 +79784,7 @@
 11	det	O	O	-
 12	dobbelte	O	O	-
 13	av	O	O	-
-14	Trøndelags-fylkene	-	B-DRV	-
+14	Trøndelags-fylkene	O	B-DRV	-
 15	-	O	O	-
 16	en	O	O	-
 17	folketetthet	O	O	-
@@ -80138,7 +80138,7 @@
 3	kaller	O	O	-
 4	det	O	O	-
 5	«	O	O	-
-6	Chongqing-fart	-	B-DRV	-
+6	Chongqing-fart	O	B-DRV	-
 7	»	O	O	-
 8	sa	O	O	-
 9	de	O	O	-
@@ -80576,7 +80576,7 @@
 2	ligger	O	O	-
 3	i	O	O	-
 4	«	O	O	-
-5	Chongqing-fart	-	B-DRV	-
+5	Chongqing-fart	O	B-DRV	-
 6	»	O	O	-
 7	i	O	O	-
 8	venstrefeltet	O	O	-
@@ -80883,7 +80883,7 @@
 # sent_id = 004148
 # text = Kan Velferds-Norge det om 20 år?
 1	Kan	O	O	-
-2	Velferds-Norge	-	B-DRV	-
+2	Velferds-Norge	O	B-DRV	-
 3	det	O	O	-
 4	om	O	O	-
 5	20	O	O	-
@@ -81085,7 +81085,7 @@
 19	seg	O	O	-
 20	inn	O	O	-
 21	i	O	O	-
-22	Facebook-gruppen	-	B-DRV	-
+22	Facebook-gruppen	O	B-DRV	-
 23	«	O	O	-
 24	Ta	O	B-PROD	-
 25	del	O	I-PROD	-
@@ -81166,7 +81166,7 @@
 
 # sent_id = 004170
 # text = Facebook-gruppen, som er startet av Martines venner, er et opprop for offerets rettigheter mht. internasjonal rettsorden.
-1	Facebook-gruppen	-	B-DRV	-
+1	Facebook-gruppen	O	B-DRV	-
 2	,	O	O	-
 3	som	O	O	-
 4	er	O	O	-
@@ -81338,7 +81338,7 @@
 22	Støre	I-PER	I-PER	-
 23	på	O	O	-
 24	en	O	O	-
-25	Civita-konferanse	-	B-DRV	-
+25	Civita-konferanse	O	B-DRV	-
 26	i	O	O	-
 27	april	O	O	-
 28	.	O	O	-
@@ -88056,7 +88056,7 @@
 21	i	O	O	-
 22	strid	O	O	-
 23	med	O	O	-
-24	ILO-konvensjonen	-	B-DRV	-
+24	ILO-konvensjonen	O	B-DRV	-
 25	og	O	O	-
 26	FNs	B-ORG	B-ORG	-
 27	menneskerettigheter	O	O	-
@@ -88219,7 +88219,7 @@
 # newpar
 # sent_id = 004519
 # text = Brennpunkt-programmet illustrerte den ydmykelsen som sjøsamer og kystboere i Finnmark har vært utsatt for de siste 50 årene.
-1	Brennpunkt-programmet	-	B-DRV	-
+1	Brennpunkt-programmet	O	B-DRV	-
 2	illustrerte	O	O	-
 3	den	O	O	-
 4	ydmykelsen	O	O	-
@@ -89692,7 +89692,7 @@
 6	innsatsstyrt	O	O	-
 7	finansiering	O	O	-
 8	,	O	O	-
-9	DRG-poeng	-	B-DRV	-
+9	DRG-poeng	O	B-DRV	-
 10	og	O	O	-
 11	normaltariff	O	O	-
 12	-	O	O	-
@@ -90516,7 +90516,7 @@
 9	roe	O	O	-
 10	seg	O	O	-
 11	foran	O	O	-
-12	Xboxen	-	B-DRV	-
+12	Xboxen	O	B-DRV	-
 13	med	O	O	-
 14	litt	O	O	-
 15	vingummi	O	O	-
@@ -90927,7 +90927,7 @@
 # text = Sender med Liverpool-bokbind som han skal ha på tekstboka og Angry Birds-bokbind til arbeidsbok.
 1	Sender	O	O	-
 2	med	O	O	-
-3	Liverpool-bokbind	-	B-DRV	-
+3	Liverpool-bokbind	O	B-DRV	-
 4	som	O	O	-
 5	han	O	O	-
 6	skal	O	O	-
@@ -90935,7 +90935,7 @@
 8	på	O	O	-
 9	tekstboka	O	O	-
 10	og	O	O	-
-11	Angry	-	B-DRV	-
+11	Angry	O	B-DRV	-
 12	Birds-bokbind	O	I-DRV	-
 13	til	O	O	-
 14	arbeidsbok	O	O	-
@@ -92459,7 +92459,7 @@
 13	fikk	O	O	-
 14	hvert	O	O	-
 15	sitt	O	O	-
-16	Nestlèglass	-	B-DRV	-
+16	Nestlèglass	O	B-DRV	-
 17	da	O	O	-
 18	,	O	O	-
 19	du	O	O	-
@@ -93799,7 +93799,7 @@
 4	Brannmann	O	B-PROD	-
 5	Sam	O	I-PROD	-
 6	på	O	O	-
-7	iPaden	-	B-DRV	-
+7	iPaden	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 004819
@@ -94225,7 +94225,7 @@
 17	blitt	O	O	-
 18	invitert	O	O	-
 19	til	O	O	-
-20	Tupperware-party	-	B-DRV	-
+20	Tupperware-party	O	B-DRV	-
 21	,	O	O	-
 22	hjemme	O	O	-
 23	hos	O	O	-
@@ -94331,7 +94331,7 @@
 21	storveis	O	O	-
 22	å	O	O	-
 23	arrangere	O	O	-
-24	Tupperware-parties	-	B-DRV	-
+24	Tupperware-parties	O	B-DRV	-
 25	,	O	O	-
 26	helt	O	O	-
 27	uten	O	O	-
@@ -94387,7 +94387,7 @@
 8	så	O	O	-
 9	gamle	O	O	-
 10	at	O	O	-
-11	Tupperware-parties	-	B-DRV	-
+11	Tupperware-parties	O	B-DRV	-
 12	er	O	O	-
 13	en	O	O	-
 14	helt	O	O	-
@@ -94527,7 +94527,7 @@
 # sent_id = 004856
 # text = En Tupperware-invitasjon fra deg?!
 1	En	O	O	-
-2	Tupperware-invitasjon	-	B-DRV	-
+2	Tupperware-invitasjon	O	B-DRV	-
 3	fra	O	O	-
 4	deg	O	O	-
 5	?	O	O	-
@@ -94589,7 +94589,7 @@
 28	ørlite	O	O	-
 29	skeptisk	O	O	-
 30	til	O	O	-
-31	Tupperware-delen	-	B-DRV	-
+31	Tupperware-delen	O	B-DRV	-
 32	.	O	O	-
 
 # newpar
@@ -97201,7 +97201,7 @@
 4	,	O	O	-
 5	leser	O	O	-
 6	gjennom	O	O	-
-7	twitterfeeden	-	B-DRV	-
+7	twitterfeeden	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 004987
@@ -97227,7 +97227,7 @@
 5	å	O	O	-
 6	lese	O	O	-
 7	gjennom	O	O	-
-8	twitterfeeden	-	B-DRV	-
+8	twitterfeeden	O	B-DRV	-
 9	på	O	O	-
 10	nytt	O	O	-
 11	,	O	O	-
@@ -97460,7 +97460,7 @@
 4	i	O	O	-
 5	ett-tida	O	O	-
 6	,	O	O	-
-7	twitter-sjekk	-	B-DRV	-
+7	twitter-sjekk	O	B-DRV	-
 8	igjen	O	O	-
 9	før	O	O	-
 10	dusj	O	O	-
@@ -99544,12 +99544,12 @@
 3	forresten	O	O	-
 4	meg	O	O	-
 5	og	O	O	-
-6	Paradise	-	B-DRV	-
+6	Paradise	O	B-DRV	-
 7	Hotel-Are	O	I-DRV	-
 8	og	O	O	-
-9	Cult-promotør	-	B-DRV	-
+9	Cult-promotør	O	B-DRV	-
 10	/	O	O	-
-11	gatebil-Iselin	-	B-DRV	-
+11	gatebil-Iselin	O	B-DRV	-
 12	.	O	O	-
 
 # sent_id = 005104
@@ -100062,7 +100062,7 @@
 7	og	O	O	-
 8	enda	O	O	-
 9	flere	O	O	-
-10	Paradise-folk	-	B-DRV	-
+10	Paradise-folk	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 005131
@@ -100180,7 +100180,7 @@
 19	har	O	O	-
 20	tatt	O	O	-
 21	ned	O	O	-
-22	rasfare.no-skiltene	-	B-DRV	-
+22	rasfare.no-skiltene	O	B-DRV	-
 23	sine	O	O	-
 24	enda	O	O	-
 25	.	O	O	-
@@ -100245,7 +100245,7 @@
 16	som	O	O	-
 17	kommer	O	O	-
 18	når	O	O	-
-19	macen	-	B-DRV	-
+19	macen	O	B-DRV	-
 20	overarbeider	O	O	-
 21	.	O	O	-
 
@@ -101948,7 +101948,7 @@
 4	å	O	O	-
 5	ha	O	O	-
 6	en	O	O	-
-7	twitter-konto	-	B-DRV	-
+7	twitter-konto	O	B-DRV	-
 8	med	O	O	-
 9	mer	O	O	-
 10	makt	O	O	-
@@ -102074,7 +102074,7 @@
 12	sikkert	O	O	-
 13	masse	O	O	-
 14	rosa	O	O	-
-15	iphone-deksler	-	B-DRV	-
+15	iphone-deksler	O	B-DRV	-
 16	i	O	O	-
 17	posten	O	O	-
 18	med	O	O	-
@@ -106545,7 +106545,7 @@
 3	,	O	O	-
 4	medlem	O	O	-
 5	av	O	O	-
-6	FAU-styret	-	B-DRV	-
+6	FAU-styret	O	B-DRV	-
 7	ved	O	O	-
 8	Møhlenpris	B-LOC	B-LOC	-
 9	skole	I-LOC	I-LOC	-
@@ -107535,7 +107535,7 @@
 5	menn	O	O	-
 6	løpende	O	O	-
 7	fra	O	O	-
-8	Florida-siden	-	B-DRV	-
+8	Florida-siden	O	B-DRV	-
 9	.	O	O	-
 
 # sent_id = 005565
@@ -107860,7 +107860,7 @@
 6	en	O	O	-
 7	tilsynelatende	O	O	-
 8	ekte	O	O	-
-9	Facebook-profil	-	B-DRV	-
+9	Facebook-profil	O	B-DRV	-
 10	,	O	O	-
 11	med	O	O	-
 12	339	O	O	-
@@ -108747,7 +108747,7 @@
 1	Kritisk	O	O	-
 2	til	O	O	-
 3	NRKs	B-ORG	B-ORG	-
-4	Breivik-dekning	-	B-DRV	-
+4	Breivik-dekning	O	B-DRV	-
 
 # newpar
 # sent_id = 005639
@@ -110580,9 +110580,9 @@
 5	på	O	O	-
 6	NRK1	O	B-PROD	-
 7	,	O	O	-
-8	2	-	B-DRV	-
+8	2	O	B-DRV	-
 9	og	O	O	-
-10	3	-	B-DRV	-
+10	3	O	B-DRV	-
 11	,	O	O	-
 12	og	O	O	-
 13	der	O	O	-
@@ -111573,7 +111573,7 @@
 3	Mia	B-PER	B-PER	-
 4	Hundvin	I-PER	I-PER	-
 5	om	O	O	-
-6	Instagram-bildene	-	B-DRV	-
+6	Instagram-bildene	O	B-DRV	-
 7	hun	O	O	-
 8	nettopp	O	O	-
 9	har	O	O	-
@@ -111609,7 +111609,7 @@
 10	hun	O	O	-
 11	tenker	O	O	-
 12	om	O	O	-
-13	Instagram-bildene	-	B-DRV	-
+13	Instagram-bildene	O	B-DRV	-
 14	hun	O	O	-
 15	har	O	O	-
 16	lagt	O	O	-
@@ -112112,7 +112112,7 @@
 21	fra	O	O	-
 22	reiser	O	O	-
 23	i	O	O	-
-24	Stortings-sammenheng	-	B-DRV	-
+24	Stortings-sammenheng	O	B-DRV	-
 25	-	O	O	-
 26	der	O	O	-
 27	hun	O	O	-
@@ -112673,7 +112673,7 @@
 # sent_id = 005844
 # text = «Sofiagull», skriver Pia Tjelta (@piatjelta) under et bilde av datteren Sofia.
 1	«	O	O	-
-2	Sofiagull	-	B-DRV	-
+2	Sofiagull	O	B-DRV	-
 3	»	O	O	-
 4	,	O	O	-
 5	skriver	O	O	-
@@ -112734,7 +112734,7 @@
 
 # sent_id = 005846
 # text = Extra-programleder Vibeke Klemetsen (@vibekeklemetsen) fikk 72 likes på et bilde av seg selv dekket av oppkast.
-1	Extra-programleder	-	B-DRV	-
+1	Extra-programleder	O	B-DRV	-
 2	Vibeke	B-PER	B-PER	-
 3	Klemetsen	I-PER	I-PER	-
 4	(	O	O	-
@@ -112963,7 +112963,7 @@
 
 # sent_id = 005860
 # text = NTNU-forsker Wold mener poenget med Instagram er omtrent det samme som Facebook og Twitter.
-1	NTNU-forsker	-	B-DRV	-
+1	NTNU-forsker	O	B-DRV	-
 2	Wold	B-PER	B-PER	-
 3	mener	O	O	-
 4	poenget	O	O	-
@@ -113641,7 +113641,7 @@
 16	noe	O	O	-
 17	annet	O	O	-
 18	enn	O	O	-
-19	politiker-Jette	-	B-DRV	-
+19	politiker-Jette	O	B-DRV	-
 20	?	O	O	-
 
 # sent_id = 005892
@@ -114533,7 +114533,7 @@
 4	til	O	O	-
 5	tonene	O	O	-
 6	fra	O	O	-
-7	Stevie	-	B-DRV	-
+7	Stevie	O	B-DRV	-
 8	Wonder-sangen	O	I-DRV	-
 9	Signed	O	B-PROD	-
 10	,	O	I-PROD	-
@@ -115397,7 +115397,7 @@
 8	glemme	O	O	-
 9	,	O	O	-
 10	skriver	O	O	-
-11	BT-kommentator	-	B-DRV	-
+11	BT-kommentator	O	B-DRV	-
 12	Frode	B-PER	B-PER	-
 13	Bjerkestrand	I-PER	I-PER	-
 14	.	O	O	-
@@ -117980,7 +117980,7 @@
 
 # sent_id = 006120
 # text = BT-journalist Christina Pletten rapporterer fra Chicago:
-1	BT-journalist	-	B-DRV	-
+1	BT-journalist	O	B-DRV	-
 2	Christina	B-PER	B-PER	-
 3	Pletten	I-PER	I-PER	-
 4	rapporterer	O	O	-
@@ -118298,7 +118298,7 @@
 
 # sent_id = 006135
 # text = BT-journalist Christina Pletten er på demokratenes valgvake i Chicago:
-1	BT-journalist	-	B-DRV	-
+1	BT-journalist	O	B-DRV	-
 2	Christina	B-PER	B-PER	-
 3	Pletten	I-PER	I-PER	-
 4	er	O	O	-
@@ -118429,7 +118429,7 @@
 2	var	O	O	-
 3	en	O	O	-
 4	stat	O	O	-
-5	Romney-kampanjen	-	B-DRV	-
+5	Romney-kampanjen	O	B-DRV	-
 6	håpet	O	O	-
 7	kunne	O	O	-
 8	være	O	O	-
@@ -120067,7 +120067,7 @@
 3	å	O	O	-
 4	legge	O	O	-
 5	til	O	O	-
-6	Patti	-	B-DRV	-
+6	Patti	O	B-DRV	-
 7	Smith-sangen	O	I-DRV	-
 8	Till	O	B-PROD	-
 9	Victory	O	I-PROD	-
@@ -120446,7 +120446,7 @@
 10	og	O	O	-
 11	at	O	O	-
 12	desillusjonerte	O	O	-
-13	Obama-supportere	-	B-DRV	-
+13	Obama-supportere	O	B-DRV	-
 14	ikke	O	O	-
 15	gidder	O	O	-
 16	å	O	O	-
@@ -121101,7 +121101,7 @@
 22	Al	B-PER	B-PER	-
 23	Gore	I-PER	I-PER	-
 24	vs.	O	O	-
-25	George	-	B-DRV	-
+25	George	O	B-DRV	-
 26	W.	O	I-DRV	-
 27	Bush-situasjon	O	I-DRV	-
 28	som	O	O	-
@@ -122499,7 +122499,7 @@
 18	i	O	O	-
 19	det	O	O	-
 20	eksklusive	O	O	-
-21	Gangnam-distriktet	-	B-DRV	-
+21	Gangnam-distriktet	O	B-DRV	-
 22	hvor	O	O	-
 23	kvadratmeterprisen	O	O	-
 24	er	O	O	-
@@ -123254,7 +123254,7 @@
 # newpar
 # sent_id = 006359
 # text = Twitter-melding
-1	Twitter-melding	-	B-DRV	-
+1	Twitter-melding	O	B-DRV	-
 
 # newpar
 # sent_id = 006360
@@ -125000,7 +125000,7 @@
 4	farlig	O	O	-
 5	,	O	O	-
 6	sier	O	O	-
-7	UP-sjefen	-	B-DRV	-
+7	UP-sjefen	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 006455
@@ -125154,7 +125154,7 @@
 
 # sent_id = 006462
 # text = UP-sjefen sier de fleste UP stanser som ikke har førerkort, blåser i at det er krav til å ha gyldig førerkort.
-1	UP-sjefen	-	B-DRV	-
+1	UP-sjefen	O	B-DRV	-
 2	sier	O	O	-
 3	de	O	O	-
 4	fleste	O	O	-
@@ -125238,7 +125238,7 @@
 16	tilstand	O	O	-
 17	,	O	O	-
 18	forteller	O	O	-
-19	UP-sjefen	-	B-DRV	-
+19	UP-sjefen	O	B-DRV	-
 20	.	O	O	-
 
 # sent_id = 006465
@@ -125335,7 +125335,7 @@
 1	Skal	O	O	-
 2	du	O	O	-
 3	på	O	O	-
-4	Europa-ferie	-	B-DRV	-
+4	Europa-ferie	O	B-DRV	-
 5	?	O	O	-
 
 # newpar
@@ -125430,7 +125430,7 @@
 4	en	O	O	-
 5	lang	O	O	-
 6	rekke	O	O	-
-7	Autobahn-strekninger	-	B-DRV	-
+7	Autobahn-strekninger	O	B-DRV	-
 8	i	O	O	-
 9	Tyskland	B-LOC	B-GPE_LOC	-
 10	der	O	O	-
@@ -127908,7 +127908,7 @@
 10	vært	O	O	-
 11	megler	O	O	-
 12	i	O	O	-
-13	Torrevieja-området	-	B-DRV	-
+13	Torrevieja-området	O	B-DRV	-
 14	siden	O	O	-
 15	1987	O	O	-
 16	og	O	O	-
@@ -129394,7 +129394,7 @@
 # newpar
 # sent_id = 006697
 # text = Johannes Lunde-konkursene
-1	Johannes	-	B-DRV	-
+1	Johannes	O	B-DRV	-
 2	Lunde-konkursene	O	I-DRV	-
 
 # newpar
@@ -129978,7 +129978,7 @@
 8	om	O	O	-
 9	mangel	O	O	-
 10	på	O	O	-
-11	Tine-produkter	-	B-DRV	-
+11	Tine-produkter	O	B-DRV	-
 12	i	O	O	-
 13	butikkhyllene	O	O	-
 14	.	O	O	-
@@ -130462,7 +130462,7 @@
 9	løpeblader	O	O	-
 10	og	O	O	-
 11	oppfordret	O	O	-
-12	Nordea-kundene	-	B-DRV	-
+12	Nordea-kundene	O	B-DRV	-
 13	til	O	O	-
 14	å	O	O	-
 15	bytte	O	O	-
@@ -130582,7 +130582,7 @@
 
 # sent_id = 006761
 # text = Unibuss-direktøren Helge Leite fikk sparken etter korrupsjonsavsløringer.
-1	Unibuss-direktøren	-	B-DRV	-
+1	Unibuss-direktøren	O	B-DRV	-
 2	Helge	B-PER	B-PER	-
 3	Leite	I-PER	I-PER	-
 4	fikk	O	O	-
@@ -130639,7 +130639,7 @@
 8	politiet	O	O	-
 9	pågrep	O	O	-
 10	en	O	O	-
-11	Unibuss-sjef	-	B-DRV	-
+11	Unibuss-sjef	O	B-DRV	-
 12	og	O	O	-
 13	to	O	O	-
 14	andre	O	O	-
@@ -130682,7 +130682,7 @@
 # sent_id = 006766
 # text = Tidligere Unibuss-ansatte i lederstillinger er blant annet siktet for å ha tatt imot bestikkelser på til sammen over fire millioner kroner fra den tyske bussprodusenten MAN.
 1	Tidligere	O	O	-
-2	Unibuss-ansatte	-	B-DRV	-
+2	Unibuss-ansatte	O	B-DRV	-
 3	i	O	O	-
 4	lederstillinger	O	O	-
 5	er	O	O	-
@@ -131071,7 +131071,7 @@
 13	til	O	O	-
 14	kollektivtrafikken	O	O	-
 15	i	O	O	-
-16	Osloregionen	-	B-DRV	-
+16	Osloregionen	O	B-DRV	-
 17	.	O	O	-
 
 # sent_id = 006785
@@ -131310,7 +131310,7 @@
 12	til	O	O	-
 13	det	O	O	-
 14	nedslitte	O	O	-
-15	Nadderud-anlegget	-	B-DRV	-
+15	Nadderud-anlegget	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 006798
@@ -131463,7 +131463,7 @@
 9	imperiet	O	O	-
 10	til	O	O	-
 11	den	O	O	-
-12	Stavanger-baserte	-	B-DRV	-
+12	Stavanger-baserte	O	B-DRV	-
 13	forretningsmannen	O	O	-
 14	Johannes	B-PER	B-PER	-
 15	Lunde	I-PER	I-PER	-
@@ -131511,7 +131511,7 @@
 26	andre	O	O	-
 27	virksomheter	O	O	-
 28	i	O	O	-
-29	Lunde-systemet	-	B-DRV	-
+29	Lunde-systemet	O	B-DRV	-
 30	.	O	O	-
 
 # sent_id = 006808
@@ -132243,7 +132243,7 @@
 29	attraktive	O	O	-
 30	stedene	O	O	-
 31	langs	O	O	-
-32	Sørlandskysten	-	B-DRV	-
+32	Sørlandskysten	O	B-DRV	-
 33	.	O	O	-
 
 # sent_id = 006855
@@ -133711,7 +133711,7 @@
 20	som	O	O	-
 21	for	O	O	-
 22	eksempel	O	O	-
-23	Charles	-	B-DRV	-
+23	Charles	O	B-DRV	-
 24	Manson-drapene	O	I-DRV	-
 25	i	O	O	-
 26	1969	O	O	-
@@ -133835,7 +133835,7 @@
 5	Lester	B-PER	B-PER	-
 6	Bangs	I-PER	I-PER	-
 7	anmeldte	O	O	-
-8	Black	-	B-DRV	-
+8	Black	O	B-DRV	-
 9	Sabbath-platen	O	I-DRV	-
 10	«	O	O	-
 11	Master	O	B-PROD	-
@@ -135169,7 +135169,7 @@
 7	ha	O	O	-
 8	tusenvis	O	O	-
 9	av	O	O	-
-10	Gutenbergere	-	B-DRV	-
+10	Gutenbergere	O	B-DRV	-
 11	på	O	O	-
 12	lønningslisten	O	O	-
 13	,	O	O	-
@@ -136394,7 +136394,7 @@
 2	50	O	O	-
 3	år	O	O	-
 4	etter	O	O	-
-5	FN-oppdraget	-	B-DRV	-
+5	FN-oppdraget	O	B-DRV	-
 6	forteller	O	O	-
 7	han	O	O	-
 8	sin	O	O	-
@@ -136479,7 +136479,7 @@
 8	for	O	O	-
 9	å	O	O	-
 10	gi	O	O	-
-11	FN-mannskapet	-	B-DRV	-
+11	FN-mannskapet	O	B-DRV	-
 12	støtte	O	O	-
 13	under	O	O	-
 14	redningsoperasjonen	O	O	-
@@ -136543,7 +136543,7 @@
 11	raskt	O	O	-
 12	,	O	O	-
 13	siden	O	O	-
-14	FN-folkene	-	B-DRV	-
+14	FN-folkene	O	B-DRV	-
 15	risikerte	O	O	-
 16	å	O	O	-
 17	ramme	O	O	-
@@ -136580,7 +136580,7 @@
 9	i	O	O	-
 10	det	O	O	-
 11	ventende	O	O	-
-12	Sikorsky-helikopteret	-	B-DRV	-
+12	Sikorsky-helikopteret	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 007068
@@ -136837,7 +136837,7 @@
 7	50-årstreff	O	O	-
 8	for	O	O	-
 9	norske	O	O	-
-10	Kongo-veteraner	-	B-DRV	-
+10	Kongo-veteraner	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 007083
@@ -137015,7 +137015,7 @@
 # text = Dessuten var Sortland-karen av det eventyrlystne slaget.
 1	Dessuten	O	O	-
 2	var	O	O	-
-3	Sortland-karen	-	B-DRV	-
+3	Sortland-karen	O	B-DRV	-
 4	av	O	O	-
 5	det	O	O	-
 6	eventyrlystne	O	O	-
@@ -137206,7 +137206,7 @@
 5	i	O	O	-
 6	1961	O	O	-
 7	ble	O	O	-
-8	FN-mandatet	-	B-DRV	-
+8	FN-mandatet	O	B-DRV	-
 9	forsterket	O	O	-
 10	.	O	O	-
 
@@ -137488,7 +137488,7 @@
 1	Blant	O	O	-
 2	de	O	O	-
 3	13	O	O	-
-4	FN-soldatene	-	B-DRV	-
+4	FN-soldatene	O	B-DRV	-
 5	som	O	O	-
 6	takkes	O	O	-
 7	og	O	O	-
@@ -137620,7 +137620,7 @@
 8	kikket	O	O	-
 9	på	O	O	-
 10	gamle	O	O	-
-11	Kongo-bilder	-	B-DRV	-
+11	Kongo-bilder	O	B-DRV	-
 12	og	O	O	-
 13	artikler	O	O	-
 14	,	O	O	-
@@ -137724,7 +137724,7 @@
 7	tikket	O	O	-
 8	inn	O	O	-
 9	til	O	O	-
-10	FN-basen	-	B-DRV	-
+10	FN-basen	O	B-DRV	-
 11	,	O	O	-
 12	der	O	O	-
 13	Olaf	B-PER	B-PER	-
@@ -137828,7 +137828,7 @@
 11	tidligere	O	O	-
 12	minister	O	O	-
 13	i	O	O	-
-14	Lumumba-regjeringen	-	B-DRV	-
+14	Lumumba-regjeringen	O	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 007144
@@ -137870,7 +137870,7 @@
 9	vesle	O	O	-
 10	gruppen	O	O	-
 11	av	O	O	-
-12	FN-soldater	-	B-DRV	-
+12	FN-soldater	O	B-DRV	-
 13	som	O	O	-
 14	fikk	O	O	-
 15	ordre	O	O	-
@@ -138337,7 +138337,7 @@
 # text = Senere skulle FN-mannskapet bli angrepet med skarpere og mer avansert skyts.
 1	Senere	O	O	-
 2	skulle	O	O	-
-3	FN-mannskapet	-	B-DRV	-
+3	FN-mannskapet	O	B-DRV	-
 4	bli	O	O	-
 5	angrepet	O	O	-
 6	med	O	O	-
@@ -138582,7 +138582,7 @@
 
 # sent_id = 007185
 # text = FN-soldatenes taktikk var at det ene helikopteret skulle lande for å berge misjonærer, mens det andre stupte tett mot bakken for å avskjære krigerne.
-1	FN-soldatenes	-	B-DRV	-
+1	FN-soldatenes	O	B-DRV	-
 2	taktikk	O	O	-
 3	var	O	O	-
 4	at	O	O	-
@@ -139258,7 +139258,7 @@
 # text = De fem FN-helikoptrene kom fra en stor misjonærstasjon, der de hadde berget flere nonner fra en større opprørsgruppe.
 1	De	O	O	-
 2	fem	O	O	-
-3	FN-helikoptrene	-	B-DRV	-
+3	FN-helikoptrene	O	B-DRV	-
 4	kom	O	O	-
 5	fra	O	O	-
 6	en	O	O	-
@@ -139523,7 +139523,7 @@
 14	en	O	O	-
 15	22	O	O	-
 16	kaliber	O	O	-
-17	Beretta-pistol	-	B-DRV	-
+17	Beretta-pistol	O	B-DRV	-
 18	skjult	O	O	-
 19	i	O	O	-
 20	lommen	O	O	-
@@ -139550,7 +139550,7 @@
 17	den	O	O	-
 18	vesle	O	O	-
 19	gruppen	O	O	-
-20	FN-soldater	-	B-DRV	-
+20	FN-soldater	O	B-DRV	-
 21	måtte	O	O	-
 22	forsvare	O	O	-
 23	seg	O	O	-
@@ -139666,7 +139666,7 @@
 20	av	O	O	-
 21	en	O	O	-
 22	svensk	O	O	-
-23	FN-pilot	-	B-DRV	-
+23	FN-pilot	O	B-DRV	-
 24	.	O	O	-
 
 # sent_id = 007246
@@ -139695,7 +139695,7 @@
 11	opp	O	O	-
 12	de	O	O	-
 13	to	O	O	-
-14	FN-helikoptrene	-	B-DRV	-
+14	FN-helikoptrene	O	B-DRV	-
 15	for	O	O	-
 16	hjelp	O	O	-
 17	,	O	O	-
@@ -140018,7 +140018,7 @@
 4	14	O	O	-
 5	år	O	O	-
 6	siden	O	O	-
-7	Kongo-oppdraget	-	B-DRV	-
+7	Kongo-oppdraget	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 007266
@@ -140050,7 +140050,7 @@
 4	til	O	O	-
 5	det	O	O	-
 6	norske	O	O	-
-7	FN-bidraget	-	B-DRV	-
+7	FN-bidraget	O	B-DRV	-
 8	i	O	O	-
 9	Libanon	B-LOC	B-GPE_LOC	-
 10	.	O	O	-
@@ -146141,7 +146141,7 @@
 15	skulle	O	O	-
 16	moren	O	O	-
 17	lage	O	O	-
-18	Halloween-fest	-	B-DRV	-
+18	Halloween-fest	O	B-DRV	-
 19	for	O	O	-
 20	alle	O	O	-
 21	ungene	O	O	-
@@ -149246,7 +149246,7 @@
 11	en	O	O	-
 12	utdypning	O	O	-
 13	av	O	O	-
-14	22.	-	B-DRV	-
+14	22.	O	B-DRV	-
 15	juli-redegjørelsen	O	I-DRV	-
 16	som	O	O	-
 17	ble	O	O	-
@@ -149707,7 +149707,7 @@
 
 # sent_id = 007871
 # text = PST-sjef Janne Kristiansen utdyper:
-1	PST-sjef	-	B-DRV	-
+1	PST-sjef	O	B-DRV	-
 2	Janne	B-PER	B-PER	-
 3	Kristiansen	I-PER	I-PER	-
 4	utdyper	O	O	-
@@ -150076,7 +150076,7 @@
 7	Svalbard	B-LOC	B-GPE_LOC	-
 8	,	O	O	-
 9	svare	O	O	-
-10	PST-sjef	-	B-DRV	-
+10	PST-sjef	O	B-DRV	-
 11	Kristiansen	B-PER	B-PER	-
 12	.	O	O	-
 
@@ -150496,7 +150496,7 @@
 
 # sent_id = 007917
 # text = PST-sjef Janne Kristiansen svarer:
-1	PST-sjef	-	B-DRV	-
+1	PST-sjef	O	B-DRV	-
 2	Janne	B-PER	B-PER	-
 3	Kristiansen	I-PER	I-PER	-
 4	svarer	O	O	-
@@ -150508,7 +150508,7 @@
 2	Vi	O	O	-
 3	har	O	O	-
 4	27	O	O	-
-5	PST-kontor	-	B-DRV	-
+5	PST-kontor	O	B-DRV	-
 6	i	O	O	-
 7	hele	O	O	-
 8	landet	O	O	-
@@ -150600,7 +150600,7 @@
 1	-	O	O	-
 2	De	O	O	-
 3	lokale	O	O	-
-4	PST-ledd	-	B-DRV	-
+4	PST-ledd	O	B-DRV	-
 5	i	O	O	-
 6	de	O	O	-
 7	lokale	O	O	-
@@ -150643,7 +150643,7 @@
 # text = - Kan PST-sjefen si noe om hvordan man legger opp innsatsen på informasjonshenting fra nettet?
 1	-	O	O	-
 2	Kan	O	O	-
-3	PST-sjefen	-	B-DRV	-
+3	PST-sjefen	O	B-DRV	-
 4	si	O	O	-
 5	noe	O	O	-
 6	om	O	O	-
@@ -150717,7 +150717,7 @@
 12	nettet	O	O	-
 13	,	O	O	-
 14	svarer	O	O	-
-15	PST-sjef	-	B-DRV	-
+15	PST-sjef	O	B-DRV	-
 16	Janne	B-PER	B-PER	-
 17	Kristiansen	I-PER	I-PER	-
 18	.	O	O	-
@@ -150974,7 +150974,7 @@
 7	endelige	O	O	-
 8	evalueringsrapport	O	O	-
 9	og	O	O	-
-10	22.juli-rapporten	-	B-DRV	-
+10	22.juli-rapporten	O	B-DRV	-
 11	vil	O	O	-
 12	vise	O	O	-
 13	punkter	O	O	-
@@ -151187,7 +151187,7 @@
 
 # sent_id = 007956
 # text = PST-sjef Janne Kristiansen holder sitt innlegg:
-1	PST-sjef	-	B-DRV	-
+1	PST-sjef	O	B-DRV	-
 2	Janne	B-PER	B-PER	-
 3	Kristiansen	I-PER	I-PER	-
 4	holder	O	O	-
@@ -157234,7 +157234,7 @@
 3	positiv	O	O	-
 4	til	O	O	-
 5	en	O	O	-
-6	NHL-utvidelse	-	B-DRV	-
+6	NHL-utvidelse	O	B-DRV	-
 7	til	O	O	-
 8	Europa	B-LOC	B-GPE_LOC	-
 9	i	O	O	-
@@ -157258,7 +157258,7 @@
 # text = Her under NHL-premieren mot Ottawa Senators i Stockholm.
 1	Her	O	O	-
 2	under	O	O	-
-3	NHL-premieren	-	B-DRV	-
+3	NHL-premieren	O	B-DRV	-
 4	mot	O	O	-
 5	Ottawa	B-ORG	B-ORG	-
 6	Senators	I-ORG	I-ORG	-
@@ -157350,7 +157350,7 @@
 # text = Hvert av NHL-lagene som spilte i Europa for to uker siden fløy over cirka 65 personer og store mengder utstyr.
 1	Hvert	O	O	-
 2	av	O	O	-
-3	NHL-lagene	-	B-DRV	-
+3	NHL-lagene	O	B-DRV	-
 4	som	O	O	-
 5	spilte	O	O	-
 6	i	O	O	-
@@ -157406,7 +157406,7 @@
 9	på	O	O	-
 10	den	O	O	-
 11	andre	O	O	-
-12	NHL-åpningen	-	B-DRV	-
+12	NHL-åpningen	O	B-DRV	-
 13	i	O	O	-
 14	Europa	B-LOC	B-GPE_LOC	-
 15	.	O	O	-
@@ -157480,7 +157480,7 @@
 # text = En offisiell NHL-trøye i Sverige, med navn og nummer, koster 1300 SEK.
 1	En	O	O	-
 2	offisiell	O	O	-
-3	NHL-trøye	-	B-DRV	-
+3	NHL-trøye	O	B-DRV	-
 4	i	O	O	-
 5	Sverige	B-LOC	B-GPE_LOC	-
 6	,	O	O	-
@@ -157510,7 +157510,7 @@
 
 # sent_id = 008352
 # text = NHL-lagene Pittsburgh Penguins og Ottawa Senators står oppstilt på to rekker i Globen Arena utenfor sentrum av Stockholm.
-1	NHL-lagene	-	B-DRV	-
+1	NHL-lagene	O	B-DRV	-
 2	Pittsburgh	B-ORG	B-ORG	-
 3	Penguins	I-ORG	I-ORG	-
 4	og	O	O	-
@@ -157910,7 +157910,7 @@
 10	å	O	O	-
 11	starte	O	O	-
 12	opp	O	O	-
-13	NHL-lag	-	B-DRV	-
+13	NHL-lag	O	B-DRV	-
 14	i	O	O	-
 15	Europa	B-LOC	B-GPE_LOC	-
 16	.	O	O	-
@@ -157939,7 +157939,7 @@
 6	gutten	O	O	-
 7	som	O	O	-
 8	har	O	O	-
-9	NHL-framtida	-	B-DRV	-
+9	NHL-framtida	O	B-DRV	-
 10	på	O	O	-
 11	sine	O	O	-
 12	skuldrer	O	O	-
@@ -158303,7 +158303,7 @@
 2	Reagerer	O	O	-
 3	de	O	O	-
 4	som	O	O	-
-5	Premier	-	B-DRV	-
+5	Premier	O	B-DRV	-
 6	League-fans	O	I-DRV	-
 7	gjorde	O	O	-
 8	,	O	O	-
@@ -158477,7 +158477,7 @@
 10	»	O	O	-
 11	,	O	O	-
 12	mens	O	O	-
-13	Senators-spillerne	-	B-DRV	-
+13	Senators-spillerne	O	B-DRV	-
 14	jubler	O	O	-
 15	.	O	O	-
 
@@ -158955,7 +158955,7 @@
 3	blir	O	O	-
 4	aktuelt	O	O	-
 5	med	O	O	-
-6	NHL-lag	-	B-DRV	-
+6	NHL-lag	O	B-DRV	-
 7	i	O	O	-
 8	Europa	B-LOC	B-GPE_LOC	-
 9	,	O	O	-
@@ -159085,7 +159085,7 @@
 8	«	O	O	-
 9	ordentlig	O	O	-
 10	»	O	O	-
-11	NHL-kamp	-	B-DRV	-
+11	NHL-kamp	O	B-DRV	-
 12	?	O	O	-
 
 # sent_id = 008444
@@ -159639,7 +159639,7 @@
 5	vise	O	O	-
 6	europeerne	O	O	-
 7	ordentlige	O	O	-
-8	NHL-kamper	-	B-DRV	-
+8	NHL-kamper	O	B-DRV	-
 9	.	O	O	-
 
 # sent_id = 008474
@@ -159655,7 +159655,7 @@
 9	med	O	O	-
 10	en	O	O	-
 11	europeisk	O	O	-
-12	NHL-divisjon	-	B-DRV	-
+12	NHL-divisjon	O	B-DRV	-
 13	,	O	O	-
 14	men	O	O	-
 15	det	O	O	-
@@ -160398,10 +160398,10 @@
 9	hadde	O	O	-
 10	kommet	O	O	-
 11	to	O	O	-
-12	KHL-lag	-	B-DRV	-
+12	KHL-lag	O	B-DRV	-
 13	istedenfor	O	O	-
 14	to	O	O	-
-15	NHL-lag	-	B-DRV	-
+15	NHL-lag	O	B-DRV	-
 16	til	O	O	-
 17	Stockholm	B-LOC	B-GPE_LOC	-
 18	,	O	O	-
@@ -160450,12 +160450,12 @@
 5	spekulert	O	O	-
 6	på	O	O	-
 7	om	O	O	-
-8	Wall	-	B-DRV	-
+8	Wall	O	B-DRV	-
 9	Street-kollapsen	O	I-DRV	-
 10	kan	O	O	-
 11	forårsake	O	O	-
 12	en	O	O	-
-13	NHL-kollaps	-	B-DRV	-
+13	NHL-kollaps	O	B-DRV	-
 14	,	O	O	-
 15	siden	O	O	-
 16	mange	O	O	-
@@ -161050,7 +161050,7 @@
 10	vil	O	O	-
 11	du	O	O	-
 12	se	O	O	-
-13	NASN-logoen	-	B-DRV	-
+13	NASN-logoen	O	B-DRV	-
 14	over	O	O	-
 15	alt	O	O	-
 16	,	O	O	-
@@ -161263,7 +161263,7 @@
 2	andre	O	O	-
 3	periode	O	O	-
 4	vises	O	O	-
-5	NHL-sjefen	-	B-DRV	-
+5	NHL-sjefen	O	B-DRV	-
 6	Gary	B-PER	B-PER	-
 7	Bettman	I-PER	I-PER	-
 8	på	O	O	-
@@ -161394,7 +161394,7 @@
 1	En	O	O	-
 2	kar	O	O	-
 3	i	O	O	-
-4	Penguins-troppen	-	B-DRV	-
+4	Penguins-troppen	O	B-DRV	-
 5	plukker	O	O	-
 6	opp	O	O	-
 7	kølla	O	O	-
@@ -161430,7 +161430,7 @@
 12	,	O	O	-
 13	ruller	O	O	-
 14	en	O	O	-
-15	Reebok-reklame	-	B-DRV	-
+15	Reebok-reklame	O	B-DRV	-
 16	over	O	O	-
 17	storskjermen	O	O	-
 18	.	O	O	-
@@ -161633,7 +161633,7 @@
 2	etter	O	O	-
 3	treffer	O	O	-
 4	vi	O	O	-
-5	NHL-direktøren	-	B-DRV	-
+5	NHL-direktøren	O	B-DRV	-
 6	Kenneth	B-PER	B-PER	-
 7	Yaffe	I-PER	I-PER	-
 8	på	O	O	-
@@ -163720,7 +163720,7 @@
 9	den	O	O	-
 10	dekket	O	O	-
 11	av	O	O	-
-12	Swarowski-krystaller	-	B-DRV	-
+12	Swarowski-krystaller	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 008702
@@ -163734,7 +163734,7 @@
 7	så	O	O	-
 8	bra	O	O	-
 9	som	O	O	-
-10	Swarowski-steiner	-	B-DRV	-
+10	Swarowski-steiner	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 008703
@@ -165284,7 +165284,7 @@
 # newpar
 # sent_id = 008784
 # text = Vamp-sjef Øyvind Staveland (48) om tap, krangling og frykten for at fingrene skal visne.
-1	Vamp-sjef	-	B-DRV	-
+1	Vamp-sjef	O	B-DRV	-
 2	Øyvind	B-PER	B-PER	-
 3	Staveland	I-PER	I-PER	-
 4	(	O	O	-
@@ -165555,7 +165555,7 @@
 36	til	O	O	-
 37	den	O	O	-
 38	gullfargede	O	O	-
-39	Roveren	-	B-DRV	-
+39	Roveren	O	B-DRV	-
 40	på	O	O	-
 41	vei	O	O	-
 42	mot	O	O	-
@@ -167533,7 +167533,7 @@
 # sent_id = 008941
 # text = Fire Spellemannpriser.
 1	Fire	O	O	-
-2	Spellemannpriser	-	B-DRV	-
+2	Spellemannpriser	O	B-DRV	-
 3	.	O	O	-
 
 # sent_id = 008942
@@ -170474,7 +170474,7 @@
 3	jeg	O	O	-
 4	med	O	O	-
 5	meg	O	O	-
-6	Mac'en	-	B-DRV	-
+6	Mac'en	O	B-DRV	-
 7	min	O	O	-
 8	,	O	O	-
 9	der	O	O	-
@@ -170493,7 +170493,7 @@
 # text = Den originale Bjørnstjerne Bjørnson-statuen min må reddes og maleriet mitt av William Skotte Olsen.
 1	Den	O	O	-
 2	originale	O	O	-
-3	Bjørnstjerne	-	B-DRV	-
+3	Bjørnstjerne	O	B-DRV	-
 4	Bjørnson-statuen	O	I-DRV	-
 5	min	O	O	-
 6	må	O	O	-
@@ -170647,7 +170647,7 @@
 
 # sent_id = 009165
 # text = Hollywood-Askepott:
-1	Hollywood-Askepott	-	B-DRV	-
+1	Hollywood-Askepott	O	B-DRV	-
 2	:	O	O	-
 
 # newpar
@@ -170663,7 +170663,7 @@
 8	rosenrøde	O	O	-
 9	som	O	O	-
 10	i	O	O	-
-11	«	-	B-DRV	-
+11	«	O	B-DRV	-
 12	Pretty	O	I-DRV	-
 13	Woman	O	I-DRV	-
 14	»	O	I-DRV	-
@@ -171816,7 +171816,7 @@
 7	å	O	O	-
 8	ta	O	O	-
 9	med	O	O	-
-10	«	-	B-DRV	-
+10	«	O	B-DRV	-
 11	Pretty	O	I-DRV	-
 12	Woman	O	I-DRV	-
 13	A/S	O	I-DRV	-
@@ -172636,7 +172636,7 @@
 5	9/11	O	B-EVT	-
 6	og	O	O	-
 7	den	O	O	-
-8	USA-ledede	-	B-DRV	-
+8	USA-ledede	O	B-DRV	-
 9	krigen	O	O	-
 10	mot	O	O	-
 11	Afghanistan	B-ORG	B-GPE_ORG	-
@@ -172776,7 +172776,7 @@
 # sent_id = 009279
 # text = Ingen Talibankrigere stoppet det lille følget den kvelden.
 1	Ingen	O	O	-
-2	Talibankrigere	-	B-DRV	-
+2	Talibankrigere	O	B-DRV	-
 3	stoppet	O	O	-
 4	det	O	O	-
 5	lille	O	O	-
@@ -176929,7 +176929,7 @@
 31	ti	O	O	-
 32	år	O	O	-
 33	eldre	O	O	-
-34	NRK-mannen	-	B-DRV	-
+34	NRK-mannen	O	B-DRV	-
 35	Martin	B-PER	B-PER	-
 36	Gaarder	I-PER	I-PER	-
 37	.	O	O	-
@@ -179465,7 +179465,7 @@
 6	tatt	O	O	-
 7	av	O	O	-
 8	seg	O	O	-
-9	«	-	B-DRV	-
+9	«	O	B-DRV	-
 10	Supermuslim	O	I-DRV	-
 11	»	O	I-DRV	-
 12	-kostymet	O	I-DRV	-
@@ -179912,7 +179912,7 @@
 5	tidligere	O	O	-
 6	gymlærer	O	O	-
 7	og	O	O	-
-8	EA	-	B-DRV	-
+8	EA	O	B-DRV	-
 9	Sports-sjef	O	I-DRV	-
 10	Peter	B-PER	B-PER	-
 11	Moore	I-PER	I-PER	-
@@ -180199,9 +180199,9 @@
 31	til	O	O	-
 32	å	O	O	-
 33	feste	O	O	-
-34	Wiimoten	-	B-DRV	-
+34	Wiimoten	O	B-DRV	-
 35	og	O	O	-
-36	Nunchucken	-	B-DRV	-
+36	Nunchucken	O	B-DRV	-
 37	til	O	O	-
 38	armene	O	O	-
 39	eller	O	O	-
@@ -180338,7 +180338,7 @@
 7	å	O	O	-
 8	planlegge	O	O	-
 9	flere	O	O	-
-10	«	-	B-DRV	-
+10	«	O	B-DRV	-
 11	Sports	O	I-DRV	-
 12	Active	O	I-DRV	-
 13	»	O	I-DRV	-
@@ -181503,7 +181503,7 @@
 
 # sent_id = 009781
 # text = Nordlands-kommunen er den første i landet til å innføre et slikt totalforbud mot tobakk.
-1	Nordlands-kommunen	-	B-DRV	-
+1	Nordlands-kommunen	O	B-DRV	-
 2	er	O	O	-
 3	den	O	O	-
 4	første	O	O	-
@@ -182520,7 +182520,7 @@
 13	til	O	O	-
 14	resten	O	O	-
 15	av	O	O	-
-16	Sauerland-stallen	-	B-DRV	-
+16	Sauerland-stallen	O	B-DRV	-
 17	reiser	O	O	-
 18	til	O	O	-
 19	det	O	O	-
@@ -182792,7 +182792,7 @@
 # sent_id = 009837
 # text = I Sauerland-systemet jobbes det med å sende Brækhus i ringen i en tittelkamp i månedsskiftet februar/mars.
 1	I	O	O	-
-2	Sauerland-systemet	-	B-DRV	-
+2	Sauerland-systemet	O	B-DRV	-
 3	jobbes	O	O	-
 4	det	O	O	-
 5	med	O	O	-
@@ -184403,7 +184403,7 @@
 6	det	O	O	-
 7	kjent	O	O	-
 8	at	O	O	-
-9	Notar-sjef	-	B-DRV	-
+9	Notar-sjef	O	B-DRV	-
 10	Geir	B-PER	B-PER	-
 11	Hantveit	I-PER	I-PER	-
 12	har	O	O	-
@@ -185139,7 +185139,7 @@
 16	med	O	O	-
 17	oppfølgeren	O	O	-
 18	av	O	O	-
-19	Angola-prosjektet	-	B-DRV	-
+19	Angola-prosjektet	O	B-DRV	-
 20	,	O	O	-
 21	en	O	O	-
 22	liknende	O	O	-
@@ -185454,7 +185454,7 @@
 13	om	O	O	-
 14	å	O	O	-
 15	vise	O	O	-
-16	Angola-prosjektet	-	B-DRV	-
+16	Angola-prosjektet	O	B-DRV	-
 17	på	O	O	-
 18	årskonferansen	O	O	-
 19	.	O	O	-
@@ -185466,7 +185466,7 @@
 3	vi	O	O	-
 4	ikke	O	O	-
 5	at	O	O	-
-6	Kambodsja-prosjektet	-	B-DRV	-
+6	Kambodsja-prosjektet	O	B-DRV	-
 7	inneholdt	O	O	-
 8	nok	O	O	-
 9	nye	O	O	-
@@ -185986,7 +185986,7 @@
 4	han	O	O	-
 5	bare	O	O	-
 6	gjentar	O	O	-
-7	Angola-prosjektet	-	B-DRV	-
+7	Angola-prosjektet	O	B-DRV	-
 8	i	O	O	-
 9	et	O	O	-
 10	nytt	O	O	-
@@ -186333,7 +186333,7 @@
 # newpar
 # sent_id = 010014
 # text = EU-landene enige om 20 prosent fornybart innen 2020.
-1	EU-landene	-	B-DRV	-
+1	EU-landene	O	B-DRV	-
 2	enige	O	O	-
 3	om	O	O	-
 4	20	O	O	-
@@ -186354,7 +186354,7 @@
 # text = Torsdag diskuterer EU-toppmøtet et mulig tak for CO2-utslipp.
 1	Torsdag	O	O	-
 2	diskuterer	O	O	-
-3	EU-toppmøtet	-	B-DRV	-
+3	EU-toppmøtet	O	B-DRV	-
 4	et	O	O	-
 5	mulig	O	O	-
 6	tak	O	O	-
@@ -186461,7 +186461,7 @@
 
 # sent_id = 010022
 # text = EU-ekspert Eivind Hoff i Bellona mener at fornybardirektivet kommer til å bli gjeldende for Norge, gjennom EØS-avtalen.
-1	EU-ekspert	-	B-DRV	-
+1	EU-ekspert	O	B-DRV	-
 2	Eivind	B-PER	B-PER	-
 3	Hoff	I-PER	I-PER	-
 4	i	O	O	-
@@ -186728,7 +186728,7 @@
 10	går	O	O	-
 11	,	O	O	-
 12	sier	O	O	-
-13	EU-ambassadør	-	B-DRV	-
+13	EU-ambassadør	O	B-DRV	-
 14	i	O	O	-
 15	Norge	B-LOC	B-GPE_LOC	-
 16	,	O	O	-
@@ -186765,7 +186765,7 @@
 22	utbygging	O	O	-
 23	i	O	O	-
 24	andre	O	O	-
-25	EU-land	-	B-DRV	-
+25	EU-land	O	B-DRV	-
 26	,	O	O	-
 27	eller	O	O	-
 28	i	O	O	-
@@ -186832,7 +186832,7 @@
 7	fornybar	O	O	-
 8	energi	O	O	-
 9	fra	O	O	-
-10	EU-land	-	B-DRV	-
+10	EU-land	O	B-DRV	-
 11	som	O	O	-
 12	trenger	O	O	-
 13	å	O	O	-
@@ -186899,7 +186899,7 @@
 4	fornøyd	O	O	-
 5	med	O	O	-
 6	at	O	O	-
-7	EU-landene	-	B-DRV	-
+7	EU-landene	O	B-DRV	-
 8	har	O	O	-
 9	klart	O	O	-
 10	å	O	O	-
@@ -186949,7 +186949,7 @@
 10	var	O	O	-
 11	tvil	O	O	-
 12	om	O	O	-
-13	EU-landene	-	B-DRV	-
+13	EU-landene	O	B-DRV	-
 14	ville	O	O	-
 15	klare	O	O	-
 16	å	O	O	-
@@ -187053,7 +187053,7 @@
 
 # sent_id = 010051
 # text = EU-diskusjonene denne uka har betydning for de internasjonale FN-forhandlingene om klima som foregår parallellt i Poznan, Polen.
-1	EU-diskusjonene	-	B-DRV	-
+1	EU-diskusjonene	O	B-DRV	-
 2	denne	O	O	-
 3	uka	O	O	-
 4	har	O	O	-
@@ -187061,7 +187061,7 @@
 6	for	O	O	-
 7	de	O	O	-
 8	internasjonale	O	O	-
-9	FN-forhandlingene	-	B-DRV	-
+9	FN-forhandlingene	O	B-DRV	-
 10	om	O	O	-
 11	klima	O	O	-
 12	som	O	O	-
@@ -188996,7 +188996,7 @@
 3	Nasjonalmuseet	B-ORG	B-ORG	-
 4	planlegger	O	O	-
 5	en	O	O	-
-6	Sverre	-	B-DRV	-
+6	Sverre	O	B-DRV	-
 7	Fehn-utstilling	O	I-DRV	-
 8	.	O	O	-
 
@@ -189391,7 +189391,7 @@
 21	i	O	O	-
 22	Kvadraturen	B-LOC	B-LOC	-
 23	og	O	O	-
-24	Norwegian	-	B-DRV	-
+24	Norwegian	O	B-DRV	-
 25	Woodprosjektet	O	I-DRV	-
 26	i	O	O	-
 27	Stavanger	B-LOC	B-GPE_LOC	-
@@ -189781,7 +189781,7 @@
 # sent_id = 010222
 # text = «Omveg»-prosjektet var temaet for en utstilling i Paris i fjor, arrangert av den norske ambassaden.
 1	«	O	O	-
-2	Omveg	-	B-DRV	-
+2	Omveg	O	B-DRV	-
 3	»	O	I-DRV	-
 4	-prosjektet	O	I-DRV	-
 5	var	O	O	-
@@ -191181,7 +191181,7 @@
 20	han	O	O	-
 21	oppsøkt	O	O	-
 22	av	O	O	-
-23	HA-medlemmer	-	B-DRV	-
+23	HA-medlemmer	O	B-DRV	-
 24	hjemme	O	O	-
 25	på	O	O	-
 26	døren	O	O	-
@@ -191263,7 +191263,7 @@
 11	den	O	O	-
 12	ene	O	O	-
 13	av	O	O	-
-14	HA-medlemmene	-	B-DRV	-
+14	HA-medlemmene	O	B-DRV	-
 15	ha	O	O	-
 16	sagt	O	O	-
 17	at	O	O	-
@@ -191298,7 +191298,7 @@
 15	av	O	O	-
 16	personer	O	O	-
 17	tilhørende	O	O	-
-18	Hells	-	B-DRV	-
+18	Hells	O	B-DRV	-
 19	Angels-miljøet	O	I-DRV	-
 20	,	O	O	-
 21	og	O	O	-
@@ -191353,7 +191353,7 @@
 3	vil	O	O	-
 4	redde	O	O	-
 5	et	O	O	-
-6	Beckstein-flygel	-	B-DRV	-
+6	Beckstein-flygel	O	B-DRV	-
 7	fra	O	O	-
 8	1915	O	O	-
 
@@ -191687,7 +191687,7 @@
 # sent_id = 010319
 # text = - Yes-skiva er et mesterverk!
 1	-	O	O	-
-2	Yes-skiva	-	B-DRV	-
+2	Yes-skiva	O	B-DRV	-
 3	er	O	O	-
 4	et	O	O	-
 5	mesterverk	O	O	-
@@ -191720,7 +191720,7 @@
 5	han	O	O	-
 6	er	O	O	-
 7	i	O	O	-
-8	Tryllefløyte	-	B-DRV	-
+8	Tryllefløyte	O	B-DRV	-
 9	/	O	I-DRV	-
 10	Requiem-modus	O	I-DRV	-
 11	er	O	O	-
@@ -191785,7 +191785,7 @@
 3	natur	O	O	-
 4	,	O	O	-
 5	på	O	O	-
-6	Nordlands-nivå	-	B-DRV	-
+6	Nordlands-nivå	O	B-DRV	-
 7	,	O	O	-
 8	samt	O	O	-
 9	et	O	O	-
@@ -191866,7 +191866,7 @@
 9	på	O	O	-
 10	grunn	O	O	-
 11	av	O	O	-
-12	«	-	B-DRV	-
+12	«	O	B-DRV	-
 13	Mellom	O	I-DRV	-
 14	oss	O	I-DRV	-
 15	»	O	I-DRV	-
@@ -192030,16 +192030,16 @@
 1	-	O	O	-
 2	Mobilen	O	O	-
 3	,	O	O	-
-4	Macbooken	-	B-DRV	-
+4	Macbooken	O	B-DRV	-
 5	min	O	O	-
 6	,	O	O	-
 7	et	O	O	-
 8	fantastisk	O	O	-
-9	Beckstein-flygel	-	B-DRV	-
+9	Beckstein-flygel	O	B-DRV	-
 10	fra	O	O	-
 11	1915	O	O	-
 12	,	O	O	-
-13	St.	-	B-DRV	-
+13	St.	O	B-DRV	-
 14	Cruz-gitaren	O	I-DRV	-
 15	min	O	O	-
 16	og	O	O	-
@@ -192271,7 +192271,7 @@
 5	til	O	O	-
 6	navnet	O	O	-
 7	«	O	O	-
-8	Kelly-vesken	-	B-DRV	-
+8	Kelly-vesken	O	B-DRV	-
 9	»	O	O	-
 10	,	O	O	-
 11	som	O	O	-
@@ -192295,7 +192295,7 @@
 
 # sent_id = 010363
 # text = Kelly-vesken.
-1	Kelly-vesken	-	B-DRV	-
+1	Kelly-vesken	O	B-DRV	-
 2	.	O	O	-
 
 # sent_id = 010364
@@ -192395,7 +192395,7 @@
 4	og	O	O	-
 5	ser	O	O	-
 6	på	O	O	-
-7	Hermès-butikken	-	B-DRV	-
+7	Hermès-butikken	O	B-DRV	-
 8	i	O	O	-
 9	Fauboug-	B-LOC	B-LOC	-
 10	St.	I-LOC	I-LOC	-
@@ -192414,7 +192414,7 @@
 # newpar
 # sent_id = 010372
 # text = Hermès-arkivet
-1	Hermès-arkivet	-	B-DRV	-
+1	Hermès-arkivet	O	B-DRV	-
 
 # sent_id = 010373
 # text = - Det er ikke en veske, sa Samantha, spilt av Kim Cattrall, i en episode av «Sex og singelliv».
@@ -192467,7 +192467,7 @@
 10	om	O	O	-
 11	den	O	O	-
 12	verdensberømte	O	O	-
-13	Birkin-vesken	-	B-DRV	-
+13	Birkin-vesken	O	B-DRV	-
 14	til	O	O	-
 15	motehuset	O	O	-
 16	Hermès	B-ORG	B-ORG	-
@@ -192555,7 +192555,7 @@
 
 # sent_id = 010377
 # text = Sex og singelliv-episoden dreide seg om hvor langt en kvinne kan være villig til å gå for å få tak i en Birkin-veske.
-1	Sex	-	B-DRV	-
+1	Sex	O	B-DRV	-
 2	og	O	I-DRV	-
 3	singelliv-episoden	O	I-DRV	-
 4	dreide	O	O	-
@@ -192577,7 +192577,7 @@
 20	tak	O	O	-
 21	i	O	O	-
 22	en	O	O	-
-23	Birkin-veske	-	B-DRV	-
+23	Birkin-veske	O	B-DRV	-
 24	.	O	O	-
 
 # sent_id = 010378
@@ -192634,7 +192634,7 @@
 39	nettopp	O	O	-
 40	,	O	O	-
 41	en	O	O	-
-42	Birkin-veske	-	B-DRV	-
+42	Birkin-veske	O	B-DRV	-
 43	.	O	O	-
 
 # sent_id = 010380
@@ -192651,7 +192651,7 @@
 10	representert	O	O	-
 11	i	O	O	-
 12	den	O	O	-
-13	«	-	B-DRV	-
+13	«	O	B-DRV	-
 14	Sex	O	I-DRV	-
 15	og	O	I-DRV	-
 16	singelliv	O	I-DRV	-
@@ -192681,7 +192681,7 @@
 13	åpnet	O	O	-
 14	den	O	O	-
 15	første	O	O	-
-16	Hermès-butikken	-	B-DRV	-
+16	Hermès-butikken	O	B-DRV	-
 17	i	O	O	-
 18	Paris	B-LOC	B-GPE_LOC	-
 19	for	O	O	-
@@ -192720,7 +192720,7 @@
 5	sist	O	O	-
 6	å	O	O	-
 7	la	O	O	-
-8	Birkin-vesken	-	B-DRV	-
+8	Birkin-vesken	O	B-DRV	-
 9	være	O	O	-
 10	med	O	O	-
 11	,	O	O	-
@@ -192993,7 +192993,7 @@
 16	har	O	O	-
 17	inntekter	O	O	-
 18	i	O	O	-
-19	Victoria	-	B-DRV	-
+19	Victoria	O	B-DRV	-
 20	Beckham-klassen	O	I-DRV	-
 21	,	O	O	-
 22	kjøper	O	O	-
@@ -193223,7 +193223,7 @@
 6	sterke	O	O	-
 7	følelsene	O	O	-
 8	overfor	O	O	-
-9	Hermès-produktene	-	B-DRV	-
+9	Hermès-produktene	O	B-DRV	-
 10	er	O	O	-
 11	familiebedriftens	O	O	-
 12	lange	O	O	-
@@ -193232,7 +193232,7 @@
 
 # sent_id = 010407
 # text = Hermès-familien opparbeidet seg fort en eksklusiv kundekrets blant Europas aristokrati, og den russiske tsarfamilien var blant dem som kjøpte seletøy fra Hermès.
-1	Hermès-familien	-	B-DRV	-
+1	Hermès-familien	O	B-DRV	-
 2	opparbeidet	O	O	-
 3	seg	O	O	-
 4	fort	O	O	-
@@ -193536,7 +193536,7 @@
 7	designet	O	O	-
 8	den	O	O	-
 9	berømte	O	O	-
-10	Kelly-vesken	-	B-DRV	-
+10	Kelly-vesken	O	B-DRV	-
 11	i	O	O	-
 12	1935	O	O	-
 13	.	O	O	-
@@ -193631,7 +193631,7 @@
 7	ettertraktet	O	O	-
 8	enn	O	O	-
 9	en	O	O	-
-10	Kelly-veske	-	B-DRV	-
+10	Kelly-veske	O	B-DRV	-
 11	forblir	O	O	-
 12	likevel	O	O	-
 13	en	O	O	-
@@ -193648,7 +193648,7 @@
 24	Jane	B-PER	B-PER	-
 25	Birkin	I-PER	I-PER	-
 26	møtte	O	O	-
-27	Hermès-direktør	-	B-DRV	-
+27	Hermès-direktør	O	B-DRV	-
 28	og	O	O	-
 29	Emile	B-PER	B-PER	-
 30	Hermès'	I-PER	I-PER	-
@@ -193698,7 +193698,7 @@
 16	Lindsay	B-PER	B-PER	-
 17	Lohan	I-PER	I-PER	-
 18	med	O	O	-
-19	Birkin-vesker	-	B-DRV	-
+19	Birkin-vesker	O	B-DRV	-
 20	over	O	O	-
 21	armen	O	O	-
 22	.	O	O	-
@@ -193710,7 +193710,7 @@
 3	,	O	O	-
 4	som	O	O	-
 5	eier	O	O	-
-6	Hermès-vesker	-	B-DRV	-
+6	Hermès-vesker	O	B-DRV	-
 7	for	O	O	-
 8	nesten	O	O	-
 9	femten	O	O	-
@@ -194944,7 +194944,7 @@
 5	du	O	O	-
 6	lese	O	O	-
 7	om	O	O	-
-8	Maradona-kirken	-	B-DRV	-
+8	Maradona-kirken	O	B-DRV	-
 9	i	O	O	-
 10	Argentina	B-LOC	B-GPE_LOC	-
 11	,	O	O	-
@@ -195781,7 +195781,7 @@
 4	røyk	O	O	-
 5	ut	O	O	-
 6	av	O	O	-
-7	Pall	-	B-DRV	-
+7	Pall	O	B-DRV	-
 8	Mall-pakka	O	I-DRV	-
 9	.	O	O	-
 
@@ -195933,7 +195933,7 @@
 8	på	O	O	-
 9	den	O	O	-
 10	første	O	O	-
-11	IK	-	B-DRV	-
+11	IK	O	B-DRV	-
 12	Sturehov-treningen	O	I-DRV	-
 13	.	O	O	-
 
@@ -197262,7 +197262,7 @@
 1	En	O	O	-
 2	nesten	O	O	-
 3	tom	O	O	-
-4	Chianti-vin	-	B-DRV	-
+4	Chianti-vin	O	B-DRV	-
 5	,	O	O	-
 6	en	O	O	-
 7	enda	O	O	-
@@ -197283,7 +197283,7 @@
 22	pass	O	O	-
 23	,	O	O	-
 24	noen	O	O	-
-25	Ebba	-	B-DRV	-
+25	Ebba	O	B-DRV	-
 26	Grön-album	O	I-DRV	-
 27	.	O	O	-
 
@@ -197805,7 +197805,7 @@
 3	vet	O	O	-
 4	du	O	O	-
 5	er	O	O	-
-6	Milan-fan	-	B-DRV	-
+6	Milan-fan	O	B-DRV	-
 7	.	O	O	-
 
 # sent_id = 010713
@@ -197826,7 +197826,7 @@
 1	Martin	B-PER	B-PER	-
 2	Bengtsson	I-PER	I-PER	-
 3	ble	O	O	-
-4	Inter-fan	-	B-DRV	-
+4	Inter-fan	O	B-DRV	-
 5	i	O	O	-
 6	en	O	O	-
 7	fei	O	O	-
@@ -198306,7 +198306,7 @@
 5	han	O	O	-
 6	liniment	O	O	-
 7	og	O	O	-
-8	Armaniparfyme	-	B-DRV	-
+8	Armaniparfyme	O	B-DRV	-
 9	.	O	O	-
 
 # sent_id = 010748
@@ -198352,7 +198352,7 @@
 7	dro	O	O	-
 8	på	O	O	-
 9	meg	O	O	-
-10	Interdrakta	-	B-DRV	-
+10	Interdrakta	O	B-DRV	-
 11	gjorde	O	O	-
 12	at	O	O	-
 13	jeg	O	O	-
@@ -202487,7 +202487,7 @@
 11	Me	O	I-PROD	-
 12	»	O	O	-
 13	i	O	O	-
-14	Xbox	-	B-DRV	-
+14	Xbox	O	B-DRV	-
 15	360-syngespillet	O	I-DRV	-
 16	«	O	O	-
 17	Lips	O	B-PROD	-
@@ -202783,7 +202783,7 @@
 25	,	O	O	-
 26	trenger	O	O	-
 27	ikke	O	O	-
-28	Xbox	-	B-DRV	-
+28	Xbox	O	B-DRV	-
 29	360-eiere	O	I-DRV	-
 30	lenger	O	O	-
 31	være	O	O	-
@@ -202911,7 +202911,7 @@
 13	i	O	O	-
 14	de	O	O	-
 15	sedvanlige	O	O	-
-16	Paracet-tablettene	-	B-DRV	-
+16	Paracet-tablettene	O	B-DRV	-
 17	her	O	O	-
 18	til	O	O	-
 19	lands	O	O	-
@@ -203352,7 +203352,7 @@
 4	kallet	O	O	-
 5	for	O	O	-
 6	actiontørste	O	O	-
-7	PS3-eiere	-	B-DRV	-
+7	PS3-eiere	O	B-DRV	-
 
 # newpar
 # sent_id = 011097
@@ -203376,7 +203376,7 @@
 2	dette	O	O	-
 3	intervjuet	O	O	-
 4	med	O	O	-
-5	Insomniac-sjef	-	B-DRV	-
+5	Insomniac-sjef	O	B-DRV	-
 6	Ted	B-PER	B-PER	-
 7	Price	I-PER	I-PER	-
 8	forteller	O	O	-
@@ -203394,7 +203394,7 @@
 1	Da	O	O	-
 2	det	O	O	-
 3	første	O	O	-
-4	«	-	B-DRV	-
+4	«	O	B-DRV	-
 5	Resistance	O	I-DRV	-
 6	»	O	I-DRV	-
 7	-spillet	O	I-DRV	-
@@ -203585,7 +203585,7 @@
 36	av	O	O	-
 37	de	O	O	-
 38	flotteste	O	O	-
-39	PS3-spillene	-	B-DRV	-
+39	PS3-spillene	O	B-DRV	-
 40	hittil	O	O	-
 41	utgitt	O	O	-
 42	.	O	O	-
@@ -203687,7 +203687,7 @@
 5	i	O	O	-
 6	det	O	O	-
 7	første	O	O	-
-8	«	-	B-DRV	-
+8	«	O	B-DRV	-
 9	Resistance	O	I-DRV	-
 10	»	O	I-DRV	-
 11	-spillet	O	I-DRV	-
@@ -203854,7 +203854,7 @@
 17	kallet	O	O	-
 18	for	O	O	-
 19	actiontørste	O	O	-
-20	PlayStation	-	B-DRV	-
+20	PlayStation	O	B-DRV	-
 21	3-eiere	O	I-DRV	-
 22	.	O	O	-
 
@@ -203925,7 +203925,7 @@
 10	var	O	O	-
 11	svært	O	O	-
 12	lidenskapelige	O	O	-
-13	Nintendo-fans	-	B-DRV	-
+13	Nintendo-fans	O	B-DRV	-
 14	nå	O	O	-
 15	må	O	O	-
 16	se	O	O	-
@@ -204048,7 +204048,7 @@
 22	og	O	O	-
 23	veiving	O	O	-
 24	med	O	O	-
-25	Wii-kontrollerne	-	B-DRV	-
+25	Wii-kontrollerne	O	B-DRV	-
 26	.	O	O	-
 
 # sent_id = 011125
@@ -204143,7 +204143,7 @@
 10	når	O	O	-
 11	den	O	O	-
 12	tegneserieaktige	O	O	-
-13	Mii-grafikken	-	B-DRV	-
+13	Mii-grafikken	O	B-DRV	-
 14	ledsages	O	O	-
 15	av	O	O	-
 16	midibasert	O	O	-
@@ -204162,7 +204162,7 @@
 # text = Tenk at «Mario»-skaper Shigeru Miyamoto står bak dette.
 1	Tenk	O	O	-
 2	at	O	O	-
-3	«	-	B-DRV	-
+3	«	O	B-DRV	-
 4	Mario	O	I-DRV	-
 5	»	O	I-DRV	-
 6	-skaper	O	I-DRV	-
@@ -204387,7 +204387,7 @@
 13	med	O	O	-
 14	den	O	O	-
 15	årlige	O	O	-
-16	«	-	B-DRV	-
+16	«	O	B-DRV	-
 17	Need	O	I-DRV	-
 18	for	O	I-DRV	-
 19	Speed	O	I-DRV	-
@@ -204657,7 +204657,7 @@
 2	du	O	O	-
 3	spilt	O	O	-
 4	tidligere	O	O	-
-5	«	-	B-DRV	-
+5	«	O	B-DRV	-
 6	Need	O	I-DRV	-
 7	for	O	I-DRV	-
 8	Speed	O	I-DRV	-
@@ -204793,7 +204793,7 @@
 
 # sent_id = 011164
 # text = Ipswich-fansen, rivalene til Fashanus gamle klubb Norwich, synger den lite hyggelige supportersangen «He's gay, he's dead, he's hanging in the shed, Fashanu, Fashanu».
-1	Ipswich-fansen	-	B-DRV	-
+1	Ipswich-fansen	O	B-DRV	-
 2	,	O	O	-
 3	rivalene	O	O	-
 4	til	O	O	-
@@ -205927,7 +205927,7 @@
 1	Vi	O	O	-
 2	rusler	O	O	-
 3	gjennom	O	O	-
-4	London-mørket	-	B-DRV	-
+4	London-mørket	O	B-DRV	-
 5	.	O	O	-
 
 # sent_id = 011239
@@ -209328,7 +209328,7 @@
 
 # sent_id = 011457
 # text = Ex-Wimbledon-spilleren, nå forretningsmann, tv-personlighet og venn av popstjerner, er dømt for kampfiksing.
-1	Ex-Wimbledon-spilleren	-	B-DRV	-
+1	Ex-Wimbledon-spilleren	O	B-DRV	-
 2	,	O	O	-
 3	nå	O	O	-
 4	forretningsmann	O	O	-
@@ -210659,7 +210659,7 @@
 1	Ta	O	O	-
 2	Phil	B-PER	B-PER	-
 3	Scolari	I-PER	I-PER	-
-4	Chelsea-manageren	-	B-DRV	-
+4	Chelsea-manageren	O	B-DRV	-
 5	som	O	O	-
 6	har	O	O	-
 7	sagt	O	O	-
@@ -211119,7 +211119,7 @@
 2	Cissé	I-PER	I-PER	-
 3	ble	O	O	-
 4	som	O	O	-
-5	Liverpool-spiller	-	B-DRV	-
+5	Liverpool-spiller	O	B-DRV	-
 6	anbefalt	O	O	-
 7	å	O	O	-
 8	ikke	O	O	-
@@ -211235,7 +211235,7 @@
 8	ferie	O	O	-
 9	med	O	O	-
 10	en	O	O	-
-11	Chelsea-kompis	-	B-DRV	-
+11	Chelsea-kompis	O	B-DRV	-
 12	.	O	O	-
 
 # sent_id = 011580
@@ -211490,7 +211490,7 @@
 1	Alan	B-PER	B-PER	-
 2	Smith	I-PER	I-PER	-
 3	,	O	O	-
-4	Arsenal-kjempen	-	B-DRV	-
+4	Arsenal-kjempen	O	B-DRV	-
 5	som	O	O	-
 6	nå	O	O	-
 7	er	O	O	-
@@ -211966,7 +211966,7 @@
 # text = Ledestjernen i Tea Party-bevegelsen, Michele Bachmann, er en av dem.
 1	Ledestjernen	O	O	-
 2	i	O	O	-
-3	Tea	-	B-DRV	-
+3	Tea	O	B-DRV	-
 4	Party-bevegelsen	O	I-DRV	-
 5	,	O	O	-
 6	Michele	B-PER	B-PER	-
@@ -212009,7 +212009,7 @@
 9	Republikanerne	B-ORG	B-ORG	-
 10	og	O	O	-
 11	spesielt	O	O	-
-12	Tea	-	B-DRV	-
+12	Tea	O	B-DRV	-
 13	Party-bevegelsen	O	I-DRV	-
 14	som	O	O	-
 15	formidler	O	O	-
@@ -213663,7 +213663,7 @@
 9	et	O	O	-
 10	stort	O	O	-
 11	europeisk	O	O	-
-12	Nato-land	-	B-DRV	-
+12	Nato-land	O	B-DRV	-
 13	,	O	O	-
 14	som	O	O	-
 15	sier	O	O	-
@@ -213737,7 +213737,7 @@
 21	forsvaret	O	O	-
 22	i	O	O	-
 23	europeiske	O	O	-
-24	Nato-land	-	B-DRV	-
+24	Nato-land	O	B-DRV	-
 25	:	O	O	-
 
 # sent_id = 011703
@@ -214980,7 +214980,7 @@
 
 # sent_id = 011758
 # text = LO-krav innfridd før valget
-1	LO-krav	-	B-DRV	-
+1	LO-krav	O	B-DRV	-
 2	innfridd	O	O	-
 3	før	O	O	-
 4	valget	O	O	-
@@ -215059,7 +215059,7 @@
 # text = Dermed opplever LO-general Byrkjeflot å få flere av sine viktigste krav for neste periode innfridd allerede før valget er overstått.
 1	Dermed	O	O	-
 2	opplever	O	O	-
-3	LO-general	-	B-DRV	-
+3	LO-general	O	B-DRV	-
 4	Byrkjeflot	B-PER	B-PER	-
 5	å	O	O	-
 6	få	O	O	-
@@ -215489,7 +215489,7 @@
 19	lokalvalget	O	O	-
 20	,	O	O	-
 21	sier	O	O	-
-22	KrF-leder	-	B-DRV	-
+22	KrF-leder	O	B-DRV	-
 23	Knut	B-PER	B-PER	-
 24	Arild	I-PER	I-PER	-
 25	Hareide	I-PER	I-PER	-
@@ -215619,7 +215619,7 @@
 27	gjøre	O	O	-
 28	,	O	O	-
 29	sier	O	O	-
-30	KrF-lederen	-	B-DRV	-
+30	KrF-lederen	O	B-DRV	-
 31	.	O	O	-
 
 # sent_id = 011787
@@ -216173,7 +216173,7 @@
 13	i	O	O	-
 14	Sør-Afrika	B-LOC	B-GPE_LOC	-
 15	etter	O	O	-
-16	Apartheid-regimets	-	B-DRV	-
+16	Apartheid-regimets	O	B-DRV	-
 17	fall	O	O	-
 18	,	O	O	-
 19	sier	O	O	-
@@ -216640,7 +216640,7 @@
 12	åpen	O	O	-
 13	hånd	O	O	-
 14	i	O	O	-
-15	Lazio-svingen	-	B-DRV	-
+15	Lazio-svingen	O	B-DRV	-
 16	,	O	O	-
 17	altså	O	O	-
 18	en	O	O	-
@@ -218876,7 +218876,7 @@
 9	eller	O	O	-
 10	offisielt	O	O	-
 11	nektet	O	O	-
-12	Gaddafi-ister	-	B-DRV	-
+12	Gaddafi-ister	O	B-DRV	-
 13	en	O	O	-
 14	framtidig	O	O	-
 15	rolle	O	O	-
@@ -219159,7 +219159,7 @@
 12	bidra	O	O	-
 13	til	O	O	-
 14	at	O	O	-
-15	pro-Gaddafi-motstanden	-	B-DRV	-
+15	pro-Gaddafi-motstanden	O	B-DRV	-
 16	mot	O	O	-
 17	opprøret	O	O	-
 18	går	O	O	-
@@ -219213,7 +219213,7 @@
 10	frykten	O	O	-
 11	for	O	O	-
 12	en	O	O	-
-13	Nato-støttet	-	B-DRV	-
+13	Nato-støttet	O	B-DRV	-
 14	libysk	O	O	-
 15	styrke	O	O	-
 16	.	O	O	-
@@ -219413,7 +219413,7 @@
 11	lojalister	O	O	-
 12	,	O	O	-
 13	mens	O	O	-
-14	pro-Gaddafi-opprørerne	-	B-DRV	-
+14	pro-Gaddafi-opprørerne	O	B-DRV	-
 15	i	O	O	-
 16	sin	O	O	-
 17	tur	O	O	-
@@ -219902,7 +219902,7 @@
 1	I	O	O	-
 2	andre	O	O	-
 3	sterke	O	O	-
-4	Sp-fylker	-	B-DRV	-
+4	Sp-fylker	O	B-DRV	-
 5	som	O	O	-
 6	Hedmark	B-LOC	B-GPE_LOC	-
 7	og	O	O	-
@@ -220227,7 +220227,7 @@
 20	streken	O	O	-
 21	,	O	O	-
 22	sier	O	O	-
-23	Fritt	-	B-DRV	-
+23	Fritt	O	B-DRV	-
 24	Ord-styreleder	O	I-DRV	-
 25	og	O	O	-
 26	tidligere	O	O	-
@@ -220534,7 +220534,7 @@
 2	Men	O	O	-
 3	Høyesterett	B-ORG	B-ORG	-
 4	frifant	O	O	-
-5	Boot	-	B-DRV	-
+5	Boot	O	B-DRV	-
 6	Boys-medlem	O	I-DRV	-
 7	Terje	B-PER	B-PER	-
 8	Sjølie	I-PER	I-PER	-
@@ -220812,7 +220812,7 @@
 21	i	O	O	-
 22	debatten	O	O	-
 23	om	O	O	-
-24	Muhammed-karikaturene	-	B-DRV	-
+24	Muhammed-karikaturene	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 012047
@@ -223883,7 +223883,7 @@
 # newpar
 # sent_id = 012186
 # text = LO-leder Roar Flåthen åpner nå for å ta KrF inn i den rødgrønne varmen - dersom Knut Arild Hareide vil.
-1	LO-leder	-	B-DRV	-
+1	LO-leder	O	B-DRV	-
 2	Roar	B-PER	B-PER	-
 3	Flåthen	I-PER	I-PER	-
 4	åpner	O	O	-
@@ -223913,7 +223913,7 @@
 
 # sent_id = 012188
 # text = LO-leder Roar Flaathen ser på KrF som en naturlig samarbeids partner i kampen mot privatisering.
-1	LO-leder	-	B-DRV	-
+1	LO-leder	O	B-DRV	-
 2	Roar	B-PER	B-PER	-
 3	Flaathen	I-PER	I-PER	-
 4	ser	O	O	-
@@ -223948,7 +223948,7 @@
 # text = Som første LO-leder åpner nå Flåthen for samarbeid mellom de rødgrønne og KrF.
 1	Som	O	O	-
 2	første	O	O	-
-3	LO-leder	-	B-DRV	-
+3	LO-leder	O	B-DRV	-
 4	åpner	O	O	-
 5	nå	O	O	-
 6	Flåthen	B-PER	B-PER	-
@@ -224011,7 +224011,7 @@
 12	konkurranseutsetting	O	O	-
 13	ute	O	O	-
 14	i	O	O	-
-15	Kommune-Norge	-	B-DRV	-
+15	Kommune-Norge	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 012194
@@ -224038,7 +224038,7 @@
 # sent_id = 012195
 # text = Og LO-lederen er ikke fremmed for at partiet kan ta plass i den rødgrønne regjeringen etter 2013.
 1	Og	O	O	-
-2	LO-lederen	-	B-DRV	-
+2	LO-lederen	O	B-DRV	-
 3	er	O	O	-
 4	ikke	O	O	-
 5	fremmed	O	O	-
@@ -224109,7 +224109,7 @@
 # sent_id = 012199
 # text = Sentrale Ap-politikere som Trond Giske og Jonas Gahr Støre har lenge flørtet med tanken om å ta KrF inn i den rødgrønne alliansen for å isolere Høyre og Frp politisk.
 1	Sentrale	O	O	-
-2	Ap-politikere	-	B-DRV	-
+2	Ap-politikere	O	B-DRV	-
 3	som	O	O	-
 4	Trond	B-PER	B-PER	-
 5	Giske	I-PER	I-PER	-
@@ -224515,7 +224515,7 @@
 2	for	O	O	-
 3	Rødt	B-ORG	B-ORG	-
 4	og	O	O	-
-5	LO-leder	-	B-DRV	-
+5	LO-leder	O	B-DRV	-
 6	i	O	O	-
 7	Trondheim	B-LOC	B-GPE_LOC	-
 8	,	O	O	-
@@ -224527,7 +224527,7 @@
 14	tilfreds	O	O	-
 15	med	O	O	-
 16	at	O	O	-
-17	LO-leder	-	B-DRV	-
+17	LO-leder	O	B-DRV	-
 18	Roar	B-PER	B-PER	-
 19	Flåthen	I-PER	I-PER	-
 20	inviterer	O	O	-
@@ -224947,7 +224947,7 @@
 5	for	O	O	-
 6	Rødt	B-ORG	B-ORG	-
 7	og	O	O	-
-8	LO-leder	-	B-DRV	-
+8	LO-leder	O	B-DRV	-
 9	i	O	O	-
 10	Trondheim	B-LOC	B-GPE_LOC	-
 11	,	O	O	-
@@ -224956,7 +224956,7 @@
 14	noe	O	O	-
 15	om	O	O	-
 16	at	O	O	-
-17	LO-leder	-	B-DRV	-
+17	LO-leder	O	B-DRV	-
 18	Roar	B-PER	B-PER	-
 19	Flåthen	I-PER	I-PER	-
 20	i	O	O	-
@@ -225631,7 +225631,7 @@
 9	ut	O	O	-
 10	av	O	O	-
 11	disse	O	O	-
-12	Facebook-gruppene	-	B-DRV	-
+12	Facebook-gruppene	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 012264
@@ -225687,7 +225687,7 @@
 3	teller	O	O	-
 4	deres	O	O	-
 5	lukkede	O	O	-
-6	Facebookgruppe	-	B-DRV	-
+6	Facebookgruppe	O	B-DRV	-
 7	nå	O	O	-
 8	1233	O	O	-
 9	medlemmer	O	O	-
@@ -236363,7 +236363,7 @@
 
 # sent_id = 012781
 # text = Svalbard-området er uten sammenlikning Norges største og mest urørte villmarksområde.
-1	Svalbard-området	-	B-DRV	-
+1	Svalbard-området	O	B-DRV	-
 2	er	O	O	-
 3	uten	O	O	-
 4	sammenlikning	O	O	-
@@ -237348,7 +237348,7 @@
 
 # sent_id = 012822
 # text = Svalbardnaturen er gjennomgående lite forurenset sammenlignet med fastlandet.
-1	Svalbardnaturen	-	B-DRV	-
+1	Svalbardnaturen	O	B-DRV	-
 2	er	O	O	-
 3	gjennomgående	O	O	-
 4	lite	O	O	-
@@ -237845,7 +237845,7 @@
 25	endelig	O	O	-
 26	løsning	O	O	-
 27	på	O	O	-
-28	Svalbard-spørsmålet	-	B-DRV	-
+28	Svalbard-spørsmålet	O	B-DRV	-
 29	i	O	O	-
 30	lys	O	O	-
 31	av	O	O	-
@@ -240997,7 +240997,7 @@
 
 # sent_id = 013002
 # text = Sysselmannsbestillingen ble omorganisert 1 januar 1997, og har nå en særskilt miljøvernavdeling med syv faste stillinger en miljøvernleder, tre naturvernkonsulenter og tre kulturminnekonsulenter.
-1	Sysselmannsbestillingen	-	B-DRV	-
+1	Sysselmannsbestillingen	O	B-DRV	-
 2	ble	O	O	-
 3	omorganisert	O	O	-
 4	1	O	O	-
@@ -242177,7 +242177,7 @@
 
 # sent_id = 013063
 # text = Jan Mayen-området er en viktig kasteplass for flere selarter, og en rekke hval finnes i farvannet.
-1	Jan	-	B-DRV	-
+1	Jan	O	B-DRV	-
 2	Mayen-området	O	I-DRV	-
 3	er	O	O	-
 4	en	O	O	-
@@ -242296,7 +242296,7 @@
 13	som	O	O	-
 14	skjer	O	O	-
 15	utenfor	O	O	-
-16	Jan	-	B-DRV	-
+16	Jan	O	B-DRV	-
 17	Mayen-området	O	I-DRV	-
 18	.	O	O	-
 
@@ -242737,7 +242737,7 @@
 9	1959	O	O	-
 10	til	O	O	-
 11	navigasjonssystemet	O	O	-
-12	LORAN-kjeden	-	B-DRV	-
+12	LORAN-kjeden	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 013094
@@ -242964,7 +242964,7 @@
 12	den	O	O	-
 13	meteorologiske	O	O	-
 14	/	O	O	-
-15	LORAN-stasjonen	-	B-DRV	-
+15	LORAN-stasjonen	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 013107
@@ -244380,7 +244380,7 @@
 # sent_id = 013176
 # text = Kollektiv Hødd-svikt
 1	Kollektiv	O	O	-
-2	Hødd-svikt	-	B-DRV	-
+2	Hødd-svikt	O	B-DRV	-
 
 # sent_id = 013177
 # text = Hødd må igjen belage seg på å spille sesongens siste kamp med kniven på strupen.
@@ -244785,7 +244785,7 @@
 9	mål	O	O	-
 10	etter	O	O	-
 11	at	O	O	-
-12	Hødd-back	-	B-DRV	-
+12	Hødd-back	O	B-DRV	-
 13	Per	B-PER	B-PER	-
 14	Otto	I-PER	I-PER	-
 15	Ringstad	I-PER	I-PER	-
@@ -244880,7 +244880,7 @@
 3	kampstart	O	O	-
 4	fikk	O	O	-
 5	overrakt	O	O	-
-6	Hødd-supporternes	-	B-DRV	-
+6	Hødd-supporternes	O	B-DRV	-
 7	pokal	O	O	-
 8	som	O	O	-
 9	årets	O	O	-
@@ -244985,7 +244985,7 @@
 17	poeng	O	O	-
 18	på	O	O	-
 19	høsttung	O	O	-
-20	Høddvoll-matte	-	B-DRV	-
+20	Høddvoll-matte	O	B-DRV	-
 21	.	O	O	-
 
 # sent_id = 013214
@@ -245078,7 +245078,7 @@
 3	fortsatte	O	O	-
 4	seiersfesten	O	O	-
 5	for	O	O	-
-6	Vika-jentene	-	B-DRV	-
+6	Vika-jentene	O	B-DRV	-
 7	.	O	O	-
 
 # newpar
@@ -245157,7 +245157,7 @@
 36	sa	O	O	-
 37	en	O	O	-
 38	lettet	O	O	-
-39	Vika-trener	-	B-DRV	-
+39	Vika-trener	O	B-DRV	-
 40	Gunnar	B-PER	B-PER	-
 41	Hagen	I-PER	I-PER	-
 42	etter	O	O	-
@@ -245825,7 +245825,7 @@
 12	kampen	O	O	-
 13	,	O	O	-
 14	sier	O	O	-
-15	Volda-trener	-	B-DRV	-
+15	Volda-trener	O	B-DRV	-
 16	Roy	B-PER	B-PER	-
 17	Inge	I-PER	I-PER	-
 18	Råheim	I-PER	I-PER	-
@@ -245904,7 +245904,7 @@
 12	divisjons-debuten	O	O	-
 13	,	O	O	-
 14	jublet	O	O	-
-15	Stordal-spillerne	-	B-DRV	-
+15	Stordal-spillerne	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 013268
@@ -245984,7 +245984,7 @@
 1	Gir	O	O	-
 2	seg	O	O	-
 3	som	O	O	-
-4	AaFK-trener	-	B-DRV	-
+4	AaFK-trener	O	B-DRV	-
 
 # sent_id = 013273
 # text = Geir Hansen skulle opprinnelig trene AaFK ut 2002-sesongen, men gir seg allerede etter årets sesong.
@@ -246015,7 +246015,7 @@
 4	bevarte	O	O	-
 5	hemmeligheten	O	O	-
 6	fikk	O	O	-
-7	AaFK-spillerne	-	B-DRV	-
+7	AaFK-spillerne	O	B-DRV	-
 8	vite	O	O	-
 9	mandag	O	O	-
 10	kveld	O	O	-
@@ -246927,7 +246927,7 @@
 4	din	O	O	-
 5	sorti	O	O	-
 6	som	O	O	-
-7	AaFK-trener	-	B-DRV	-
+7	AaFK-trener	O	B-DRV	-
 8	?	O	O	-
 
 # sent_id = 013316
@@ -247057,7 +247057,7 @@
 4	din	O	O	-
 5	etterfølger	O	O	-
 6	som	O	O	-
-7	AaFK-trener	-	B-DRV	-
+7	AaFK-trener	O	B-DRV	-
 8	?	O	O	-
 
 # sent_id = 013322
@@ -247118,7 +247118,7 @@
 # sent_id = 013324
 # text = Dersom AaFK-ledelsen ønsker å fortsette med samme spillestil som nå, tror jeg at klubben må lete utenfor Sunnmøres grenser etter sin nye trener.
 1	Dersom	O	O	-
-2	AaFK-ledelsen	-	B-DRV	-
+2	AaFK-ledelsen	O	B-DRV	-
 3	ønsker	O	O	-
 4	å	O	O	-
 5	fortsette	O	O	-
@@ -247152,7 +247152,7 @@
 5	seg	O	O	-
 6	med	O	O	-
 7	mer	O	O	-
-8	Drillo-inspirert	-	B-DRV	-
+8	Drillo-inspirert	O	B-DRV	-
 9	fotball	O	O	-
 10	kan	O	O	-
 11	eksempelvis	O	O	-
@@ -247259,7 +247259,7 @@
 
 # sent_id = 013331
 # text = Tippeligatrener
-1	Tippeligatrener	-	B-DRV	-
+1	Tippeligatrener	O	B-DRV	-
 
 # sent_id = 013332
 # text = - Jeg velger å gi meg som heltidsansatt A-lagstrener nå, men jeg tror helt sikkert at dette kun er snakk om en kjærkommen pause.
@@ -247418,7 +247418,7 @@
 5	du	O	O	-
 6	gjort	O	O	-
 7	som	O	O	-
-8	AaFK-trener	-	B-DRV	-
+8	AaFK-trener	O	B-DRV	-
 9	,	O	O	-
 10	føler	O	O	-
 11	du	O	O	-
@@ -248231,7 +248231,7 @@
 4	funnet	O	O	-
 5	ut	O	O	-
 6	at	O	O	-
-7	Lånke-revyens	-	B-DRV	-
+7	Lånke-revyens	O	B-DRV	-
 8	representanter	O	O	-
 9	hadde	O	O	-
 10	festivalens	O	O	-
@@ -248634,7 +248634,7 @@
 # sent_id = 013394
 # text = I Pan Fish-hovedkvarter på St. Olavs plass i Ålesund er tempoet høyt.
 1	I	O	O	-
-2	Pan	-	B-DRV	-
+2	Pan	O	B-DRV	-
 3	Fish-hovedkvarter	O	I-DRV	-
 4	på	O	O	-
 5	St.	B-LOC	B-LOC	-
@@ -249312,7 +249312,7 @@
 8	godt	O	O	-
 9	over	O	O	-
 10	100	O	O	-
-11	Pan-millionærer	-	B-DRV	-
+11	Pan-millionærer	O	B-DRV	-
 12	.	O	O	-
 
 # newpar
@@ -249436,7 +249436,7 @@
 # text = Den tidligere Tomrefjord- og Vestnes Varfjell-spilleren har med ekspressfart spilt seg inn på eliteserielagets første-ellever, men er altså uaktuell i kveldens kamp mot Lillestrøm fordi MFK-ledelsen har ilagt ham bot og en kamps karantene.
 1	Den	O	O	-
 2	tidligere	O	O	-
-3	Tomrefjord-	-	B-DRV	-
+3	Tomrefjord-	O	B-DRV	-
 4	og	O	I-DRV	-
 5	Vestnes	O	I-DRV	-
 6	Varfjell-spilleren	O	I-DRV	-
@@ -249460,7 +249460,7 @@
 24	mot	O	O	-
 25	Lillestrøm	B-ORG	B-ORG	-
 26	fordi	O	O	-
-27	MFK-ledelsen	-	B-DRV	-
+27	MFK-ledelsen	O	B-DRV	-
 28	har	O	O	-
 29	ilagt	O	O	-
 30	ham	O	O	-
@@ -249577,7 +249577,7 @@
 # text = Han erkjenner MFK-ledelsens rett til å påtale ufordelaktig framferd og har respekt for at klubben ønsker å sette standard for hva som skal tolereres.
 1	Han	O	O	-
 2	erkjenner	O	O	-
-3	MFK-ledelsens	-	B-DRV	-
+3	MFK-ledelsens	O	B-DRV	-
 4	rett	O	O	-
 5	til	O	O	-
 6	å	O	O	-
@@ -249794,7 +249794,7 @@
 17	som	O	O	-
 18	arbeidstaker	O	O	-
 19	og	O	O	-
-20	MFK-ledelsen	-	B-DRV	-
+20	MFK-ledelsen	O	B-DRV	-
 21	som	O	O	-
 22	arbeidsgivere	O	O	-
 23	ha	O	O	-
@@ -249846,7 +249846,7 @@
 3	jeg	O	O	-
 4	også	O	O	-
 5	at	O	O	-
-6	MFK-ledelsen	-	B-DRV	-
+6	MFK-ledelsen	O	B-DRV	-
 7	for	O	O	-
 8	ettertida	O	O	-
 9	ikke	O	O	-
@@ -249917,7 +249917,7 @@
 1	Brakstad	B-PER	B-PER	-
 2	spent	O	O	-
 3	på	O	O	-
-4	LSK-kampen	-	B-DRV	-
+4	LSK-kampen	O	B-DRV	-
 
 # sent_id = 013460
 # text = - Jeg er spent på hvordan alt bråket vil gjøre seg utslag under kampen i dag.
@@ -249955,7 +249955,7 @@
 12	oppstyret	O	O	-
 13	,	O	O	-
 14	forteller	O	O	-
-15	MFK-trener	-	B-DRV	-
+15	MFK-trener	O	B-DRV	-
 16	Erik	B-PER	B-PER	-
 17	Brakstad	I-PER	I-PER	-
 18	.	O	O	-
@@ -250336,7 +250336,7 @@
 6	en	O	O	-
 7	tydelig	O	O	-
 8	skuffet	O	O	-
-9	AaFK-trener	-	B-DRV	-
+9	AaFK-trener	O	B-DRV	-
 10	,	O	O	-
 11	Geir	B-PER	B-PER	-
 12	Hansen	I-PER	I-PER	-
@@ -250426,7 +250426,7 @@
 21	Frank	B-PER	B-PER	-
 22	Mathiesen	I-PER	I-PER	-
 23	i	O	O	-
-24	AaFK-målet	-	B-DRV	-
+24	AaFK-målet	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 013484
@@ -250442,7 +250442,7 @@
 9	og	O	O	-
 10	gjøre	O	O	-
 11	før	O	O	-
-12	Stranda-angriperne	-	B-DRV	-
+12	Stranda-angriperne	O	B-DRV	-
 13	hadde	O	O	-
 14	kommet	O	O	-
 15	til	O	O	-
@@ -250560,7 +250560,7 @@
 4	ikke	O	O	-
 5	folk	O	O	-
 6	foran	O	O	-
-7	Stranda-målet	-	B-DRV	-
+7	Stranda-målet	O	B-DRV	-
 8	fort	O	O	-
 9	nok	O	O	-
 10	,	O	O	-
@@ -250647,7 +250647,7 @@
 3	lot	O	O	-
 4	de	O	O	-
 5	taktiske	O	O	-
-6	Stranda-spillere	-	B-DRV	-
+6	Stranda-spillere	O	B-DRV	-
 7	trekke	O	O	-
 8	ned	O	O	-
 9	tempoet	O	O	-
@@ -250668,7 +250668,7 @@
 24	av	O	O	-
 25	en	O	O	-
 26	kompakt	O	O	-
-27	Stranda-mur	-	B-DRV	-
+27	Stranda-mur	O	B-DRV	-
 28	når	O	O	-
 29	de	O	O	-
 30	nærmet	O	O	-
@@ -250794,7 +250794,7 @@
 17	headet	O	O	-
 18	utagbart	O	O	-
 19	forbi	O	O	-
-20	Stranda-keeper	-	B-DRV	-
+20	Stranda-keeper	O	B-DRV	-
 21	Thomas	B-PER	B-PER	-
 22	Hove	I-PER	I-PER	-
 23	.	O	O	-
@@ -250872,7 +250872,7 @@
 24	gled	O	O	-
 25	forbi	O	O	-
 26	to	O	O	-
-27	Stranda-forsvarere	-	B-DRV	-
+27	Stranda-forsvarere	O	B-DRV	-
 28	.	O	O	-
 
 # sent_id = 013504
@@ -250910,7 +250910,7 @@
 6	det	O	O	-
 7	duket	O	O	-
 8	for	O	O	-
-9	Erling	-	B-DRV	-
+9	Erling	O	B-DRV	-
 10	Ytterland-scoring	O	I-DRV	-
 11	.	O	O	-
 
@@ -251796,7 +251796,7 @@
 4	er	O	O	-
 5	jazzveteraner	O	O	-
 6	og	O	O	-
-7	Molde-patrioter	-	B-DRV	-
+7	Molde-patrioter	O	B-DRV	-
 8	,	O	O	-
 9	har	O	O	-
 10	spesielt	O	O	-
@@ -252353,7 +252353,7 @@
 # text = Arbeidet med ROS-analyse foregår i disse dager.
 1	Arbeidet	O	O	-
 2	med	O	O	-
-3	ROS-analyse	-	B-DRV	-
+3	ROS-analyse	O	B-DRV	-
 4	foregår	O	O	-
 5	i	O	O	-
 6	disse	O	O	-
@@ -252368,7 +252368,7 @@
 4	eneste	O	O	-
 5	rehabiliteringstilbudet	O	O	-
 6	til	O	O	-
-7	MS-pasienter	-	B-DRV	-
+7	MS-pasienter	O	B-DRV	-
 8	i	O	O	-
 9	fylket	O	O	-
 10	.	O	O	-
@@ -252456,7 +252456,7 @@
 # text = Hvis ikke ROS-analysene slår sprekker i administrasjonens plan, vil de 14 plassene forsvinne, og bli delvis erstatta med fire senger på Ålesund sjukehus og fire på Molde sjukehus.
 1	Hvis	O	O	-
 2	ikke	O	O	-
-3	ROS-analysene	-	B-DRV	-
+3	ROS-analysene	O	B-DRV	-
 4	slår	O	O	-
 5	sprekker	O	O	-
 6	i	O	O	-
@@ -252871,7 +252871,7 @@
 3	snøen	O	O	-
 4	ned	O	O	-
 5	over	O	O	-
-6	Oslo-området	-	B-DRV	-
+6	Oslo-området	O	B-DRV	-
 7	tidligere	O	O	-
 8	i	O	O	-
 9	uka	O	O	-
@@ -253604,7 +253604,7 @@
 # sent_id = 013666
 # text = Åpnet Farstad-simulator
 1	Åpnet	O	O	-
-2	Farstad-simulator	-	B-DRV	-
+2	Farstad-simulator	O	B-DRV	-
 
 # newpar
 # sent_id = 013667
@@ -253728,7 +253728,7 @@
 33	administrerende	O	O	-
 34	direktør	O	O	-
 35	i	O	O	-
-36	Ålesund-rederiet	-	B-DRV	-
+36	Ålesund-rederiet	O	B-DRV	-
 37	,	O	O	-
 38	Karl-Johan	B-PER	B-PER	-
 39	Bakken	I-PER	I-PER	-
@@ -254387,7 +254387,7 @@
 6	Nordsjøen	B-LOC	B-LOC	-
 7	med	O	O	-
 8	billige	O	O	-
-9	Kina-båter	-	B-DRV	-
+9	Kina-båter	O	B-DRV	-
 10	og	O	O	-
 11	utenlandske	O	O	-
 12	sjøfolk	O	O	-
@@ -255137,7 +255137,7 @@
 2	sendte	O	O	-
 3	overgrepsbilder	O	O	-
 4	til	O	O	-
-5	Helgelandsmann	-	B-DRV	-
+5	Helgelandsmann	O	B-DRV	-
 6	.	O	O	-
 
 # sent_id = 013752
@@ -256666,7 +256666,7 @@
 3	mer	O	O	-
 4	oppmerksomhet	O	O	-
 5	en	O	O	-
-6	nobelpris-utdelingen	-	B-DRV	-
+6	nobelpris-utdelingen	O	B-DRV	-
 7	,	O	O	-
 8	sier	O	O	-
 9	Grimstad	B-PER	B-PER	-
@@ -257267,7 +257267,7 @@
 # sent_id = 013870
 # text = Selv « en-kamp-av-gangen » -Thorir Hergeirsson må innrømme at den listen er hyggelig.
 1	Selv	O	O	-
-2	«	-	B-DRV	-
+2	«	O	B-DRV	-
 3	en-kamp-av-gangen	O	I-DRV	-
 4	»	O	I-DRV	-
 5	-	O	I-DRV	-
@@ -257520,7 +257520,7 @@
 
 # sent_id = 013887
 # text = Steinkjer-hopperen var bare 1,8 poeng fra seieren i fredagens renn i Harrachov.
-1	Steinkjer-hopperen	-	B-DRV	-
+1	Steinkjer-hopperen	O	B-DRV	-
 2	var	O	O	-
 3	bare	O	O	-
 4	1,8	O	O	-
@@ -257687,7 +257687,7 @@
 
 # sent_id = 013897
 # text = Hosle-hopperen ble nummer 23 i Tsjekkia fredag.
-1	Hosle-hopperen	-	B-DRV	-
+1	Hosle-hopperen	O	B-DRV	-
 2	ble	O	O	-
 3	nummer	O	O	-
 4	23	O	O	-
@@ -257760,7 +257760,7 @@
 15	usikre	O	O	-
 16	matforsyninger	O	O	-
 17	i	O	O	-
-18	Sahel-beltet	-	B-DRV	-
+18	Sahel-beltet	O	B-DRV	-
 19	i	O	O	-
 20	Vest-Afrika	B-LOC	B-GPE_LOC	-
 21	.	O	O	-
@@ -261718,7 +261718,7 @@
 2	forrige	O	O	-
 3	uke	O	O	-
 4	signaliserte	O	O	-
-5	SFT-direktør	-	B-DRV	-
+5	SFT-direktør	O	B-DRV	-
 6	Håvard	B-PER	B-PER	-
 7	Holm	I-PER	I-PER	-
 8	en	O	O	-
@@ -266548,7 +266548,7 @@
 5	å	O	O	-
 6	understreke	O	O	-
 7	at	O	O	-
-8	Kyoto-mekanismene	-	B-DRV	-
+8	Kyoto-mekanismene	O	B-DRV	-
 9	ikke	O	O	-
 10	skal	O	O	-
 11	komme	O	O	-
@@ -267269,7 +267269,7 @@
 58	for	O	O	-
 59	seg	O	O	-
 60	gjennom	O	O	-
-61	Kyoto-mekanismer	-	B-DRV	-
+61	Kyoto-mekanismer	O	B-DRV	-
 62	og	O	O	-
 63	tiltak	O	O	-
 64	i	O	O	-
@@ -268335,7 +268335,7 @@
 3	gjelder	O	O	-
 4	å	O	O	-
 5	oppfylle	O	O	-
-6	Kyoto-kravene	-	B-DRV	-
+6	Kyoto-kravene	O	B-DRV	-
 7	,	O	O	-
 8	har	O	O	-
 9	jo	O	O	-
@@ -270342,7 +270342,7 @@
 16	,	O	O	-
 17	samarbeidsavtaler	O	O	-
 18	med	O	O	-
-19	Schengen-landene	-	B-DRV	-
+19	Schengen-landene	O	B-DRV	-
 20	,	O	O	-
 21	og	O	O	-
 22	andre	O	O	-
@@ -270515,7 +270515,7 @@
 7	når	O	O	-
 8	det	O	O	-
 9	gjelder	O	O	-
-10	Telia-Telenor	-	B-DRV	-
+10	Telia-Telenor	O	B-DRV	-
 11	saken	O	I-DRV	-
 12	,	O	O	-
 13	at	O	O	-
@@ -277277,7 +277277,7 @@
 17	en	O	O	-
 18	stortingsmelding	O	O	-
 19	om	O	O	-
-20	Europa-politikken	-	B-DRV	-
+20	Europa-politikken	O	B-DRV	-
 21	.	O	O	-
 
 # sent_id = 014804
@@ -278602,7 +278602,7 @@
 3	føres	O	O	-
 4	en	O	O	-
 5	aktiv	O	O	-
-6	Europapolitikk	-	B-DRV	-
+6	Europapolitikk	O	B-DRV	-
 7	.	O	O	-
 
 # sent_id = 014887
@@ -279253,7 +279253,7 @@
 7	til	O	O	-
 8	minst	O	O	-
 9	gjennomsnittlig	O	O	-
-10	OECD-nivå	-	B-DRV	-
+10	OECD-nivå	O	B-DRV	-
 11	innen	O	O	-
 12	2005	O	O	-
 13	.	O	O	-
@@ -280461,7 +280461,7 @@
 1	Flere	O	O	-
 2	nyheter	O	O	-
 3	på	O	O	-
-4	Rampelys-forsiden	-	B-DRV	-
+4	Rampelys-forsiden	O	B-DRV	-
 5	!	O	O	-
 
 # sent_id = 014992
@@ -281077,7 +281077,7 @@
 
 # sent_id = 015022
 # text = Odd-trener Dag-Eilev Fagermo kan glise etter å ha snudd den dårlige trenden fra tidligere i sesongen.
-1	Odd-trener	-	B-DRV	-
+1	Odd-trener	O	B-DRV	-
 2	Dag-Eilev	B-PER	B-PER	-
 3	Fagermo	I-PER	I-PER	-
 4	kan	O	O	-
@@ -281356,7 +281356,7 @@
 27	oss	O	O	-
 28	,	O	O	-
 29	sa	O	O	-
-30	Odd-trener	-	B-DRV	-
+30	Odd-trener	O	B-DRV	-
 31	Dag-Eilev	B-PER	B-PER	-
 32	Fagermo	I-PER	I-PER	-
 33	til	O	O	-
@@ -281435,7 +281435,7 @@
 # text = Her jubler Odd-spillerne etter Torgeir Børvens matchvinnende scoring mot Strømsgodset i går.
 1	Her	O	O	-
 2	jubler	O	O	-
-3	Odd-spillerne	-	B-DRV	-
+3	Odd-spillerne	O	B-DRV	-
 4	etter	O	O	-
 5	Torgeir	B-PER	B-PER	-
 6	Børvens	I-PER	I-PER	-
@@ -281586,7 +281586,7 @@
 16	rekkevidde	O	O	-
 17	,	O	O	-
 18	tviler	O	O	-
-19	Odd-leiren	-	B-DRV	-
+19	Odd-leiren	O	B-DRV	-
 20	på	O	O	-
 21	at	O	O	-
 22	det	O	O	-
@@ -281716,7 +281716,7 @@
 # sent_id = 015052
 # text = Første PGA-triumf for Na
 1	Første	O	O	-
-2	PGA-triumf	-	B-DRV	-
+2	PGA-triumf	O	B-DRV	-
 3	for	O	O	-
 4	Na	B-PER	B-PER	-
 
@@ -281729,7 +281729,7 @@
 
 # sent_id = 015054
 # text = PGA-triumf for Na
-1	PGA-triumf	-	B-DRV	-
+1	PGA-triumf	O	B-DRV	-
 2	for	O	O	-
 3	Na	B-PER	B-PER	-
 
@@ -282338,7 +282338,7 @@
 
 # sent_id = 015093
 # text = "Portal"-skaper med nytt spill
-1	"	-	B-DRV	-
+1	"	O	B-DRV	-
 2	Portal	O	I-DRV	-
 3	"	O	I-DRV	-
 4	-skaper	O	I-DRV	-
@@ -282428,7 +282428,7 @@
 # text = Slik blir "A Game of Thrones"-rollespillet
 1	Slik	O	O	-
 2	blir	O	O	-
-3	"	-	B-DRV	-
+3	"	O	B-DRV	-
 4	A	O	I-DRV	-
 5	Game	O	I-DRV	-
 6	of	O	I-DRV	-
@@ -282471,7 +282471,7 @@
 
 # sent_id = 015100
 # text = Windows- og OS X-spillere vil oppleve at oppdateringen lastes ned automatisk via Steam.
-1	Windows-	-	B-DRV	-
+1	Windows-	O	B-DRV	-
 2	og	O	I-DRV	-
 3	OS	O	I-DRV	-
 4	X-spillere	O	I-DRV	-
@@ -283605,7 +283605,7 @@
 4	som	O	O	-
 5	ligger	O	O	-
 6	ved	O	O	-
-7	Lamu-halvøya	-	B-DRV	-
+7	Lamu-halvøya	O	B-DRV	-
 8	på	O	O	-
 9	den	O	O	-
 10	kenyanske	O	O	-
@@ -284000,7 +284000,7 @@
 
 # sent_id = 015191
 # text = Zuccarello-mål i Slovakia
-1	Zuccarello-mål	-	B-DRV	-
+1	Zuccarello-mål	O	B-DRV	-
 2	i	O	O	-
 3	Slovakia	B-LOC	B-GPE_LOC	-
 
@@ -284061,7 +284061,7 @@
 11	siste	O	O	-
 12	treningskamper	O	O	-
 13	før	O	O	-
-14	NHL-sesongen	-	B-DRV	-
+14	NHL-sesongen	O	B-DRV	-
 15	starter	O	O	-
 16	i	O	O	-
 17	Stockholm	B-LOC	B-GPE_LOC	-
@@ -284181,7 +284181,7 @@
 2	innleder	O	O	-
 3	Rangers	B-ORG	B-ORG	-
 4	sin	O	O	-
-5	NHL-sesong	-	B-DRV	-
+5	NHL-sesong	O	B-DRV	-
 6	mot	O	O	-
 7	Los	B-ORG	B-ORG	-
 8	Angeles	I-ORG	I-ORG	-
@@ -284200,7 +284200,7 @@
 6	seg	O	O	-
 7	,	O	O	-
 8	slo	O	O	-
-9	Rangers-trener	-	B-DRV	-
+9	Rangers-trener	O	B-DRV	-
 10	John	B-PER	B-PER	-
 11	Tortorella	I-PER	I-PER	-
 12	fast	O	O	-
@@ -284264,7 +284264,7 @@
 4	fjerne	O	O	-
 5	talsmann	O	O	-
 6	etter	O	O	-
-7	Torp-uttalelser	-	B-DRV	-
+7	Torp-uttalelser	O	B-DRV	-
 
 # sent_id = 015209
 # text = ... det kommer ikke Klanen til å gjøre
@@ -284358,7 +284358,7 @@
 18	Graff	I-PER	I-PER	-
 19	på	O	O	-
 20	sin	O	O	-
-21	Twitter-profil	-	B-DRV	-
+21	Twitter-profil	O	B-DRV	-
 22	søndag	O	O	-
 23	kveld	O	O	-
 24	.	O	O	-
@@ -284416,7 +284416,7 @@
 24	stadion	I-LOC	I-LOC	-
 25	,	O	O	-
 26	var	O	O	-
-27	VIF-supporterne	-	B-DRV	-
+27	VIF-supporterne	O	B-DRV	-
 28	langt	O	O	-
 29	fra	O	O	-
 30	stille	O	O	-
@@ -284874,7 +284874,7 @@
 2	forstår	O	O	-
 3	reaksjonene	O	O	-
 4	fra	O	O	-
-5	fotball-Norge	-	B-DRV	-
+5	fotball-Norge	O	B-DRV	-
 6	,	O	O	-
 7	og	O	O	-
 8	ikke	O	O	-
@@ -285006,7 +285006,7 @@
 8	sa	O	O	-
 9	han	O	O	-
 10	i	O	O	-
-11	TV	-	B-DRV	-
+11	TV	O	B-DRV	-
 12	2-studio	O	I-DRV	-
 13	søndag	O	O	-
 14	kveld	O	O	-
@@ -285057,7 +285057,7 @@
 26	føler	O	O	-
 27	,	O	O	-
 28	sier	O	O	-
-29	Vålerenga-kaptein	-	B-DRV	-
+29	Vålerenga-kaptein	O	B-DRV	-
 30	Kristofer	B-PER	B-PER	-
 31	Hæstad	I-PER	I-PER	-
 32	til	O	O	-
@@ -285639,7 +285639,7 @@
 # sent_id = 015288
 # text = Utenfor VG-huset henger fortsatt avissidene fra 22. juli.
 1	Utenfor	O	O	-
-2	VG-huset	-	B-DRV	-
+2	VG-huset	O	B-DRV	-
 3	henger	O	O	-
 4	fortsatt	O	O	-
 5	avissidene	O	O	-
@@ -285684,7 +285684,7 @@
 6	en	O	O	-
 7	video	O	O	-
 8	hvor	O	O	-
-9	Utøya-overlevende	-	B-DRV	-
+9	Utøya-overlevende	O	B-DRV	-
 10	Kristoffer	B-PER	B-PER	-
 11	Bergersen	I-PER	I-PER	-
 12	som	O	O	-
@@ -288297,7 +288297,7 @@
 19	mot	O	O	-
 20	regjeringskvartalet	O	O	-
 21	og	O	O	-
-22	AUF-leiren	-	B-DRV	-
+22	AUF-leiren	O	B-DRV	-
 23	på	O	O	-
 24	Utøya	B-LOC	B-LOC	-
 25	at	O	O	-
@@ -289166,7 +289166,7 @@
 # sent_id = 015484
 # text = Etter Gaza-demonstrasjonene i Oslo for drøyt tre år siden, kalte politiet inn til tilsvarende bekymringssamtaler.
 1	Etter	O	O	-
-2	Gaza-demonstrasjonene	-	B-DRV	-
+2	Gaza-demonstrasjonene	O	B-DRV	-
 3	i	O	O	-
 4	Oslo	B-LOC	B-GPE_LOC	-
 5	for	O	O	-
@@ -289501,7 +289501,7 @@
 1	Men	O	O	-
 2	samtidig	O	O	-
 3	måtte	O	O	-
-4	AKPerne	-	B-DRV	-
+4	AKPerne	O	B-DRV	-
 5	få	O	O	-
 6	argumentere	O	O	-
 7	så	O	O	-
@@ -289999,7 +289999,7 @@
 2	,	O	O	-
 3	nynazistene	O	O	-
 4	og	O	O	-
-5	AKPerne	-	B-DRV	-
+5	AKPerne	O	B-DRV	-
 6	kan	O	O	-
 7	forsøke	O	O	-
 8	å	O	O	-
@@ -290045,7 +290045,7 @@
 1	Krekars	B-PER	B-PER	-
 2	datter	O	O	-
 3	mener	O	O	-
-4	Venstre-Raja	-	B-DRV	-
+4	Venstre-Raja	O	B-DRV	-
 5	godtar	O	O	-
 6	angrep	O	O	-
 7	på	O	O	-
@@ -290114,7 +290114,7 @@
 
 # sent_id = 015542
 # text = Venstre-politikeren Abid Raja er selv mulism, men deler ikke oppfatningen Krekars datter har av prosessen mot faren.
-1	Venstre-politikeren	-	B-DRV	-
+1	Venstre-politikeren	O	B-DRV	-
 2	Abid	B-PER	B-PER	-
 3	Raja	I-PER	I-PER	-
 4	er	O	O	-
@@ -290195,7 +290195,7 @@
 8	mot	O	O	-
 9	blant	O	O	-
 10	annet	O	O	-
-11	Høyre-leder	-	B-DRV	-
+11	Høyre-leder	O	B-DRV	-
 12	Erna	B-PER	B-PER	-
 13	Solberg	I-PER	I-PER	-
 14	.	O	O	-
@@ -290275,7 +290275,7 @@
 30	med	O	O	-
 31	blant	O	O	-
 32	andre	O	O	-
-33	Frp-leder	-	B-DRV	-
+33	Frp-leder	O	B-DRV	-
 34	Siv	B-PER	B-PER	-
 35	Jensen	I-PER	I-PER	-
 36	.	O	O	-
@@ -290355,7 +290355,7 @@
 
 # sent_id = 015555
 # text = Venstre-politiker Abid Q. Raja forstår at det kan være vanskelig for en datter å se faren i media i de sammenhengene mullah Krekar har blitt gjenstand for søkelys.
-1	Venstre-politiker	-	B-DRV	-
+1	Venstre-politiker	O	B-DRV	-
 2	Abid	B-PER	B-PER	-
 3	Q.	I-PER	I-PER	-
 4	Raja	I-PER	I-PER	-
@@ -290447,7 +290447,7 @@
 9	og	O	O	-
 10	sier	O	O	-
 11	at	O	O	-
-12	Frp-lederen	-	B-DRV	-
+12	Frp-lederen	O	B-DRV	-
 13	aldri	O	O	-
 14	har	O	O	-
 15	beskyldt	O	O	-
@@ -290716,7 +290716,7 @@
 7	faktum	O	O	-
 8	,	O	O	-
 9	sier	O	O	-
-10	Venstre-politikeren	-	B-DRV	-
+10	Venstre-politikeren	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 015572
@@ -290812,7 +290812,7 @@
 # newpar
 # sent_id = 015578
 # text = Ipad-meny
-1	Ipad-meny	-	B-DRV	-
+1	Ipad-meny	O	B-DRV	-
 
 # newpar
 # sent_id = 015579
@@ -290982,7 +290982,7 @@
 
 # sent_id = 015595
 # text = Ipad-meny:
-1	Ipad-meny	-	B-DRV	-
+1	Ipad-meny	O	B-DRV	-
 2	:	O	O	-
 
 # sent_id = 015596
@@ -291011,7 +291011,7 @@
 22	kommer	O	O	-
 23	fra	O	O	-
 24	på	O	O	-
-25	Ipaden	-	B-DRV	-
+25	Ipaden	O	B-DRV	-
 26	.	O	O	-
 
 # sent_id = 015597
@@ -291634,7 +291634,7 @@
 5	fikk	O	O	-
 6	tilreisende	O	O	-
 7	til	O	O	-
-8	Atlanterhavsøyene	-	B-DRV	-
+8	Atlanterhavsøyene	O	B-DRV	-
 9	stort	O	O	-
 10	sett	O	O	-
 11	tilbud	O	O	-
